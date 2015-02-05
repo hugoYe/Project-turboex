@@ -1,0 +1,3100 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.DialogFragment
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentActivity
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.ListFragment
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip
+android.support.v4.view.PagerTabStrip: PagerTabStrip(android.content.Context)
+android.support.v4.view.PagerTabStrip: PagerTabStrip(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: void setPadding(int,int,int,int)
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTitleStrip
+android.support.v4.view.PagerTitleStrip: PagerTitleStrip(android.content.Context)
+android.support.v4.view.PagerTitleStrip: PagerTitleStrip(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setTextSize(int,float)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.ViewPager
+android.support.v4.view.ViewPager: ViewPager(android.content.Context)
+android.support.v4.view.ViewPager: ViewPager(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: void setCurrentItem(int,boolean)
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager$LayoutParams
+android.support.v4.view.ViewPager$LayoutParams: ViewPager$LayoutParams(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+cn.moppo.fontstore.flipfont.FontParcelable
+cn.moppo.fontstore.flipfont.FontParcelable: android.os.Parcelable$Creator CREATOR
+com.android.launcher.framework.LauncherModel
+com.android.launcher.framework.LauncherProvider
+com.android.launcher.framework.LauncherProvider: LauncherProvider()
+com.coco.download.DownloadList$TYPE: com.coco.download.DownloadList$TYPE[] values()
+com.coco.download.DownloadList$TYPE: com.coco.download.DownloadList$TYPE valueOf(java.lang.String)
+com.coco.font.fontbox.FontPreviewActivity
+com.coco.font.fontbox.FontPreviewLocalActivity
+com.coco.font.fontbox.FontPreviewLocalActivity: FontPreviewLocalActivity()
+com.coco.pub.provider.PubContentProvider
+com.coco.theme.themebox.DownloadApkContentService
+com.coco.theme.themebox.DownloadApkContentService: DownloadApkContentService()
+com.coco.theme.themebox.MainActivity
+com.coco.theme.themebox.MainActivity: MainActivity()
+com.coco.theme.themebox.MainActivity$MessageReceiver
+com.coco.theme.themebox.PreViewGallery
+com.coco.theme.themebox.PreViewGallery: PreViewGallery(android.content.Context,android.util.AttributeSet)
+com.coco.theme.themebox.PreViewGallery: PreViewGallery(android.content.Context)
+com.coco.theme.themebox.PreViewGallery: PreViewGallery(android.content.Context,android.util.AttributeSet,int)
+com.coco.theme.themebox.PullToRefreshView
+com.coco.theme.themebox.PullToRefreshView: PullToRefreshView(android.content.Context,android.util.AttributeSet)
+com.coco.theme.themebox.PullToRefreshView: PullToRefreshView(android.content.Context)
+com.coco.theme.themebox.PullToRefreshView: void setOnHeaderRefreshListener(com.coco.theme.themebox.PullToRefreshView$OnHeaderRefreshListener)
+com.coco.theme.themebox.PullToRefreshView: void setOnFooterRefreshListener(com.coco.theme.themebox.PullToRefreshView$OnFooterRefreshListener)
+com.coco.theme.themebox.ThemeReceiver
+com.coco.theme.themebox.UIStaticsReceiver
+com.coco.theme.themebox.apprecommend.DownloadRecomdService
+com.coco.theme.themebox.apprecommend.DownloadRecomdService: DownloadRecomdService()
+com.coco.theme.themebox.apprecommend.LoadRecomandActivity
+com.coco.theme.themebox.apprecommend.LoadRecomandActivity: LoadRecomandActivity()
+com.coco.theme.themebox.apprecommend.MyProvider
+com.coco.theme.themebox.database.model.AddressType: com.coco.theme.themebox.database.model.AddressType[] values()
+com.coco.theme.themebox.database.model.AddressType: com.coco.theme.themebox.database.model.AddressType valueOf(java.lang.String)
+com.coco.theme.themebox.database.model.ApplicationType: com.coco.theme.themebox.database.model.ApplicationType[] values()
+com.coco.theme.themebox.database.model.ApplicationType: com.coco.theme.themebox.database.model.ApplicationType valueOf(java.lang.String)
+com.coco.theme.themebox.database.model.DownloadStatus: com.coco.theme.themebox.database.model.DownloadStatus[] values()
+com.coco.theme.themebox.database.model.DownloadStatus: com.coco.theme.themebox.database.model.DownloadStatus valueOf(java.lang.String)
+com.coco.theme.themebox.preview.ThemePreviewHotActivity
+com.coco.theme.themebox.preview.ThemePreviewHotActivity: ThemePreviewHotActivity()
+com.coco.theme.themebox.update.UpdateService
+com.coco.theme.themebox.util.DownType: com.coco.theme.themebox.util.DownType[] values()
+com.coco.theme.themebox.util.DownType: com.coco.theme.themebox.util.DownType valueOf(java.lang.String)
+com.coco.theme.themebox.util.DownloadEngineApkService
+com.coco.wallpaper.wallpaperbox.LiveWallpaperPreviewActivity
+com.coco.wallpaper.wallpaperbox.LiveWallpaperPreviewActivity: void onClick(android.view.View)
+com.coco.wallpaper.wallpaperbox.LockWallpaperPreview
+com.coco.wallpaper.wallpaperbox.LockWallpaperPreview: void onClick(android.view.View)
+com.coco.wallpaper.wallpaperbox.WallpaperPreviewActivity
+com.coco.wallpaper.wallpaperbox.WallpaperPreviewActivity: WallpaperPreviewActivity()
+com.coco.wallpaper.wallpaperbox.WallpaperPreviewActivity: void onClick(android.view.View)
+com.coco.widget.widgetbox.WidgetPreviewHotActivity
+com.coco.widget.widgetbox.WidgetPreviewHotActivity: WidgetPreviewHotActivity()
+com.cooee.launcher.AppWidgetResizeFrame
+com.cooee.launcher.BubbleTextView
+com.cooee.launcher.BubbleTextView: BubbleTextView(android.content.Context)
+com.cooee.launcher.BubbleTextView: BubbleTextView(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.BubbleTextView: BubbleTextView(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.BubbleTextView: void setTag(java.lang.Object)
+com.cooee.launcher.CellLayout
+com.cooee.launcher.CellLayout: CellLayout(android.content.Context)
+com.cooee.launcher.CellLayout: CellLayout(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.CellLayout: CellLayout(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.CellLayout: void setGridSize(int,int)
+com.cooee.launcher.CellLayout: void setFolderLeaveBehindCell(int,int)
+com.cooee.launcher.CellLayout: void setOnInterceptTouchListener(android.view.View$OnTouchListener)
+com.cooee.launcher.CellLayout: void setIsHotseat(boolean)
+com.cooee.launcher.CellLayout: void setTagToCellInfoForPoint(int,int)
+com.cooee.launcher.CellLayout: void setCellWidth(int)
+com.cooee.launcher.CellLayout: void setCellHeight(int)
+com.cooee.launcher.CellLayout: void setBackgroundAlphaMultiplier(float)
+com.cooee.launcher.CellLayout: void setBackgroundAlpha(float)
+com.cooee.launcher.CellLayout: void setShortcutAndWidgetAlpha(float)
+com.cooee.launcher.CellLayout: void setUseTempCoords(boolean)
+com.cooee.launcher.CellLayout$LayoutParams
+com.cooee.launcher.CellLayout$LayoutParams: CellLayout$LayoutParams(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.Cling
+com.cooee.launcher.Cling: Cling(android.content.Context)
+com.cooee.launcher.Cling: Cling(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.Cling: Cling(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.HandleView
+com.cooee.launcher.HandleView: HandleView(android.content.Context)
+com.cooee.launcher.HandleView: HandleView(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.HandleView: HandleView(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.InstallShortcutReceiver
+com.cooee.launcher.InstallShortcutReceiver: InstallShortcutReceiver()
+com.cooee.launcher.Launcher
+com.cooee.launcher.Launcher: Launcher()
+com.cooee.launcher.Launcher: void onClick(android.view.View)
+com.cooee.launcher.Launcher: void onClickSearchButton(android.view.View)
+com.cooee.launcher.Launcher: void onClickVoiceButton(android.view.View)
+com.cooee.launcher.Launcher: void onClickAllAppsButton(android.view.View)
+com.cooee.launcher.Launcher: void onTouchDownAllAppsButton(android.view.View)
+com.cooee.launcher.Launcher: void onClickAppMarketButton(android.view.View)
+com.cooee.launcher.Launcher: void dismissWorkspaceCling(android.view.View)
+com.cooee.launcher.Launcher: void dismissAllAppsCling(android.view.View)
+com.cooee.launcher.Launcher: void dismissFolderCling(android.view.View)
+com.cooee.launcher.Launcher$State: com.cooee.launcher.Launcher$State[] values()
+com.cooee.launcher.Launcher$State: com.cooee.launcher.Launcher$State valueOf(java.lang.String)
+com.cooee.launcher.LauncherAppState$APP_CHANNEL: com.cooee.launcher.LauncherAppState$APP_CHANNEL[] values()
+com.cooee.launcher.LauncherAppState$APP_CHANNEL: com.cooee.launcher.LauncherAppState$APP_CHANNEL valueOf(java.lang.String)
+com.cooee.launcher.LauncherAppWidgetHostView
+com.cooee.launcher.LauncherAppWidgetHostView: LauncherAppWidgetHostView(android.content.Context)
+com.cooee.launcher.LauncherApplication
+com.cooee.launcher.LauncherApplication: LauncherApplication()
+com.cooee.launcher.LauncherViewPropertyAnimator$Properties: com.cooee.launcher.LauncherViewPropertyAnimator$Properties[] values()
+com.cooee.launcher.LauncherViewPropertyAnimator$Properties: com.cooee.launcher.LauncherViewPropertyAnimator$Properties valueOf(java.lang.String)
+com.cooee.launcher.PreloadReceiver
+com.cooee.launcher.PreloadReceiver: PreloadReceiver()
+com.cooee.launcher.ShortcutAndWidgetContainer
+com.cooee.launcher.ShortcutAndWidgetContainer: ShortcutAndWidgetContainer(android.content.Context)
+com.cooee.launcher.ShortcutAndWidgetContainer: void setCellDimensions(int,int,int,int)
+com.cooee.launcher.ShortcutAndWidgetContainer: void setupLp(com.cooee.launcher.CellLayout$LayoutParams)
+com.cooee.launcher.SmoothPagedView
+com.cooee.launcher.SmoothPagedView: SmoothPagedView(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.SmoothPagedView: SmoothPagedView(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.StrokedTextView
+com.cooee.launcher.StrokedTextView: StrokedTextView(android.content.Context)
+com.cooee.launcher.StrokedTextView: StrokedTextView(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.StrokedTextView: StrokedTextView(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.UninstallShortcutReceiver
+com.cooee.launcher.UninstallShortcutReceiver: UninstallShortcutReceiver()
+com.cooee.launcher.UserInitializeReceiver
+com.cooee.launcher.UserInitializeReceiver: UserInitializeReceiver()
+com.cooee.launcher.WallpaperChooser
+com.cooee.launcher.WallpaperChooser: WallpaperChooser()
+com.cooee.launcher.WallpaperChooserDialogFragment
+com.cooee.launcher.WallpaperChooserDialogFragment: WallpaperChooserDialogFragment()
+com.cooee.launcher.Workspace
+com.cooee.launcher.Workspace: Workspace(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.Workspace: Workspace(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.Workspace: void setChildrenOutlineAlpha(float)
+com.cooee.launcher.Workspace: void setBackgroundAlpha(float)
+com.cooee.launcher.Workspace: void setFinalScrollForPageChange(int)
+com.cooee.launcher.Workspace: void setFinalTransitionTransform(com.cooee.launcher.CellLayout)
+com.cooee.launcher.Workspace$State: com.cooee.launcher.Workspace$State[] values()
+com.cooee.launcher.Workspace$State: com.cooee.launcher.Workspace$State valueOf(java.lang.String)
+com.cooee.launcher.Workspace$WallpaperVerticalOffset: com.cooee.launcher.Workspace$WallpaperVerticalOffset[] values()
+com.cooee.launcher.Workspace$WallpaperVerticalOffset: com.cooee.launcher.Workspace$WallpaperVerticalOffset valueOf(java.lang.String)
+com.cooee.launcher.appcollector.AppTransfer
+com.cooee.launcher.desktopedit.DesktopEditAddPage
+com.cooee.launcher.desktopedit.DesktopEditAddPage: DesktopEditAddPage(android.content.Context)
+com.cooee.launcher.desktopedit.DesktopEditEffectPage
+com.cooee.launcher.desktopedit.DesktopEditEffectPage: DesktopEditEffectPage(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.desktopedit.DesktopEditEffectPage: DesktopEditEffectPage(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.desktopedit.DesktopEditModeTabHost
+com.cooee.launcher.desktopedit.DesktopEditModeTabHost: DesktopEditModeTabHost(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.desktopedit.DesktopEditPage
+com.cooee.launcher.desktopedit.DesktopEditPage: DesktopEditPage(android.content.Context)
+com.cooee.launcher.desktopedit.DesktopEditPage: DesktopEditPage(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.desktopedit.DesktopEditPage: DesktopEditPage(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.desktopedit.DesktopEditThemePage
+com.cooee.launcher.desktopedit.DesktopEditThemePage: DesktopEditThemePage(android.content.Context)
+com.cooee.launcher.desktopedit.DesktopEditThemePage: DesktopEditThemePage(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.desktopedit.DesktopEditThemePage: DesktopEditThemePage(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.desktopedit.DesktopEditWallpaperPage
+com.cooee.launcher.desktopedit.DesktopEditWallpaperPage: DesktopEditWallpaperPage(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.desktopedit.DesktopEditWallpaperPage: DesktopEditWallpaperPage(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.desktopedit.TabAddContent
+com.cooee.launcher.desktopedit.TabAddContent: TabAddContent(android.content.Context)
+com.cooee.launcher.desktopedit.TabAddContent: TabAddContent(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.desktopedit.TabAddContent: TabAddContent(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.desktopedit.TabEffectContent
+com.cooee.launcher.desktopedit.TabEffectContent: TabEffectContent(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.desktopedit.TabEffectContent: TabEffectContent(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.desktopedit.TabThemeContent
+com.cooee.launcher.desktopedit.TabThemeContent: TabThemeContent(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.desktopedit.TabThemeContent: TabThemeContent(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.desktopedit.TabWallpaperContent
+com.cooee.launcher.desktopedit.TabWallpaperContent: TabWallpaperContent(android.content.Context)
+com.cooee.launcher.desktopedit.TabWallpaperContent: TabWallpaperContent(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.desktopedit.TabWallpaperContent: TabWallpaperContent(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.desktopsettings.AboutActivity
+com.cooee.launcher.desktopsettings.AboutActivity: AboutActivity()
+com.cooee.launcher.desktopsettings.AboutActivity: void onClick(android.view.View)
+com.cooee.launcher.desktopsettings.AppDrawerActivity
+com.cooee.launcher.desktopsettings.AppDrawerActivity: AppDrawerActivity()
+com.cooee.launcher.desktopsettings.AppDrawerActivity: void onClick(android.view.View)
+com.cooee.launcher.desktopsettings.DesktopSettingsActivity
+com.cooee.launcher.desktopsettings.DesktopSettingsActivity: DesktopSettingsActivity()
+com.cooee.launcher.desktopsettings.DesktopSettingsActivity: void onClick(android.view.View)
+com.cooee.launcher.desktopsettings.GestureActivity
+com.cooee.launcher.desktopsettings.GestureActivity: GestureActivity()
+com.cooee.launcher.desktopsettings.GestureActivity: void onClick(android.view.View)
+com.cooee.launcher.desktopsettings.IconsActivity
+com.cooee.launcher.desktopsettings.IconsActivity: IconsActivity()
+com.cooee.launcher.desktopsettings.IconsActivity: void onClick(android.view.View)
+com.cooee.launcher.desktopsettings.PrivacyNoticeActivity
+com.cooee.launcher.desktopsettings.PrivacyNoticeActivity: PrivacyNoticeActivity()
+com.cooee.launcher.desktopsettings.PrivacyNoticeActivity: void onClick(android.view.View)
+com.cooee.launcher.desktopsettings.ScreenActivity
+com.cooee.launcher.desktopsettings.ScreenActivity: ScreenActivity()
+com.cooee.launcher.desktopsettings.ScreenActivity: void onClick(android.view.View)
+com.cooee.launcher.desktopsettings.SystemActivity
+com.cooee.launcher.desktopsettings.SystemActivity: SystemActivity()
+com.cooee.launcher.desktopsettings.SystemActivity: void onClick(android.view.View)
+com.cooee.launcher.dockbar.Hotseat
+com.cooee.launcher.dockbar.Hotseat: Hotseat(android.content.Context)
+com.cooee.launcher.dockbar.Hotseat: Hotseat(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.dockbar.Hotseat: Hotseat(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.dockbar.Hotseat: void setup(com.cooee.launcher.Launcher)
+com.cooee.launcher.drawer.AccessibleTabView
+com.cooee.launcher.drawer.AccessibleTabView: AccessibleTabView(android.content.Context)
+com.cooee.launcher.drawer.AccessibleTabView: AccessibleTabView(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.drawer.AccessibleTabView: AccessibleTabView(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.drawer.AppsCustomizePagedView
+com.cooee.launcher.drawer.AppsCustomizePagedView: AppsCustomizePagedView(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.drawer.AppsCustomizePagedView: void setContentType(com.cooee.launcher.drawer.AppsCustomizePagedView$ContentType)
+com.cooee.launcher.drawer.AppsCustomizePagedView: void setup(com.cooee.launcher.Launcher,com.cooee.launcher.framework.drag.DragController)
+com.cooee.launcher.drawer.AppsCustomizePagedView: void setApps(java.util.ArrayList)
+com.cooee.launcher.drawer.AppsCustomizePagedView$ContentType: com.cooee.launcher.drawer.AppsCustomizePagedView$ContentType[] values()
+com.cooee.launcher.drawer.AppsCustomizePagedView$ContentType: com.cooee.launcher.drawer.AppsCustomizePagedView$ContentType valueOf(java.lang.String)
+com.cooee.launcher.drawer.AppsCustomizeTabHost
+com.cooee.launcher.drawer.AppsCustomizeTabHost: AppsCustomizeTabHost(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.drawer.AppsCustomizeTabHost: void setContentTypeImmediate(com.cooee.launcher.drawer.AppsCustomizePagedView$ContentType)
+com.cooee.launcher.drawer.AppsCustomizeTabHost: void setCurrentTabFromContent(com.cooee.launcher.drawer.AppsCustomizePagedView$ContentType)
+com.cooee.launcher.drawer.AsyncTaskPageData$Type: com.cooee.launcher.drawer.AsyncTaskPageData$Type[] values()
+com.cooee.launcher.drawer.AsyncTaskPageData$Type: com.cooee.launcher.drawer.AsyncTaskPageData$Type valueOf(java.lang.String)
+com.cooee.launcher.drawer.FocusOnlyTabWidget
+com.cooee.launcher.drawer.FocusOnlyTabWidget: FocusOnlyTabWidget(android.content.Context)
+com.cooee.launcher.drawer.FocusOnlyTabWidget: FocusOnlyTabWidget(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.drawer.FocusOnlyTabWidget: FocusOnlyTabWidget(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.drawer.FocusOnlyTabWidget: void setCurrentTabToFocusedTab()
+com.cooee.launcher.drawer.PagedViewCellLayout
+com.cooee.launcher.drawer.PagedViewCellLayout: PagedViewCellLayout(android.content.Context)
+com.cooee.launcher.drawer.PagedViewCellLayout: PagedViewCellLayout(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.drawer.PagedViewCellLayout: PagedViewCellLayout(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.drawer.PagedViewCellLayout: void setCellCount(int,int)
+com.cooee.launcher.drawer.PagedViewCellLayout: void setCellSize(int,int)
+com.cooee.launcher.drawer.PagedViewCellLayout: void setGap(int,int)
+com.cooee.launcher.drawer.PagedViewCellLayout$LayoutParams
+com.cooee.launcher.drawer.PagedViewCellLayout$LayoutParams: PagedViewCellLayout$LayoutParams(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.drawer.PagedViewCellLayoutChildren
+com.cooee.launcher.drawer.PagedViewCellLayoutChildren: PagedViewCellLayoutChildren(android.content.Context)
+com.cooee.launcher.drawer.PagedViewCellLayoutChildren: void setGap(int,int)
+com.cooee.launcher.drawer.PagedViewCellLayoutChildren: void setCellDimensions(int,int)
+com.cooee.launcher.drawer.PagedViewGridLayout
+com.cooee.launcher.drawer.PagedViewGridLayout: void setOnLayoutListener(java.lang.Runnable)
+com.cooee.launcher.drawer.PagedViewIcon
+com.cooee.launcher.drawer.PagedViewIcon: PagedViewIcon(android.content.Context)
+com.cooee.launcher.drawer.PagedViewIcon: PagedViewIcon(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.drawer.PagedViewIcon: PagedViewIcon(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.drawer.PagedViewIconCache$Key$Type: com.cooee.launcher.drawer.PagedViewIconCache$Key$Type[] values()
+com.cooee.launcher.drawer.PagedViewIconCache$Key$Type: com.cooee.launcher.drawer.PagedViewIconCache$Key$Type valueOf(java.lang.String)
+com.cooee.launcher.drawer.PagedViewWidget
+com.cooee.launcher.drawer.PagedViewWidget: PagedViewWidget(android.content.Context)
+com.cooee.launcher.drawer.PagedViewWidget: PagedViewWidget(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.drawer.PagedViewWidget: PagedViewWidget(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.drawer.PagedViewWidget: void setDeletePreviewsWhenDetachedFromWindow(boolean)
+com.cooee.launcher.drawer.PagedViewWidgetImageView
+com.cooee.launcher.drawer.PagedViewWidgetImageView: PagedViewWidgetImageView(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.drawer.PagedViewWithDraggableItems
+com.cooee.launcher.drawer.PagedViewWithDraggableItems: PagedViewWithDraggableItems(android.content.Context)
+com.cooee.launcher.drawer.PagedViewWithDraggableItems: PagedViewWithDraggableItems(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.drawer.PagedViewWithDraggableItems: PagedViewWithDraggableItems(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.drawer.PagedViewWithDraggableItems: void setDragSlopeThreshold(float)
+com.cooee.launcher.folder.Folder
+com.cooee.launcher.folder.Folder: Folder(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.folder.Folder: void setDragController(com.cooee.launcher.framework.drag.DragController)
+com.cooee.launcher.folder.Folder: void setOpenBg(android.view.View)
+com.cooee.launcher.folder.FolderEditText
+com.cooee.launcher.folder.FolderEditText: FolderEditText(android.content.Context)
+com.cooee.launcher.folder.FolderEditText: FolderEditText(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.folder.FolderEditText: FolderEditText(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.folder.FolderEditText: void setFolder(com.cooee.launcher.folder.Folder)
+com.cooee.launcher.folder.FolderIcon
+com.cooee.launcher.folder.FolderIcon: FolderIcon(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.folder.FolderIcon: FolderIcon(android.content.Context)
+com.cooee.launcher.folder.FolderIcon: void setTextVisible(boolean)
+com.cooee.launcher.framework.drag.DragLayer
+com.cooee.launcher.framework.drag.DragLayer: DragLayer(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.framework.drag.DragLayer: void setup(com.cooee.launcher.Launcher,com.cooee.launcher.framework.drag.DragController)
+com.cooee.launcher.framework.drag.DragView
+com.cooee.launcher.framework.drag.DragView: void setDragVisualizeOffset(android.graphics.Point)
+com.cooee.launcher.framework.drag.DragView: void setDragRegion(android.graphics.Rect)
+com.cooee.launcher.framework.drag.DragView: void setCrossFadeBitmap(android.graphics.Bitmap)
+com.cooee.launcher.framework.drag.DragView: void setColor(int)
+com.cooee.launcher.framework.drag.DragView: void setAlpha(float)
+com.cooee.launcher.pub.provider.TurboPubContentProvider
+com.cooee.launcher.pub.provider.TurboPubContentProvider: TurboPubContentProvider()
+com.cooee.launcher.theme.ThemeReceiver
+com.cooee.launcher.theme.ThemeReceiver: ThemeReceiver()
+com.cooee.launcher.trashcan.ButtonDropTarget
+com.cooee.launcher.trashcan.ButtonDropTarget: ButtonDropTarget(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.trashcan.ButtonDropTarget: ButtonDropTarget(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.trashcan.DeleteDropTarget
+com.cooee.launcher.trashcan.DeleteDropTarget: DeleteDropTarget(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.trashcan.DeleteDropTarget: DeleteDropTarget(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.trashcan.Trashcan
+com.cooee.launcher.trashcan.Trashcan: Trashcan(android.content.Context)
+com.cooee.launcher.trashcan.Trashcan: Trashcan(android.content.Context,android.util.AttributeSet)
+com.cooee.launcher.trashcan.Trashcan: Trashcan(android.content.Context,android.util.AttributeSet,int)
+com.cooee.launcher.trashcan.Trashcan: void setup(com.cooee.launcher.Launcher,com.cooee.launcher.framework.drag.DragController)
+com.cooee.uiengine.guiwidgets.PageIndicator
+com.cooee.uiengine.guiwidgets.PageIndicator: PageIndicator(android.content.Context)
+com.cooee.uiengine.guiwidgets.PageIndicator: PageIndicator(android.content.Context,android.util.AttributeSet)
+com.cooee.uiengine.guiwidgets.PageIndicator: PageIndicator(android.content.Context,android.util.AttributeSet,int)
+com.cooee.uiengine.guiwidgets.PageIndicator: void setActiveMarker(int)
+com.cooee.uiengine.guiwidgets.PageIndicatorMarker
+com.cooee.uiengine.guiwidgets.PageIndicatorMarker: PageIndicatorMarker(android.content.Context)
+com.cooee.uiengine.guiwidgets.PageIndicatorMarker: PageIndicatorMarker(android.content.Context,android.util.AttributeSet)
+com.cooee.uiengine.guiwidgets.PageIndicatorMarker: PageIndicatorMarker(android.content.Context,android.util.AttributeSet,int)
+com.cooee.uiengine.guiwidgets.PagedView
+com.cooee.uiengine.guiwidgets.PagedView: PagedView(android.content.Context)
+com.cooee.uiengine.guiwidgets.PagedView: PagedView(android.content.Context,android.util.AttributeSet)
+com.cooee.uiengine.guiwidgets.PagedView: PagedView(android.content.Context,android.util.AttributeSet,int)
+com.cooee.uiengine.guiwidgets.PagedView: void setPageSwitchListener(com.cooee.uiengine.guiwidgets.PagedView$PageSwitchListener)
+com.cooee.uiengine.guiwidgets.PagedView: void setPageLoopScroll(boolean)
+com.cooee.uiengine.guiwidgets.PagedView: void setCurrentPage(int)
+com.cooee.uiengine.guiwidgets.PagedView: void setOnLongClickListener(android.view.View$OnLongClickListener)
+com.cooee.uiengine.guiwidgets.PagedView: void setLayoutScale(float)
+com.cooee.uiengine.guiwidgets.PagedView: void setPageSpacing(int)
+com.cooee.uiengine.guiwidgets.PagedView: void setAllowLongPress(boolean)
+com.cooee.uiengine.guiwidgets.PagedView$SavedState
+com.cooee.uiengine.guiwidgets.PagedView$SavedState: android.os.Parcelable$Creator CREATOR
+com.cooee.uiengine.guiwidgets.PagedViewLinearLayout
+com.cooee.uiengine.guiwidgets.PagedViewLinearLayout: PagedViewLinearLayout(android.content.Context)
+com.cooee.uiengine.guiwidgets.PagedViewLinearLayout: PagedViewLinearLayout(android.content.Context,android.util.AttributeSet)
+com.cooee.uiengine.guiwidgets.PagedViewLinearLayout: PagedViewLinearLayout(android.content.Context,android.util.AttributeSet,int)
+com.cooee.uiengine.util.network.HttpDiscriptor$CONTENT_TYPE: com.cooee.uiengine.util.network.HttpDiscriptor$CONTENT_TYPE[] values()
+com.cooee.uiengine.util.network.HttpDiscriptor$CONTENT_TYPE: com.cooee.uiengine.util.network.HttpDiscriptor$CONTENT_TYPE valueOf(java.lang.String)
+com.cooee.uiengine.util.network.HttpDiscriptor$REQUEST_TYPE: com.cooee.uiengine.util.network.HttpDiscriptor$REQUEST_TYPE[] values()
+com.cooee.uiengine.util.network.HttpDiscriptor$REQUEST_TYPE: com.cooee.uiengine.util.network.HttpDiscriptor$REQUEST_TYPE valueOf(java.lang.String)
+com.cooeeui.brand.turbolauncher.R$anim
+com.cooeeui.brand.turbolauncher.R$anim: int fade
+com.cooeeui.brand.turbolauncher.R$anim: int fade_in_fast
+com.cooeeui.brand.turbolauncher.R$anim: int fade_out_fast
+com.cooeeui.brand.turbolauncher.R$anim: int hold
+com.cooeeui.brand.turbolauncher.R$anim: int star_scale_anim
+com.cooeeui.brand.turbolauncher.R$anim: int wc_progress_round
+com.cooeeui.brand.turbolauncher.R$array
+com.cooeeui.brand.turbolauncher.R$array: int extra_wallpapers
+com.cooeeui.brand.turbolauncher.R$array: int wallpapers
+com.cooeeui.brand.turbolauncher.R$attr
+com.cooeeui.brand.turbolauncher.R$attr: int cellCountX
+com.cooeeui.brand.turbolauncher.R$attr: int cellCountY
+com.cooeeui.brand.turbolauncher.R$attr: int cellHeight
+com.cooeeui.brand.turbolauncher.R$attr: int cellWidth
+com.cooeeui.brand.turbolauncher.R$attr: int className
+com.cooeeui.brand.turbolauncher.R$attr: int clingFocusedX
+com.cooeeui.brand.turbolauncher.R$attr: int clingFocusedY
+com.cooeeui.brand.turbolauncher.R$attr: int clsName
+com.cooeeui.brand.turbolauncher.R$attr: int container
+com.cooeeui.brand.turbolauncher.R$attr: int defaultScreen
+com.cooeeui.brand.turbolauncher.R$attr: int direction
+com.cooeeui.brand.turbolauncher.R$attr: int drawIdentifier
+com.cooeeui.brand.turbolauncher.R$attr: int dup
+com.cooeeui.brand.turbolauncher.R$attr: int heightGap
+com.cooeeui.brand.turbolauncher.R$attr: int icon
+com.cooeeui.brand.turbolauncher.R$attr: int image
+com.cooeeui.brand.turbolauncher.R$attr: int itemType
+com.cooeeui.brand.turbolauncher.R$attr: int key
+com.cooeeui.brand.turbolauncher.R$attr: int maxAppCellCountX
+com.cooeeui.brand.turbolauncher.R$attr: int maxAppCellCountY
+com.cooeeui.brand.turbolauncher.R$attr: int maxGap
+com.cooeeui.brand.turbolauncher.R$attr: int name
+com.cooeeui.brand.turbolauncher.R$attr: int packageName
+com.cooeeui.brand.turbolauncher.R$attr: int pageIndicator
+com.cooeeui.brand.turbolauncher.R$attr: int pageLayoutHeightGap
+com.cooeeui.brand.turbolauncher.R$attr: int pageLayoutPaddingBottom
+com.cooeeui.brand.turbolauncher.R$attr: int pageLayoutPaddingLeft
+com.cooeeui.brand.turbolauncher.R$attr: int pageLayoutPaddingRight
+com.cooeeui.brand.turbolauncher.R$attr: int pageLayoutPaddingTop
+com.cooeeui.brand.turbolauncher.R$attr: int pageLayoutWidthGap
+com.cooeeui.brand.turbolauncher.R$attr: int pageSpacing
+com.cooeeui.brand.turbolauncher.R$attr: int pkgname
+com.cooeeui.brand.turbolauncher.R$attr: int screen
+com.cooeeui.brand.turbolauncher.R$attr: int scrollIndicatorPaddingLeft
+com.cooeeui.brand.turbolauncher.R$attr: int scrollIndicatorPaddingRight
+com.cooeeui.brand.turbolauncher.R$attr: int sourceImageViewId
+com.cooeeui.brand.turbolauncher.R$attr: int spanX
+com.cooeeui.brand.turbolauncher.R$attr: int spanY
+com.cooeeui.brand.turbolauncher.R$attr: int strokeColor
+com.cooeeui.brand.turbolauncher.R$attr: int strokeTextColor
+com.cooeeui.brand.turbolauncher.R$attr: int strokeWidth
+com.cooeeui.brand.turbolauncher.R$attr: int title
+com.cooeeui.brand.turbolauncher.R$attr: int uri
+com.cooeeui.brand.turbolauncher.R$attr: int value
+com.cooeeui.brand.turbolauncher.R$attr: int widgetCellHeightGap
+com.cooeeui.brand.turbolauncher.R$attr: int widgetCellWidthGap
+com.cooeeui.brand.turbolauncher.R$attr: int widgetCountX
+com.cooeeui.brand.turbolauncher.R$attr: int widgetCountY
+com.cooeeui.brand.turbolauncher.R$attr: int widthGap
+com.cooeeui.brand.turbolauncher.R$attr: int windowSize
+com.cooeeui.brand.turbolauncher.R$attr: int x
+com.cooeeui.brand.turbolauncher.R$attr: int y
+com.cooeeui.brand.turbolauncher.R$bool
+com.cooeeui.brand.turbolauncher.R$bool: int allow_rotation
+com.cooeeui.brand.turbolauncher.R$bool: int config_largeHeap
+com.cooeeui.brand.turbolauncher.R$bool: int config_useCustomClings
+com.cooeeui.brand.turbolauncher.R$bool: int config_useDropTargetDownTransition
+com.cooeeui.brand.turbolauncher.R$bool: int config_workspaceFadeAdjacentScreens
+com.cooeeui.brand.turbolauncher.R$bool: int hotseat_transpose_layout_with_orientation
+com.cooeeui.brand.turbolauncher.R$bool: int is_large_screen
+com.cooeeui.brand.turbolauncher.R$color
+com.cooeeui.brand.turbolauncher.R$color: int appwidget_error_color
+com.cooeeui.brand.turbolauncher.R$color: int bubble_dark_background
+com.cooeeui.brand.turbolauncher.R$color: int delete_target_hover_tint
+com.cooeeui.brand.turbolauncher.R$color: int ds_about_title_color
+com.cooeeui.brand.turbolauncher.R$color: int ds_background_1_color
+com.cooeeui.brand.turbolauncher.R$color: int ds_font_1_color
+com.cooeeui.brand.turbolauncher.R$color: int ds_font_selector
+com.cooeeui.brand.turbolauncher.R$color: int ds_fontcolor_2
+com.cooeeui.brand.turbolauncher.R$color: int ds_fontcolor_2_click
+com.cooeeui.brand.turbolauncher.R$color: int ds_logobackgroudcolor
+com.cooeeui.brand.turbolauncher.R$color: int ds_logofontcolor
+com.cooeeui.brand.turbolauncher.R$color: int folder_items_text_color
+com.cooeeui.brand.turbolauncher.R$color: int fontcolor
+com.cooeeui.brand.turbolauncher.R$color: int info_target_hover_tint
+com.cooeeui.brand.turbolauncher.R$color: int umeng_fb_color_btn_normal
+com.cooeeui.brand.turbolauncher.R$color: int umeng_fb_color_btn_pressed
+com.cooeeui.brand.turbolauncher.R$color: int workspace_all_apps_and_delete_zone_text_color
+com.cooeeui.brand.turbolauncher.R$color: int workspace_all_apps_and_delete_zone_text_shadow_color
+com.cooeeui.brand.turbolauncher.R$color: int workspace_icon_text_color
+com.cooeeui.brand.turbolauncher.R$dimen
+com.cooeeui.brand.turbolauncher.R$dimen: int activity_horizontal_margin
+com.cooeeui.brand.turbolauncher.R$dimen: int activity_vertical_margin
+com.cooeeui.brand.turbolauncher.R$dimen: int all_apps_button_vertical_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int ampm_left
+com.cooeeui.brand.turbolauncher.R$dimen: int ampm_top
+com.cooeeui.brand.turbolauncher.R$dimen: int app_icon_drawable_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int app_icon_drawable_padding_land
+com.cooeeui.brand.turbolauncher.R$dimen: int app_icon_padding_top
+com.cooeeui.brand.turbolauncher.R$dimen: int app_icon_size
+com.cooeeui.brand.turbolauncher.R$dimen: int app_widget_preview_label_margin_left
+com.cooeeui.brand.turbolauncher.R$dimen: int app_widget_preview_label_margin_right
+com.cooeeui.brand.turbolauncher.R$dimen: int app_widget_preview_label_margin_top
+com.cooeeui.brand.turbolauncher.R$dimen: int app_widget_preview_padding_left
+com.cooeeui.brand.turbolauncher.R$dimen: int app_widget_preview_padding_right
+com.cooeeui.brand.turbolauncher.R$dimen: int app_widget_preview_padding_top
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_cell_height
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_cell_width
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_max_gap
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_pageLayoutHeightGap
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_pageLayoutPaddingBottom
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_pageLayoutPaddingLeft
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_pageLayoutPaddingRight
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_pageLayoutPaddingTop
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_pageLayoutWidthGap
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_tab_bar_height
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_tab_bar_margin_top
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_widget_cell_height_gap
+com.cooeeui.brand.turbolauncher.R$dimen: int apps_customize_widget_cell_width_gap
+com.cooeeui.brand.turbolauncher.R$dimen: int button_bar_height
+com.cooeeui.brand.turbolauncher.R$dimen: int button_bar_height_bottom_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int button_bar_height_plus_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int button_bar_height_top_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int button_bar_width_left_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int button_bar_width_right_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int cell_layout_bottom_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int cell_layout_bottom_padding_land
+com.cooeeui.brand.turbolauncher.R$dimen: int cell_layout_bottom_padding_port
+com.cooeeui.brand.turbolauncher.R$dimen: int cell_layout_left_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int cell_layout_left_padding_land
+com.cooeeui.brand.turbolauncher.R$dimen: int cell_layout_left_padding_port
+com.cooeeui.brand.turbolauncher.R$dimen: int cell_layout_right_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int cell_layout_right_padding_land
+com.cooeeui.brand.turbolauncher.R$dimen: int cell_layout_right_padding_port
+com.cooeeui.brand.turbolauncher.R$dimen: int cell_layout_top_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int cell_layout_top_padding_land
+com.cooeeui.brand.turbolauncher.R$dimen: int cell_layout_top_padding_port
+com.cooeeui.brand.turbolauncher.R$dimen: int clingPunchThroughGraphicCenterRadius
+com.cooeeui.brand.turbolauncher.R$dimen: int cling_text_block_offset_x
+com.cooeeui.brand.turbolauncher.R$dimen: int cling_text_block_offset_y
+com.cooeeui.brand.turbolauncher.R$dimen: int desktop_edit_container_height
+com.cooeeui.brand.turbolauncher.R$dimen: int desktop_edit_tab_height
+com.cooeeui.brand.turbolauncher.R$dimen: int desktop_edit_tab_text_size
+com.cooeeui.brand.turbolauncher.R$dimen: int desktop_edit_total_height
+com.cooeeui.brand.turbolauncher.R$dimen: int dragViewOffsetX
+com.cooeeui.brand.turbolauncher.R$dimen: int dragViewOffsetY
+com.cooeeui.brand.turbolauncher.R$dimen: int dragViewScale
+com.cooeeui.brand.turbolauncher.R$dimen: int drop_target_drag_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_2_title_1_fontsize
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_2_title_1_height
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_2_title_1_marginleft
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_2_title_2_fontsize
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_2_title_2_height
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_2_title_2_marginleft
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_2_title_2_marginright
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_2_title_2_marginrightgo
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_about_logo_marginbottom
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_about_logo_margintop
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_about_title_fontsize
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_about_title_fontsize_2
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_about_title_margintop_2
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_other_marginleft
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_other_marginleftleft
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_title_1_fontsize
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_title_1_height
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_title_1_marginleft
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_title_2_fontsize
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_title_2_height
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_title_2_marginleft
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_title_2_marginright
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_title_2_marginrightbutton
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_title_fontsize
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_title_height
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_title_marginleft
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_twoline_bigfontsize
+com.cooeeui.brand.turbolauncher.R$dimen: int ds_twoline_smallfontsize
+com.cooeeui.brand.turbolauncher.R$dimen: int folderClingMarginTop
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_add_button_hight
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_add_button_margintop
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_add_button_with
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_cell_height
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_cell_width
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_height_gap
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_icon_padding_top
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_name_margintop
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_name_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_name_size
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_paddingTop
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_pagerview_margintop
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_preview_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_preview_size
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_upper_half_part_page_indicator_margintop
+com.cooeeui.brand.turbolauncher.R$dimen: int folder_width_gap
+com.cooeeui.brand.turbolauncher.R$dimen: int gridItemHeight
+com.cooeeui.brand.turbolauncher.R$dimen: int gridItemWidth
+com.cooeeui.brand.turbolauncher.R$dimen: int gridProgressWidth
+com.cooeeui.brand.turbolauncher.R$dimen: int halving_left
+com.cooeeui.brand.turbolauncher.R$dimen: int halving_top
+com.cooeeui.brand.turbolauncher.R$dimen: int hotseat_cell_height
+com.cooeeui.brand.turbolauncher.R$dimen: int hotseat_cell_width
+com.cooeeui.brand.turbolauncher.R$dimen: int hotseat_height_gap
+com.cooeeui.brand.turbolauncher.R$dimen: int hotseat_width_gap
+com.cooeeui.brand.turbolauncher.R$dimen: int reveal_radius
+com.cooeeui.brand.turbolauncher.R$dimen: int scrollGridPaddingBottom
+com.cooeeui.brand.turbolauncher.R$dimen: int scroll_zone
+com.cooeeui.brand.turbolauncher.R$dimen: int shortcut_preview_padding_left
+com.cooeeui.brand.turbolauncher.R$dimen: int shortcut_preview_padding_right
+com.cooeeui.brand.turbolauncher.R$dimen: int shortcut_preview_padding_top
+com.cooeeui.brand.turbolauncher.R$dimen: int time_top
+com.cooeeui.brand.turbolauncher.R$dimen: int toolbar_button_horizontal_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int toolbar_button_vertical_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int trashcan_height
+com.cooeeui.brand.turbolauncher.R$dimen: int trashcan_padding_left
+com.cooeeui.brand.turbolauncher.R$dimen: int trashcan_padding_right
+com.cooeeui.brand.turbolauncher.R$dimen: int wallpaper_chooser_grid_height
+com.cooeeui.brand.turbolauncher.R$dimen: int wallpaper_chooser_grid_width
+com.cooeeui.brand.turbolauncher.R$dimen: int weathercode_top
+com.cooeeui.brand.turbolauncher.R$dimen: int widgetItemWidth
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_bottom_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_bottom_padding_land
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_bottom_padding_port
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_bottom_padding_port_navigationbar
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_cell_height
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_cell_height_land
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_cell_height_port
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_cell_height_port_navigationbar
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_cell_width
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_cell_width_land
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_cell_width_port
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_divider_padding_bottom
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_divider_padding_left
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_divider_padding_right
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_divider_padding_top
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_divider_width
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_height_gap
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_height_gap_land
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_height_gap_port
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_icon_text_size
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_left_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_left_padding_land
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_left_padding_port
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_max_gap
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_overscroll_drawable_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_page_spacing
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_right_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_right_padding_land
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_right_padding_port
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_spring_loaded_page_spacing
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_top_padding
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_top_padding_land
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_top_padding_port
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_width_gap
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_width_gap_land
+com.cooeeui.brand.turbolauncher.R$dimen: int workspace_width_gap_port
+com.cooeeui.brand.turbolauncher.R$drawable
+com.cooeeui.brand.turbolauncher.R$drawable: int aiqiyi
+com.cooeeui.brand.turbolauncher.R$drawable: int all_apps_button_icon
+com.cooeeui.brand.turbolauncher.R$drawable: int amazon
+com.cooeeui.brand.turbolauncher.R$drawable: int app
+com.cooeeui.brand.turbolauncher.R$drawable: int apps_customize_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int background
+com.cooeeui.brand.turbolauncher.R$drawable: int baidumap
+com.cooeeui.brand.turbolauncher.R$drawable: int baofeng
+com.cooeeui.brand.turbolauncher.R$drawable: int bar_big_downloading
+com.cooeeui.brand.turbolauncher.R$drawable: int bar_big_downloading_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int bar_big_pause
+com.cooeeui.brand.turbolauncher.R$drawable: int bar_big_pause_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int bar_downloading
+com.cooeeui.brand.turbolauncher.R$drawable: int bar_downloading_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int bar_pause
+com.cooeeui.brand.turbolauncher.R$drawable: int bar_pause_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int bg
+com.cooeeui.brand.turbolauncher.R$drawable: int bg_appwidget_error
+com.cooeeui.brand.turbolauncher.R$drawable: int bg_cling1
+com.cooeeui.brand.turbolauncher.R$drawable: int bg_cling2
+com.cooeeui.brand.turbolauncher.R$drawable: int bg_cling3
+com.cooeeui.brand.turbolauncher.R$drawable: int bg_cling4
+com.cooeeui.brand.turbolauncher.R$drawable: int bg_cling5
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_baosnow
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_bigrain
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_bigsnow
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_bingbao
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_cloudy
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_cloudyday
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_fog
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_jufeng
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_latecloudy
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_middlerain
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_middlesnow
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_rainshowerslate
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_reaching
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_sand
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_sleet
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_smallrain
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_smallsnow
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_snowshowerslate
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_sunny
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_thunderstorms
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_unknow
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_zhenrain
+com.cooeeui.brand.turbolauncher.R$drawable: int bigweather_zhensnow
+com.cooeeui.brand.turbolauncher.R$drawable: int blue_blue_downloadtheme_focus
+com.cooeeui.brand.turbolauncher.R$drawable: int blue_button
+com.cooeeui.brand.turbolauncher.R$drawable: int blue_button_focus
+com.cooeeui.brand.turbolauncher.R$drawable: int blue_downloadtheme
+com.cooeeui.brand.turbolauncher.R$drawable: int browser
+com.cooeeui.brand.turbolauncher.R$drawable: int btn_cling_normal
+com.cooeeui.brand.turbolauncher.R$drawable: int btn_cling_pressed
+com.cooeeui.brand.turbolauncher.R$drawable: int button_back
+com.cooeeui.brand.turbolauncher.R$drawable: int button_blue
+com.cooeeui.brand.turbolauncher.R$drawable: int button_del
+com.cooeeui.brand.turbolauncher.R$drawable: int button_delete
+com.cooeeui.brand.turbolauncher.R$drawable: int button_downlock
+com.cooeeui.brand.turbolauncher.R$drawable: int button_font_style
+com.cooeeui.brand.turbolauncher.R$drawable: int button_manager_effect
+com.cooeeui.brand.turbolauncher.R$drawable: int button_manager_font
+com.cooeeui.brand.turbolauncher.R$drawable: int button_manager_lock
+com.cooeeui.brand.turbolauncher.R$drawable: int button_manager_scene
+com.cooeeui.brand.turbolauncher.R$drawable: int button_manager_theme
+com.cooeeui.brand.turbolauncher.R$drawable: int button_manager_wallpaper
+com.cooeeui.brand.turbolauncher.R$drawable: int button_manager_widget
+com.cooeeui.brand.turbolauncher.R$drawable: int button_more
+com.cooeeui.brand.turbolauncher.R$drawable: int button_radiobutton
+com.cooeeui.brand.turbolauncher.R$drawable: int button_red
+com.cooeeui.brand.turbolauncher.R$drawable: int button_setting
+com.cooeeui.brand.turbolauncher.R$drawable: int button_share
+com.cooeeui.brand.turbolauncher.R$drawable: int button_underline
+com.cooeeui.brand.turbolauncher.R$drawable: int buttonflush
+com.cooeeui.brand.turbolauncher.R$drawable: int buttonsearch
+com.cooeeui.brand.turbolauncher.R$drawable: int buyed_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int calculator
+com.cooeeui.brand.turbolauncher.R$drawable: int calendar
+com.cooeeui.brand.turbolauncher.R$drawable: int callhistroy
+com.cooeeui.brand.turbolauncher.R$drawable: int camera
+com.cooeeui.brand.turbolauncher.R$drawable: int camera360
+com.cooeeui.brand.turbolauncher.R$drawable: int chaton
+com.cooeeui.brand.turbolauncher.R$drawable: int chrome
+com.cooeeui.brand.turbolauncher.R$drawable: int city
+com.cooeeui.brand.turbolauncher.R$drawable: int cleanmaster
+com.cooeeui.brand.turbolauncher.R$drawable: int clearlauncher
+com.cooeeui.brand.turbolauncher.R$drawable: int clearlauncher_en
+com.cooeeui.brand.turbolauncher.R$drawable: int cling
+com.cooeeui.brand.turbolauncher.R$drawable: int cling_button_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int clock
+com.cooeeui.brand.turbolauncher.R$drawable: int close
+com.cooeeui.brand.turbolauncher.R$drawable: int coco_launcher
+com.cooeeui.brand.turbolauncher.R$drawable: int cocolocker
+com.cooeeui.brand.turbolauncher.R$drawable: int cocologo
+com.cooeeui.brand.turbolauncher.R$drawable: int contactperson_icon
+com.cooeeui.brand.turbolauncher.R$drawable: int contacts
+com.cooeeui.brand.turbolauncher.R$drawable: int content_citywithtv
+com.cooeeui.brand.turbolauncher.R$drawable: int content_halving
+com.cooeeui.brand.turbolauncher.R$drawable: int current_c
+com.cooeeui.brand.turbolauncher.R$drawable: int current_f
+com.cooeeui.brand.turbolauncher.R$drawable: int custom_content_page
+com.cooeeui.brand.turbolauncher.R$drawable: int default_img
+com.cooeeui.brand.turbolauncher.R$drawable: int default_img_large
+com.cooeeui.brand.turbolauncher.R$drawable: int delete_focus
+com.cooeeui.brand.turbolauncher.R$drawable: int delete_normal
+com.cooeeui.brand.turbolauncher.R$drawable: int desksettings
+com.cooeeui.brand.turbolauncher.R$drawable: int divider_launcher_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int dot
+com.cooeeui.brand.turbolauncher.R$drawable: int dotoday
+com.cooeeui.brand.turbolauncher.R$drawable: int download
+com.cooeeui.brand.turbolauncher.R$drawable: int download_cancel
+com.cooeeui.brand.turbolauncher.R$drawable: int dropbox
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_about
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_about_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_abouticon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_aboutlogo
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_appbar
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_appbar_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_appbaricon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_appdrawer
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_appdrawer_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_appdrawericon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_back
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_back_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_backgroud_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_background_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_backicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_button_off
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_button_on
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_cutline
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_defaulticon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_doubleclick
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_doubleclick_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_doubleclickicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_gesture
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_gesture_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_gestureicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_go
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_goclick
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_goicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_icon
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_icon_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_iconicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_logo
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_palm
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_palm_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_palmicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_screen
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_screen_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_screenicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_setdefaultlaunchericon
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_setdefaultlaunchericon_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_singedown
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_singledown_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_singledownicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_singleup
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_singleup_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_singleupicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_system
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_system_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_systemicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_two_right_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twodown
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twodown_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twodownicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twoexpand
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twoexpand_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twoexpendicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twoleft
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twoleft_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twolefticon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_tworight
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_tworighticon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twotogether
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twotogether_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twotogethericon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twoup
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twoup_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_twoupicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_update
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_update_click
+com.cooeeui.brand.turbolauncher.R$drawable: int ds_updateicon_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int ebay
+com.cooeeui.brand.turbolauncher.R$drawable: int email
+com.cooeeui.brand.turbolauncher.R$drawable: int facebook
+com.cooeeui.brand.turbolauncher.R$drawable: int fanhui
+com.cooeeui.brand.turbolauncher.R$drawable: int fanhui_focus
+com.cooeeui.brand.turbolauncher.R$drawable: int flipboard
+com.cooeeui.brand.turbolauncher.R$drawable: int flush
+com.cooeeui.brand.turbolauncher.R$drawable: int flushclick
+com.cooeeui.brand.turbolauncher.R$drawable: int flying_icon_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int flying_icon_bg_pressed
+com.cooeeui.brand.turbolauncher.R$drawable: int fm
+com.cooeeui.brand.turbolauncher.R$drawable: int focusable_view_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int focused_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int folder
+com.cooeeui.brand.turbolauncher.R$drawable: int folder_add_button_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int folder_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int folder_button
+com.cooeeui.brand.turbolauncher.R$drawable: int folder_button_over
+com.cooeeui.brand.turbolauncher.R$drawable: int folder_button_selected
+com.cooeeui.brand.turbolauncher.R$drawable: int folder_dividing_line
+com.cooeeui.brand.turbolauncher.R$drawable: int folder_edge_hint
+com.cooeeui.brand.turbolauncher.R$drawable: int font
+com.cooeeui.brand.turbolauncher.R$drawable: int font_bg_select
+com.cooeeui.brand.turbolauncher.R$drawable: int font_bg_unselect
+com.cooeeui.brand.turbolauncher.R$drawable: int gallery
+com.cooeeui.brand.turbolauncher.R$drawable: int gallery_normal
+com.cooeeui.brand.turbolauncher.R$drawable: int gallery_scene
+com.cooeeui.brand.turbolauncher.R$drawable: int gmail
+com.cooeeui.brand.turbolauncher.R$drawable: int google
+com.cooeeui.brand.turbolauncher.R$drawable: int google_plus
+com.cooeeui.brand.turbolauncher.R$drawable: int googlemap
+com.cooeeui.brand.turbolauncher.R$drawable: int googleplay
+com.cooeeui.brand.turbolauncher.R$drawable: int grid_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int grid_focused
+com.cooeeui.brand.turbolauncher.R$drawable: int grid_item_cover
+com.cooeeui.brand.turbolauncher.R$drawable: int grid_pressed
+com.cooeeui.brand.turbolauncher.R$drawable: int grid_selected
+com.cooeeui.brand.turbolauncher.R$drawable: int grid_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int griditem_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int guangbiao
+com.cooeeui.brand.turbolauncher.R$drawable: int halving_line
+com.cooeeui.brand.turbolauncher.R$drawable: int hand
+com.cooeeui.brand.turbolauncher.R$drawable: int home_press
+com.cooeeui.brand.turbolauncher.R$drawable: int homescreen_blue_normal_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int homescreen_blue_strong_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int hotseat_browser
+com.cooeeui.brand.turbolauncher.R$drawable: int hotseat_contacts
+com.cooeeui.brand.turbolauncher.R$drawable: int hotseat_messaging
+com.cooeeui.brand.turbolauncher.R$drawable: int hotseat_phone
+com.cooeeui.brand.turbolauncher.R$drawable: int hotseat_scrubber_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int hotseat_track_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int ic_allapps
+com.cooeeui.brand.turbolauncher.R$drawable: int ic_allapps_pressed
+com.cooeeui.brand.turbolauncher.R$drawable: int ic_home_all_apps_holo_dark
+com.cooeeui.brand.turbolauncher.R$drawable: int ic_launcher
+com.cooeeui.brand.turbolauncher.R$drawable: int ic_launcher_clear_active_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int ic_launcher_clear_normal_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int ic_launcher_trashcan_active_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int ic_launcher_trashcan_normal_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int ic_pageindicator_current
+com.cooeeui.brand.turbolauncher.R$drawable: int ic_pageindicator_default
+com.cooeeui.brand.turbolauncher.R$drawable: int ic_pulltorefresh_arrow
+com.cooeeui.brand.turbolauncher.R$drawable: int ic_pulltorefresh_arrow_up
+com.cooeeui.brand.turbolauncher.R$drawable: int icon_0
+com.cooeeui.brand.turbolauncher.R$drawable: int icon_back
+com.cooeeui.brand.turbolauncher.R$drawable: int icon_pre
+com.cooeeui.brand.turbolauncher.R$drawable: int icon_top
+com.cooeeui.brand.turbolauncher.R$drawable: int imageviewflush
+com.cooeeui.brand.turbolauncher.R$drawable: int imgview_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int indicator_city
+com.cooeeui.brand.turbolauncher.R$drawable: int indicator_cityclick
+com.cooeeui.brand.turbolauncher.R$drawable: int indicator_date
+com.cooeeui.brand.turbolauncher.R$drawable: int indicator_dateclick
+com.cooeeui.brand.turbolauncher.R$drawable: int instagram
+com.cooeeui.brand.turbolauncher.R$drawable: int ireader
+com.cooeeui.brand.turbolauncher.R$drawable: int kugou
+com.cooeeui.brand.turbolauncher.R$drawable: int label
+com.cooeeui.brand.turbolauncher.R$drawable: int liebaoqinglidashi
+com.cooeeui.brand.turbolauncher.R$drawable: int line
+com.cooeeui.brand.turbolauncher.R$drawable: int linecamera
+com.cooeeui.brand.turbolauncher.R$drawable: int linedeco
+com.cooeeui.brand.turbolauncher.R$drawable: int livepicker_en
+com.cooeeui.brand.turbolauncher.R$drawable: int livewallpaper_normal
+com.cooeeui.brand.turbolauncher.R$drawable: int livewallpaper_scene
+com.cooeeui.brand.turbolauncher.R$drawable: int livewallpaper_sign
+com.cooeeui.brand.turbolauncher.R$drawable: int load
+com.cooeeui.brand.turbolauncher.R$drawable: int load_1
+com.cooeeui.brand.turbolauncher.R$drawable: int load_10
+com.cooeeui.brand.turbolauncher.R$drawable: int load_11
+com.cooeeui.brand.turbolauncher.R$drawable: int load_12
+com.cooeeui.brand.turbolauncher.R$drawable: int load_2
+com.cooeeui.brand.turbolauncher.R$drawable: int load_3
+com.cooeeui.brand.turbolauncher.R$drawable: int load_4
+com.cooeeui.brand.turbolauncher.R$drawable: int load_5
+com.cooeeui.brand.turbolauncher.R$drawable: int load_6
+com.cooeeui.brand.turbolauncher.R$drawable: int load_7
+com.cooeeui.brand.turbolauncher.R$drawable: int load_8
+com.cooeeui.brand.turbolauncher.R$drawable: int load_9
+com.cooeeui.brand.turbolauncher.R$drawable: int loades
+com.cooeeui.brand.turbolauncher.R$drawable: int lockhome
+com.cooeeui.brand.turbolauncher.R$drawable: int lockhome_en
+com.cooeeui.brand.turbolauncher.R$drawable: int lockwallpaper_scene
+com.cooeeui.brand.turbolauncher.R$drawable: int logo
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_bar
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_bar_1
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_effect_select
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_effect_unselect
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_font_select
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_font_unselect
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_lock_select
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_lock_unselect
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_scene_select
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_scene_unselect
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_separateline_png
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_theme_select
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_theme_unselect
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_wallpaper_select
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_wallpaper_unselect
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_widget_select
+com.cooeeui.brand.turbolauncher.R$drawable: int manager_widget_unselect
+com.cooeeui.brand.turbolauncher.R$drawable: int maohao
+com.cooeeui.brand.turbolauncher.R$drawable: int mask_0
+com.cooeeui.brand.turbolauncher.R$drawable: int meitu
+com.cooeeui.brand.turbolauncher.R$drawable: int menu_iconbeautify
+com.cooeeui.brand.turbolauncher.R$drawable: int menu_icondesktopset
+com.cooeeui.brand.turbolauncher.R$drawable: int menu_iconedit
+com.cooeeui.brand.turbolauncher.R$drawable: int menu_iconsystemset
+com.cooeeui.brand.turbolauncher.R$drawable: int messaging
+com.cooeeui.brand.turbolauncher.R$drawable: int moji
+com.cooeeui.brand.turbolauncher.R$drawable: int momo
+com.cooeeui.brand.turbolauncher.R$drawable: int more
+com.cooeeui.brand.turbolauncher.R$drawable: int more_focus
+com.cooeeui.brand.turbolauncher.R$drawable: int music
+com.cooeeui.brand.turbolauncher.R$drawable: int nc_shuaxin
+com.cooeeui.brand.turbolauncher.R$drawable: int nc_shuaxinclick
+com.cooeeui.brand.turbolauncher.R$drawable: int notify_launcher
+com.cooeeui.brand.turbolauncher.R$drawable: int notify_lock
+com.cooeeui.brand.turbolauncher.R$drawable: int notify_other
+com.cooeeui.brand.turbolauncher.R$drawable: int num_0
+com.cooeeui.brand.turbolauncher.R$drawable: int num_1
+com.cooeeui.brand.turbolauncher.R$drawable: int num_2
+com.cooeeui.brand.turbolauncher.R$drawable: int num_3
+com.cooeeui.brand.turbolauncher.R$drawable: int num_4
+com.cooeeui.brand.turbolauncher.R$drawable: int num_5
+com.cooeeui.brand.turbolauncher.R$drawable: int num_6
+com.cooeeui.brand.turbolauncher.R$drawable: int num_7
+com.cooeeui.brand.turbolauncher.R$drawable: int num_8
+com.cooeeui.brand.turbolauncher.R$drawable: int num_9
+com.cooeeui.brand.turbolauncher.R$drawable: int numberclock_icon
+com.cooeeui.brand.turbolauncher.R$drawable: int opera
+com.cooeeui.brand.turbolauncher.R$drawable: int overscroll_glow_left
+com.cooeeui.brand.turbolauncher.R$drawable: int overscroll_glow_right
+com.cooeeui.brand.turbolauncher.R$drawable: int page_hover_left_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int page_hover_right_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int paged_view_indicator
+com.cooeeui.brand.turbolauncher.R$drawable: int phone
+com.cooeeui.brand.turbolauncher.R$drawable: int pinterest
+com.cooeeui.brand.turbolauncher.R$drawable: int portal_container_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int portal_ring_inner_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int portal_ring_inner_nolip_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int portal_ring_outer_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int preview
+com.cooeeui.brand.turbolauncher.R$drawable: int price_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int progressbar
+com.cooeeui.brand.turbolauncher.R$drawable: int progressbar_big_downloading
+com.cooeeui.brand.turbolauncher.R$drawable: int progressbar_big_pause
+com.cooeeui.brand.turbolauncher.R$drawable: int progressbar_downloading
+com.cooeeui.brand.turbolauncher.R$drawable: int progressbar_pause
+com.cooeeui.brand.turbolauncher.R$drawable: int qq
+com.cooeeui.brand.turbolauncher.R$drawable: int qqcoolrun
+com.cooeeui.brand.turbolauncher.R$drawable: int qqkongjian
+com.cooeeui.brand.turbolauncher.R$drawable: int qqnews
+com.cooeeui.brand.turbolauncher.R$drawable: int qqyinyue
+com.cooeeui.brand.turbolauncher.R$drawable: int recommemd_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int recommend_title
+com.cooeeui.brand.turbolauncher.R$drawable: int record
+com.cooeeui.brand.turbolauncher.R$drawable: int red_button
+com.cooeeui.brand.turbolauncher.R$drawable: int red_button_focus
+com.cooeeui.brand.turbolauncher.R$drawable: int remove_target_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int scene
+com.cooeeui.brand.turbolauncher.R$drawable: int screenedit
+com.cooeeui.brand.turbolauncher.R$drawable: int screenpanel
+com.cooeeui.brand.turbolauncher.R$drawable: int screenpanel_hover
+com.cooeeui.brand.turbolauncher.R$drawable: int scroll_down
+com.cooeeui.brand.turbolauncher.R$drawable: int scroll_left
+com.cooeeui.brand.turbolauncher.R$drawable: int scrollbar_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int scrollbar_control
+com.cooeeui.brand.turbolauncher.R$drawable: int search
+com.cooeeui.brand.turbolauncher.R$drawable: int searchbar_icon
+com.cooeeui.brand.turbolauncher.R$drawable: int searchclick
+com.cooeeui.brand.turbolauncher.R$drawable: int set_imageview_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int set_list_select
+com.cooeeui.brand.turbolauncher.R$drawable: int setting
+com.cooeeui.brand.turbolauncher.R$drawable: int setting_focus
+com.cooeeui.brand.turbolauncher.R$drawable: int settings
+com.cooeeui.brand.turbolauncher.R$drawable: int share
+com.cooeeui.brand.turbolauncher.R$drawable: int share_focus
+com.cooeeui.brand.turbolauncher.R$drawable: int skype
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_baosnow
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_bigrain
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_bigsnow
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_bingbao
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_cloudy
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_cloudyday
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_fog
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_jufeng
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_latecloudy
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_middlerain
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_middlesnow
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_rainshowerslate
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_reaching
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_sand
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_sleet
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_smallrain
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_smallsnow
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_snowshowerslate
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_sunny
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_thunderstorms
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_unknow
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_zhenrain
+com.cooeeui.brand.turbolauncher.R$drawable: int smallweather_zhensnow
+com.cooeeui.brand.turbolauncher.R$drawable: int snapchat
+com.cooeeui.brand.turbolauncher.R$drawable: int souhushipin
+com.cooeeui.brand.turbolauncher.R$drawable: int star
+com.cooeeui.brand.turbolauncher.R$drawable: int staticwallpaper_scene
+com.cooeeui.brand.turbolauncher.R$drawable: int strips
+com.cooeeui.brand.turbolauncher.R$drawable: int tab_font_style
+com.cooeeui.brand.turbolauncher.R$drawable: int tab_selected_focused_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int tab_selected_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int tab_selected_pressed_focused_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int tab_selected_pressed_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int tab_unselected_focused_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int tab_unselected_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int tab_unselected_pressed_focused_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int tab_unselected_pressed_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int tab_widget_indicator_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int taobao
+com.cooeeui.brand.turbolauncher.R$drawable: int tengxunshipin
+com.cooeeui.brand.turbolauncher.R$drawable: int theme
+com.cooeeui.brand.turbolauncher.R$drawable: int theme_change
+com.cooeeui.brand.turbolauncher.R$drawable: int theme_leaflets
+com.cooeeui.brand.turbolauncher.R$drawable: int theme_leaflets11
+com.cooeeui.brand.turbolauncher.R$drawable: int theme_radio_off
+com.cooeeui.brand.turbolauncher.R$drawable: int theme_radio_on
+com.cooeeui.brand.turbolauncher.R$drawable: int themeselect
+com.cooeeui.brand.turbolauncher.R$drawable: int ttpod
+com.cooeeui.brand.turbolauncher.R$drawable: int twitter
+com.cooeeui.brand.turbolauncher.R$drawable: int ucliulanqi
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_common_gradient_green
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_common_gradient_orange
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_common_gradient_red
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_arrow_right
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_back_normal
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_back_selected
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_back_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_btn_bg_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_conversation_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_gradient_green
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_gradient_orange
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_gray_frame
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_list_item
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_list_item_pressed
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_list_item_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_logo
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_point_new
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_point_normal
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_reply_right_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_see_list_normal
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_see_list_pressed
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_see_list_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_submit_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_tick_normal
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_tick_selected
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_tick_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_top_banner
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_user_bubble
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_write_normal
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_write_pressed
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_fb_write_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_btn_check_off_focused_holo_light
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_btn_check_off_holo_light
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_btn_check_off_pressed_holo_light
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_btn_check_on_focused_holo_light
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_btn_check_on_holo_light
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_btn_check_on_pressed_holo_light
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_button_cancel_bg_focused
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_button_cancel_bg_normal
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_button_cancel_bg_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_button_cancel_bg_tap
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_button_check_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_button_close_bg_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_button_ok_bg_focused
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_button_ok_bg_normal
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_button_ok_bg_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_button_ok_bg_tap
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_close_bg_normal
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_close_bg_tap
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_dialog_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_title_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int umeng_update_wifi_disable
+com.cooeeui.brand.turbolauncher.R$drawable: int underline
+com.cooeeui.brand.turbolauncher.R$drawable: int underline_nopress
+com.cooeeui.brand.turbolauncher.R$drawable: int underline_press
+com.cooeeui.brand.turbolauncher.R$drawable: int underline_unpress
+com.cooeeui.brand.turbolauncher.R$drawable: int uninstall
+com.cooeeui.brand.turbolauncher.R$drawable: int uninstall_focus
+com.cooeeui.brand.turbolauncher.R$drawable: int uninstall_target_selector
+com.cooeeui.brand.turbolauncher.R$drawable: int used
+com.cooeeui.brand.turbolauncher.R$drawable: int video
+com.cooeeui.brand.turbolauncher.R$drawable: int virtual_theme
+com.cooeeui.brand.turbolauncher.R$drawable: int virtual_wallpaper
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_01
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_01_small
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_02
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_02_small
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_03
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_03_small
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_cover
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_gallery_background
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_gallery_item
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_more
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_picker_preview
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_radiobutton_normal_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int wallpaper_radiobutton_selected_bg
+com.cooeeui.brand.turbolauncher.R$drawable: int weather
+com.cooeeui.brand.turbolauncher.R$drawable: int wechat
+com.cooeeui.brand.turbolauncher.R$drawable: int weibo
+com.cooeeui.brand.turbolauncher.R$drawable: int weixin
+com.cooeeui.brand.turbolauncher.R$drawable: int whatsapp
+com.cooeeui.brand.turbolauncher.R$drawable: int widget_container_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int widget_folder_icon
+com.cooeeui.brand.turbolauncher.R$drawable: int widget_preview_tile
+com.cooeeui.brand.turbolauncher.R$drawable: int widget_resize_frame_holo
+com.cooeeui.brand.turbolauncher.R$drawable: int widget_resize_handle_bottom
+com.cooeeui.brand.turbolauncher.R$drawable: int widget_resize_handle_left
+com.cooeeui.brand.turbolauncher.R$drawable: int widget_resize_handle_right
+com.cooeeui.brand.turbolauncher.R$drawable: int widget_resize_handle_top
+com.cooeeui.brand.turbolauncher.R$drawable: int wifiyaoshi
+com.cooeeui.brand.turbolauncher.R$drawable: int wp_default
+com.cooeeui.brand.turbolauncher.R$drawable: int youdao
+com.cooeeui.brand.turbolauncher.R$drawable: int youku
+com.cooeeui.brand.turbolauncher.R$drawable: int youtube
+com.cooeeui.brand.turbolauncher.R$drawable: int zhifubao
+com.cooeeui.brand.turbolauncher.R$id
+com.cooeeui.brand.turbolauncher.R$id: int ScrollView
+com.cooeeui.brand.turbolauncher.R$id: int active
+com.cooeeui.brand.turbolauncher.R$id: int all_apps_cling
+com.cooeeui.brand.turbolauncher.R$id: int all_apps_cling_add_item
+com.cooeeui.brand.turbolauncher.R$id: int all_apps_cling_title
+com.cooeeui.brand.turbolauncher.R$id: int animation_buffer
+com.cooeeui.brand.turbolauncher.R$id: int app_icon
+com.cooeeui.brand.turbolauncher.R$id: int app_icon1
+com.cooeeui.brand.turbolauncher.R$id: int app_name
+com.cooeeui.brand.turbolauncher.R$id: int application_icon
+com.cooeeui.brand.turbolauncher.R$id: int apps_customize_content
+com.cooeeui.brand.turbolauncher.R$id: int apps_customize_pane
+com.cooeeui.brand.turbolauncher.R$id: int apps_customize_pane_content
+com.cooeeui.brand.turbolauncher.R$id: int apps_customize_progress_bar
+com.cooeeui.brand.turbolauncher.R$id: int author
+com.cooeeui.brand.turbolauncher.R$id: int barDownloading
+com.cooeeui.brand.turbolauncher.R$id: int barPause
+com.cooeeui.brand.turbolauncher.R$id: int bg_imageview
+com.cooeeui.brand.turbolauncher.R$id: int bottom
+com.cooeeui.brand.turbolauncher.R$id: int btnApplistEffect
+com.cooeeui.brand.turbolauncher.R$id: int btnApply
+com.cooeeui.brand.turbolauncher.R$id: int btnBuy
+com.cooeeui.brand.turbolauncher.R$id: int btnDel
+com.cooeeui.brand.turbolauncher.R$id: int btnDelete
+com.cooeeui.brand.turbolauncher.R$id: int btnDownload
+com.cooeeui.brand.turbolauncher.R$id: int btnGetTheme
+com.cooeeui.brand.turbolauncher.R$id: int btnHotLock
+com.cooeeui.brand.turbolauncher.R$id: int btnHotTheme
+com.cooeeui.brand.turbolauncher.R$id: int btnInstall
+com.cooeeui.brand.turbolauncher.R$id: int btnLocalLock
+com.cooeeui.brand.turbolauncher.R$id: int btnLocalTheme
+com.cooeeui.brand.turbolauncher.R$id: int btnMore
+com.cooeeui.brand.turbolauncher.R$id: int btnReturn
+com.cooeeui.brand.turbolauncher.R$id: int btnSetting
+com.cooeeui.brand.turbolauncher.R$id: int btnShare
+com.cooeeui.brand.turbolauncher.R$id: int btnUninstall
+com.cooeeui.brand.turbolauncher.R$id: int btnWorkspaceEffect
+com.cooeeui.brand.turbolauncher.R$id: int btn_apps
+com.cooeeui.brand.turbolauncher.R$id: int btn_folder
+com.cooeeui.brand.turbolauncher.R$id: int btn_shortcuts
+com.cooeeui.brand.turbolauncher.R$id: int btn_widgets
+com.cooeeui.brand.turbolauncher.R$id: int button1
+com.cooeeui.brand.turbolauncher.R$id: int cancel
+com.cooeeui.brand.turbolauncher.R$id: int cell1
+com.cooeeui.brand.turbolauncher.R$id: int cell2
+com.cooeeui.brand.turbolauncher.R$id: int cell3
+com.cooeeui.brand.turbolauncher.R$id: int cell4
+com.cooeeui.brand.turbolauncher.R$id: int cell5
+com.cooeeui.brand.turbolauncher.R$id: int circleProgressBar
+com.cooeeui.brand.turbolauncher.R$id: int clearlauncherview
+com.cooeeui.brand.turbolauncher.R$id: int cling_dismiss
+com.cooeeui.brand.turbolauncher.R$id: int containHot
+com.cooeeui.brand.turbolauncher.R$id: int content_cityicon
+com.cooeeui.brand.turbolauncher.R$id: int defaultbmp
+com.cooeeui.brand.turbolauncher.R$id: int delete_target_text
+com.cooeeui.brand.turbolauncher.R$id: int dialog_brief
+com.cooeeui.brand.turbolauncher.R$id: int dialog_iv
+com.cooeeui.brand.turbolauncher.R$id: int dialog_name
+com.cooeeui.brand.turbolauncher.R$id: int dialog_size
+com.cooeeui.brand.turbolauncher.R$id: int dock_divider
+com.cooeeui.brand.turbolauncher.R$id: int download
+com.cooeeui.brand.turbolauncher.R$id: int drag_layer
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_about
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_aboutback
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_appbar
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_appdrawer
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_defaultlauncher
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_doubleclick
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_gesture
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_icon
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_logo
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_palm
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_screen
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_singlesingerdown
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_singlesingerup
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_system
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_twofingerexpand
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_twofingertogether
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_twoleft
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_tworight
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_twosingerdown
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_twosingerup
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_update
+com.cooeeui.brand.turbolauncher.R$id: int ds_iv_vibrator
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_about
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_aboutback
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_appbar
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_appdrawer
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_appdrawerback
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_appdrawereffect
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_appdrawergridsize
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_appdrawerinfinite
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_defaultlaucher
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_doubleclick
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_gesture
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_gestureback
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_icon
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_iconmiddle
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_iconsback
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_iconsbig
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_iconsmall
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_palm
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_privacyback
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_sceeenback
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_screen
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_singlesingerdown
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_singlesingerup
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_system
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_systemback
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_systembackup
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_systemreset
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_systemrestore
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_systemvibrator
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_twofingerexpand
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_twofingertogether
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_twoleft
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_tworight
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_twosingerdown
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_twosingerup
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_update
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_wallpaper
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_wallpapereffect
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_wallpaperinfinite
+com.cooeeui.brand.turbolauncher.R$id: int ds_rl_wallpaperscroll
+com.cooeeui.brand.turbolauncher.R$id: int ds_tv_backupdesktop
+com.cooeeui.brand.turbolauncher.R$id: int ds_tv_restoredesktop
+com.cooeeui.brand.turbolauncher.R$id: int dsabout_button_contact
+com.cooeeui.brand.turbolauncher.R$id: int dsabout_button_feedback
+com.cooeeui.brand.turbolauncher.R$id: int dsabout_button_privacy_notice
+com.cooeeui.brand.turbolauncher.R$id: int dsabout_button_social
+com.cooeeui.brand.turbolauncher.R$id: int dsabout_id_launcher_version_cn
+com.cooeeui.brand.turbolauncher.R$id: int effectGridPager
+com.cooeeui.brand.turbolauncher.R$id: int et_searchcity
+com.cooeeui.brand.turbolauncher.R$id: int fl_tab_effect
+com.cooeeui.brand.turbolauncher.R$id: int fl_tab_theme
+com.cooeeui.brand.turbolauncher.R$id: int fl_tab_wallpaper
+com.cooeeui.brand.turbolauncher.R$id: int folder_add_button
+com.cooeeui.brand.turbolauncher.R$id: int folder_add_linearlayout
+com.cooeeui.brand.turbolauncher.R$id: int folder_addapp_view_indicator
+com.cooeeui.brand.turbolauncher.R$id: int folder_all
+com.cooeeui.brand.turbolauncher.R$id: int folder_bg
+com.cooeeui.brand.turbolauncher.R$id: int folder_cling
+com.cooeeui.brand.turbolauncher.R$id: int folder_cling_create_folder
+com.cooeeui.brand.turbolauncher.R$id: int folder_cling_title
+com.cooeeui.brand.turbolauncher.R$id: int folder_icon_name
+com.cooeeui.brand.turbolauncher.R$id: int folder_lower_half_part
+com.cooeeui.brand.turbolauncher.R$id: int folder_lower_half_part_dividing_line
+com.cooeeui.brand.turbolauncher.R$id: int folder_name
+com.cooeeui.brand.turbolauncher.R$id: int folder_up_container
+com.cooeeui.brand.turbolauncher.R$id: int folder_upper_half_part
+com.cooeeui.brand.turbolauncher.R$id: int folder_upper_half_part_page_indicator
+com.cooeeui.brand.turbolauncher.R$id: int font_items
+com.cooeeui.brand.turbolauncher.R$id: int gallery
+com.cooeeui.brand.turbolauncher.R$id: int galleryPreview
+com.cooeeui.brand.turbolauncher.R$id: int grid
+com.cooeeui.brand.turbolauncher.R$id: int gridLive
+com.cooeeui.brand.turbolauncher.R$id: int gridPager
+com.cooeeui.brand.turbolauncher.R$id: int gridStatic
+com.cooeeui.brand.turbolauncher.R$id: int gridViewLock
+com.cooeeui.brand.turbolauncher.R$id: int hometabs
+com.cooeeui.brand.turbolauncher.R$id: int horizontal
+com.cooeeui.brand.turbolauncher.R$id: int hotseat
+com.cooeeui.brand.turbolauncher.R$id: int id_tv_loadingmsg
+com.cooeeui.brand.turbolauncher.R$id: int imageCover
+com.cooeeui.brand.turbolauncher.R$id: int imageIcon
+com.cooeeui.brand.turbolauncher.R$id: int imageThumb
+com.cooeeui.brand.turbolauncher.R$id: int imageUsed
+com.cooeeui.brand.turbolauncher.R$id: int imageView01
+com.cooeeui.brand.turbolauncher.R$id: int imageViewRecom
+com.cooeeui.brand.turbolauncher.R$id: int imageselect
+com.cooeeui.brand.turbolauncher.R$id: int img
+com.cooeeui.brand.turbolauncher.R$id: int img_halvingline
+com.cooeeui.brand.turbolauncher.R$id: int img_weathercode
+com.cooeeui.brand.turbolauncher.R$id: int inactive
+com.cooeeui.brand.turbolauncher.R$id: int indication
+com.cooeeui.brand.turbolauncher.R$id: int info
+com.cooeeui.brand.turbolauncher.R$id: int info_view
+com.cooeeui.brand.turbolauncher.R$id: int internetPrompt
+com.cooeeui.brand.turbolauncher.R$id: int iv_citycontenthalving
+com.cooeeui.brand.turbolauncher.R$id: int iv_corf
+com.cooeeui.brand.turbolauncher.R$id: int iv_curve
+com.cooeeui.brand.turbolauncher.R$id: int iv_fengexian
+com.cooeeui.brand.turbolauncher.R$id: int iv_fenxianxia
+com.cooeeui.brand.turbolauncher.R$id: int iv_firsticon
+com.cooeeui.brand.turbolauncher.R$id: int iv_fiveicon
+com.cooeeui.brand.turbolauncher.R$id: int iv_flush
+com.cooeeui.brand.turbolauncher.R$id: int iv_forthicon
+com.cooeeui.brand.turbolauncher.R$id: int iv_indicatorcity
+com.cooeeui.brand.turbolauncher.R$id: int iv_indicatorcurve
+com.cooeeui.brand.turbolauncher.R$id: int iv_maohao
+com.cooeeui.brand.turbolauncher.R$id: int iv_ncfluash
+com.cooeeui.brand.turbolauncher.R$id: int iv_num1
+com.cooeeui.brand.turbolauncher.R$id: int iv_num2
+com.cooeeui.brand.turbolauncher.R$id: int iv_num3
+com.cooeeui.brand.turbolauncher.R$id: int iv_num4
+com.cooeeui.brand.turbolauncher.R$id: int iv_search
+com.cooeeui.brand.turbolauncher.R$id: int iv_secondicon
+com.cooeeui.brand.turbolauncher.R$id: int iv_thirdicon
+com.cooeeui.brand.turbolauncher.R$id: int iv_vityicon
+com.cooeeui.brand.turbolauncher.R$id: int iv_weatherconditionname
+com.cooeeui.brand.turbolauncher.R$id: int iv_weekname
+com.cooeeui.brand.turbolauncher.R$id: int label
+com.cooeeui.brand.turbolauncher.R$id: int labelImageView
+com.cooeeui.brand.turbolauncher.R$id: int launcher
+com.cooeeui.brand.turbolauncher.R$id: int layout
+com.cooeeui.brand.turbolauncher.R$id: int layoutDownload
+com.cooeeui.brand.turbolauncher.R$id: int layoutNormal
+com.cooeeui.brand.turbolauncher.R$id: int layout_title
+com.cooeeui.brand.turbolauncher.R$id: int linLayout
+com.cooeeui.brand.turbolauncher.R$id: int linLayout1
+com.cooeeui.brand.turbolauncher.R$id: int linearDownload
+com.cooeeui.brand.turbolauncher.R$id: int linearPause
+com.cooeeui.brand.turbolauncher.R$id: int live_sign
+com.cooeeui.brand.turbolauncher.R$id: int ll_city
+com.cooeeui.brand.turbolauncher.R$id: int ll_content
+com.cooeeui.brand.turbolauncher.R$id: int ll_currentcity
+com.cooeeui.brand.turbolauncher.R$id: int ll_tab_add
+com.cooeeui.brand.turbolauncher.R$id: int ll_time
+com.cooeeui.brand.turbolauncher.R$id: int ll_weatherconditionname
+com.cooeeui.brand.turbolauncher.R$id: int ll_weathersmallicon
+com.cooeeui.brand.turbolauncher.R$id: int ll_weekname
+com.cooeeui.brand.turbolauncher.R$id: int load
+com.cooeeui.brand.turbolauncher.R$id: int loadbg
+com.cooeeui.brand.turbolauncher.R$id: int loadingImageView
+com.cooeeui.brand.turbolauncher.R$id: int loadtext
+com.cooeeui.brand.turbolauncher.R$id: int lockhomeview
+com.cooeeui.brand.turbolauncher.R$id: int lv_cityshow
+com.cooeeui.brand.turbolauncher.R$id: int mainRelLayout
+com.cooeeui.brand.turbolauncher.R$id: int main_pull_refresh_view
+com.cooeeui.brand.turbolauncher.R$id: int menu_settings
+com.cooeeui.brand.turbolauncher.R$id: int notice_content
+com.cooeeui.brand.turbolauncher.R$id: int notice_iv
+com.cooeeui.brand.turbolauncher.R$id: int notice_pb
+com.cooeeui.brand.turbolauncher.R$id: int notice_title
+com.cooeeui.brand.turbolauncher.R$id: int notice_title1_tv
+com.cooeeui.brand.turbolauncher.R$id: int notice_title2_tv
+com.cooeeui.brand.turbolauncher.R$id: int notificationImage
+com.cooeeui.brand.turbolauncher.R$id: int notificationPercent
+com.cooeeui.brand.turbolauncher.R$id: int notificationProgress
+com.cooeeui.brand.turbolauncher.R$id: int notificationTitle
+com.cooeeui.brand.turbolauncher.R$id: int page_indicator
+com.cooeeui.brand.turbolauncher.R$id: int paged_view_indicator
+com.cooeeui.brand.turbolauncher.R$id: int percent
+com.cooeeui.brand.turbolauncher.R$id: int preview
+com.cooeeui.brand.turbolauncher.R$id: int previewScroll
+com.cooeeui.brand.turbolauncher.R$id: int preview_background
+com.cooeeui.brand.turbolauncher.R$id: int preview_picture
+com.cooeeui.brand.turbolauncher.R$id: int price
+com.cooeeui.brand.turbolauncher.R$id: int progress
+com.cooeeui.brand.turbolauncher.R$id: int progressBar
+com.cooeeui.brand.turbolauncher.R$id: int progressBarDown
+com.cooeeui.brand.turbolauncher.R$id: int progressBarPause
+com.cooeeui.brand.turbolauncher.R$id: int provider
+com.cooeeui.brand.turbolauncher.R$id: int provider_icon
+com.cooeeui.brand.turbolauncher.R$id: int pull_to_load_image
+com.cooeeui.brand.turbolauncher.R$id: int pull_to_load_progress
+com.cooeeui.brand.turbolauncher.R$id: int pull_to_load_text
+com.cooeeui.brand.turbolauncher.R$id: int pull_to_refresh_header
+com.cooeeui.brand.turbolauncher.R$id: int pull_to_refresh_image
+com.cooeeui.brand.turbolauncher.R$id: int pull_to_refresh_progress
+com.cooeeui.brand.turbolauncher.R$id: int pull_to_refresh_text
+com.cooeeui.brand.turbolauncher.R$id: int pushListView
+com.cooeeui.brand.turbolauncher.R$id: int qsb_divider
+com.cooeeui.brand.turbolauncher.R$id: int radioLive
+com.cooeeui.brand.turbolauncher.R$id: int radioStatic
+com.cooeeui.brand.turbolauncher.R$id: int relLayout
+com.cooeeui.brand.turbolauncher.R$id: int relativeLayout1
+com.cooeeui.brand.turbolauncher.R$id: int rl_curveshow
+com.cooeeui.brand.turbolauncher.R$id: int rl_flush
+com.cooeeui.brand.turbolauncher.R$id: int rl_searchcity
+com.cooeeui.brand.turbolauncher.R$id: int rl_tempertureunit
+com.cooeeui.brand.turbolauncher.R$id: int scrollGallery
+com.cooeeui.brand.turbolauncher.R$id: int selector_item
+com.cooeeui.brand.turbolauncher.R$id: int selectswitch
+com.cooeeui.brand.turbolauncher.R$id: int set
+com.cooeeui.brand.turbolauncher.R$id: int setwallpaper
+com.cooeeui.brand.turbolauncher.R$id: int show
+com.cooeeui.brand.turbolauncher.R$id: int starImageView
+com.cooeeui.brand.turbolauncher.R$id: int tabhost
+com.cooeeui.brand.turbolauncher.R$id: int tabs_container
+com.cooeeui.brand.turbolauncher.R$id: int text
+com.cooeeui.brand.turbolauncher.R$id: int textAppName
+com.cooeeui.brand.turbolauncher.R$id: int textDownPercent
+com.cooeeui.brand.turbolauncher.R$id: int textPausePercent
+com.cooeeui.brand.turbolauncher.R$id: int textView1
+com.cooeeui.brand.turbolauncher.R$id: int textView2
+com.cooeeui.brand.turbolauncher.R$id: int th_desktop_edit
+com.cooeeui.brand.turbolauncher.R$id: int theme
+com.cooeeui.brand.turbolauncher.R$id: int themeGridPager
+com.cooeeui.brand.turbolauncher.R$id: int themename
+com.cooeeui.brand.turbolauncher.R$id: int thumbnail
+com.cooeeui.brand.turbolauncher.R$id: int thumbs
+com.cooeeui.brand.turbolauncher.R$id: int trashcan
+com.cooeeui.brand.turbolauncher.R$id: int tv_ampm
+com.cooeeui.brand.turbolauncher.R$id: int tv_cityname
+com.cooeeui.brand.turbolauncher.R$id: int tv_cuttentcity
+com.cooeeui.brand.turbolauncher.R$id: int tv_date
+com.cooeeui.brand.turbolauncher.R$id: int tv_tempture
+com.cooeeui.brand.turbolauncher.R$id: int txtCityName
+com.cooeeui.brand.turbolauncher.R$id: int umeng_common_icon_view
+com.cooeeui.brand.turbolauncher.R$id: int umeng_common_notification
+com.cooeeui.brand.turbolauncher.R$id: int umeng_common_notification_controller
+com.cooeeui.brand.turbolauncher.R$id: int umeng_common_progress_bar
+com.cooeeui.brand.turbolauncher.R$id: int umeng_common_progress_text
+com.cooeeui.brand.turbolauncher.R$id: int umeng_common_rich_notification_cancel
+com.cooeeui.brand.turbolauncher.R$id: int umeng_common_rich_notification_continue
+com.cooeeui.brand.turbolauncher.R$id: int umeng_common_title
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_back
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_contact_header
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_contact_info
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_contact_update_at
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_conversation_contact_entry
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_conversation_header
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_conversation_list_wrapper
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_conversation_umeng_logo
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_list_reply_header
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_reply_content
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_reply_content_wrapper
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_reply_date
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_reply_list
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_save
+com.cooeeui.brand.turbolauncher.R$id: int umeng_fb_send
+com.cooeeui.brand.turbolauncher.R$id: int umeng_update_content
+com.cooeeui.brand.turbolauncher.R$id: int umeng_update_id_cancel
+com.cooeeui.brand.turbolauncher.R$id: int umeng_update_id_check
+com.cooeeui.brand.turbolauncher.R$id: int umeng_update_id_close
+com.cooeeui.brand.turbolauncher.R$id: int umeng_update_id_ignore
+com.cooeeui.brand.turbolauncher.R$id: int umeng_update_id_ok
+com.cooeeui.brand.turbolauncher.R$id: int umeng_update_wifi_indicator
+com.cooeeui.brand.turbolauncher.R$id: int vertical
+com.cooeeui.brand.turbolauncher.R$id: int viewpager
+com.cooeeui.brand.turbolauncher.R$id: int wallpaper
+com.cooeeui.brand.turbolauncher.R$id: int wallpaper_chooser_fragment
+com.cooeeui.brand.turbolauncher.R$id: int wallpaper_image
+com.cooeeui.brand.turbolauncher.R$id: int wallpaper_refresh
+com.cooeeui.brand.turbolauncher.R$id: int wallpaperradioGroup
+com.cooeeui.brand.turbolauncher.R$id: int widget_dims
+com.cooeeui.brand.turbolauncher.R$id: int widget_name
+com.cooeeui.brand.turbolauncher.R$id: int widget_preview
+com.cooeeui.brand.turbolauncher.R$id: int workspace
+com.cooeeui.brand.turbolauncher.R$id: int workspace_cling
+com.cooeeui.brand.turbolauncher.R$integer
+com.cooeeui.brand.turbolauncher.R$integer: int apps_customize_cling_focused_x
+com.cooeeui.brand.turbolauncher.R$integer: int apps_customize_cling_focused_y
+com.cooeeui.brand.turbolauncher.R$integer: int apps_customize_maxCellCountX
+com.cooeeui.brand.turbolauncher.R$integer: int apps_customize_maxCellCountY
+com.cooeeui.brand.turbolauncher.R$integer: int apps_customize_widget_cell_count_x
+com.cooeeui.brand.turbolauncher.R$integer: int apps_customize_widget_cell_count_y
+com.cooeeui.brand.turbolauncher.R$integer: int cell_count_x
+com.cooeeui.brand.turbolauncher.R$integer: int cell_count_y
+com.cooeeui.brand.turbolauncher.R$integer: int config_allAppsBatchLoadDelay
+com.cooeeui.brand.turbolauncher.R$integer: int config_allAppsBatchSize
+com.cooeeui.brand.turbolauncher.R$integer: int config_appsCustomizeDragSlopeThreshold
+com.cooeeui.brand.turbolauncher.R$integer: int config_appsCustomizeFadeInTime
+com.cooeeui.brand.turbolauncher.R$integer: int config_appsCustomizeFadeOutTime
+com.cooeeui.brand.turbolauncher.R$integer: int config_appsCustomizeSpringLoadedBgAlpha
+com.cooeeui.brand.turbolauncher.R$integer: int config_appsCustomizeWorkspaceAnimationStagger
+com.cooeeui.brand.turbolauncher.R$integer: int config_appsCustomizeWorkspaceShrinkTime
+com.cooeeui.brand.turbolauncher.R$integer: int config_appsCustomizeZoomInTime
+com.cooeeui.brand.turbolauncher.R$integer: int config_appsCustomizeZoomOutTime
+com.cooeeui.brand.turbolauncher.R$integer: int config_appsCustomizeZoomScaleFactor
+com.cooeeui.brand.turbolauncher.R$integer: int config_cameraDistance
+com.cooeeui.brand.turbolauncher.R$integer: int config_dragFadeOutAlpha
+com.cooeeui.brand.turbolauncher.R$integer: int config_dragFadeOutDuration
+com.cooeeui.brand.turbolauncher.R$integer: int config_dragOutlineFadeTime
+com.cooeeui.brand.turbolauncher.R$integer: int config_dragOutlineMaxAlpha
+com.cooeeui.brand.turbolauncher.R$integer: int config_dropAnimMaxDist
+com.cooeeui.brand.turbolauncher.R$integer: int config_dropAnimMaxDuration
+com.cooeeui.brand.turbolauncher.R$integer: int config_dropAnimMinDuration
+com.cooeeui.brand.turbolauncher.R$integer: int config_dropTargetBgTransitionDuration
+com.cooeeui.brand.turbolauncher.R$integer: int config_flingToDeleteMinVelocity
+com.cooeeui.brand.turbolauncher.R$integer: int config_folderAnimDuration
+com.cooeeui.brand.turbolauncher.R$integer: int config_maxNumberOfPageIndicatorsToShow
+com.cooeeui.brand.turbolauncher.R$integer: int config_tabTransitionDuration
+com.cooeeui.brand.turbolauncher.R$integer: int config_workspaceAppsCustomizeAnimationStagger
+com.cooeeui.brand.turbolauncher.R$integer: int config_workspaceEdit1ModelShrinkPercentage
+com.cooeeui.brand.turbolauncher.R$integer: int config_workspaceEdit2ModelShrinkPercentage
+com.cooeeui.brand.turbolauncher.R$integer: int config_workspaceSpringLoadShrinkPercentage
+com.cooeeui.brand.turbolauncher.R$integer: int config_workspaceToEdit1Time
+com.cooeeui.brand.turbolauncher.R$integer: int config_workspaceUnshrinkTime
+com.cooeeui.brand.turbolauncher.R$integer: int folder_max_count_x
+com.cooeeui.brand.turbolauncher.R$integer: int folder_max_count_y
+com.cooeeui.brand.turbolauncher.R$integer: int folder_max_num_items
+com.cooeeui.brand.turbolauncher.R$integer: int hotseat_all_apps_index
+com.cooeeui.brand.turbolauncher.R$integer: int hotseat_cell_count
+com.cooeeui.brand.turbolauncher.R$integer: int hotseat_item_scale_percentage
+com.cooeeui.brand.turbolauncher.R$integer: int item_type_app
+com.cooeeui.brand.turbolauncher.R$integer: int item_type_shortcut
+com.cooeeui.brand.turbolauncher.R$integer: int item_type_virtuality
+com.cooeeui.brand.turbolauncher.R$layout
+com.cooeeui.brand.turbolauncher.R$layout: int add_list_item
+com.cooeeui.brand.turbolauncher.R$layout: int air_push_dialog
+com.cooeeui.brand.turbolauncher.R$layout: int air_push_notification
+com.cooeeui.brand.turbolauncher.R$layout: int all_apps_cling
+com.cooeeui.brand.turbolauncher.R$layout: int application
+com.cooeeui.brand.turbolauncher.R$layout: int apps_customize_application
+com.cooeeui.brand.turbolauncher.R$layout: int apps_customize_pane
+com.cooeeui.brand.turbolauncher.R$layout: int apps_customize_progressbar
+com.cooeeui.brand.turbolauncher.R$layout: int apps_customize_widget
+com.cooeeui.brand.turbolauncher.R$layout: int appwidget_error
+com.cooeeui.brand.turbolauncher.R$layout: int appwidget_numberclock
+com.cooeeui.brand.turbolauncher.R$layout: int appwidget_searchbar
+com.cooeeui.brand.turbolauncher.R$layout: int cityfinderlayout
+com.cooeeui.brand.turbolauncher.R$layout: int cityresult_layout
+com.cooeeui.brand.turbolauncher.R$layout: int clear_launcher
+com.cooeeui.brand.turbolauncher.R$layout: int clear_launcher_en
+com.cooeeui.brand.turbolauncher.R$layout: int contentlayout
+com.cooeeui.brand.turbolauncher.R$layout: int custom_workspace_cling
+com.cooeeui.brand.turbolauncher.R$layout: int customprocessdialog
+com.cooeeui.brand.turbolauncher.R$layout: int de_tab_view
+com.cooeeui.brand.turbolauncher.R$layout: int desktop_edit_tab_add
+com.cooeeui.brand.turbolauncher.R$layout: int desktop_edit_tab_effect
+com.cooeeui.brand.turbolauncher.R$layout: int desktop_edit_tab_theme
+com.cooeeui.brand.turbolauncher.R$layout: int destop_edit_tab_wallpaper
+com.cooeeui.brand.turbolauncher.R$layout: int download_notification
+com.cooeeui.brand.turbolauncher.R$layout: int ds_aboutlayout
+com.cooeeui.brand.turbolauncher.R$layout: int ds_aboutprivacy
+com.cooeeui.brand.turbolauncher.R$layout: int ds_appdrawerlayout
+com.cooeeui.brand.turbolauncher.R$layout: int ds_desktopsettingslayout
+com.cooeeui.brand.turbolauncher.R$layout: int ds_gesturelayout
+com.cooeeui.brand.turbolauncher.R$layout: int ds_iconslayout
+com.cooeeui.brand.turbolauncher.R$layout: int ds_screenlayout
+com.cooeeui.brand.turbolauncher.R$layout: int ds_systemlayout
+com.cooeeui.brand.turbolauncher.R$layout: int effect_main
+com.cooeeui.brand.turbolauncher.R$layout: int external_widget_drop_list_item
+com.cooeeui.brand.turbolauncher.R$layout: int folder_bg
+com.cooeeui.brand.turbolauncher.R$layout: int folder_cling
+com.cooeeui.brand.turbolauncher.R$layout: int folder_icon
+com.cooeeui.brand.turbolauncher.R$layout: int font_main
+com.cooeeui.brand.turbolauncher.R$layout: int gallery_item_downloading
+com.cooeeui.brand.turbolauncher.R$layout: int grid_item
+com.cooeeui.brand.turbolauncher.R$layout: int grid_item_downloading
+com.cooeeui.brand.turbolauncher.R$layout: int grid_item_large
+com.cooeeui.brand.turbolauncher.R$layout: int hot_and_default
+com.cooeeui.brand.turbolauncher.R$layout: int hotseat
+com.cooeeui.brand.turbolauncher.R$layout: int indicator_effect
+com.cooeeui.brand.turbolauncher.R$layout: int indicator_font
+com.cooeeui.brand.turbolauncher.R$layout: int indicator_lock
+com.cooeeui.brand.turbolauncher.R$layout: int indicator_scene
+com.cooeeui.brand.turbolauncher.R$layout: int indicator_theme
+com.cooeeui.brand.turbolauncher.R$layout: int indicator_wallpaper
+com.cooeeui.brand.turbolauncher.R$layout: int indicator_widget
+com.cooeeui.brand.turbolauncher.R$layout: int item_ds_edit_theme
+com.cooeeui.brand.turbolauncher.R$layout: int launcher
+com.cooeeui.brand.turbolauncher.R$layout: int lock_grid
+com.cooeeui.brand.turbolauncher.R$layout: int lock_grid_hot
+com.cooeeui.brand.turbolauncher.R$layout: int lock_grid_include_empty
+com.cooeeui.brand.turbolauncher.R$layout: int lock_main
+com.cooeeui.brand.turbolauncher.R$layout: int lockhome
+com.cooeeui.brand.turbolauncher.R$layout: int lockhome_en
+com.cooeeui.brand.turbolauncher.R$layout: int main_effect_item
+com.cooeeui.brand.turbolauncher.R$layout: int main_font_item
+com.cooeeui.brand.turbolauncher.R$layout: int main_tab
+com.cooeeui.brand.turbolauncher.R$layout: int main_tab_lock
+com.cooeeui.brand.turbolauncher.R$layout: int main_wallpaper_item
+com.cooeeui.brand.turbolauncher.R$layout: int main_widget_item
+com.cooeeui.brand.turbolauncher.R$layout: int man_tab_nolock
+com.cooeeui.brand.turbolauncher.R$layout: int market_button
+com.cooeeui.brand.turbolauncher.R$layout: int page_indicator
+com.cooeeui.brand.turbolauncher.R$layout: int page_indicator_marker
+com.cooeeui.brand.turbolauncher.R$layout: int preview_hot
+com.cooeeui.brand.turbolauncher.R$layout: int preview_hot_infor
+com.cooeeui.brand.turbolauncher.R$layout: int preview_hot_picture
+com.cooeeui.brand.turbolauncher.R$layout: int preview_wallpaper
+com.cooeeui.brand.turbolauncher.R$layout: int push_app_item
+com.cooeeui.brand.turbolauncher.R$layout: int refresh_footer
+com.cooeeui.brand.turbolauncher.R$layout: int refresh_header
+com.cooeeui.brand.turbolauncher.R$layout: int rename_folder
+com.cooeeui.brand.turbolauncher.R$layout: int scroll_indicator
+com.cooeeui.brand.turbolauncher.R$layout: int tab_host_desktop_edit
+com.cooeeui.brand.turbolauncher.R$layout: int tab_widget_indicator
+com.cooeeui.brand.turbolauncher.R$layout: int theme_download
+com.cooeeui.brand.turbolauncher.R$layout: int theme_item
+com.cooeeui.brand.turbolauncher.R$layout: int theme_main
+com.cooeeui.brand.turbolauncher.R$layout: int umeng_common_download_notification
+com.cooeeui.brand.turbolauncher.R$layout: int umeng_fb_activity_contact
+com.cooeeui.brand.turbolauncher.R$layout: int umeng_fb_activity_conversation
+com.cooeeui.brand.turbolauncher.R$layout: int umeng_fb_list_header
+com.cooeeui.brand.turbolauncher.R$layout: int umeng_fb_list_item
+com.cooeeui.brand.turbolauncher.R$layout: int umeng_fb_new_reply_alert_dialog
+com.cooeeui.brand.turbolauncher.R$layout: int umeng_update_dialog
+com.cooeeui.brand.turbolauncher.R$layout: int user_folder
+com.cooeeui.brand.turbolauncher.R$layout: int wallpaper_chooser
+com.cooeeui.brand.turbolauncher.R$layout: int wallpaper_chooser_base
+com.cooeeui.brand.turbolauncher.R$layout: int wallpaper_grid_hot
+com.cooeeui.brand.turbolauncher.R$layout: int wallpaper_item
+com.cooeeui.brand.turbolauncher.R$layout: int wallpaper_preview_item
+com.cooeeui.brand.turbolauncher.R$layout: int weathercurvelayout
+com.cooeeui.brand.turbolauncher.R$layout: int workspace
+com.cooeeui.brand.turbolauncher.R$layout: int workspace_cling
+com.cooeeui.brand.turbolauncher.R$layout: int workspace_divider
+com.cooeeui.brand.turbolauncher.R$layout: int workspace_screen
+com.cooeeui.brand.turbolauncher.R$menu
+com.cooeeui.brand.turbolauncher.R$menu: int activity_main
+com.cooeeui.brand.turbolauncher.R$mipmap
+com.cooeeui.brand.turbolauncher.R$mipmap: int ic_launcher_application
+com.cooeeui.brand.turbolauncher.R$mipmap: int ic_launcher_home
+com.cooeeui.brand.turbolauncher.R$string
+com.cooeeui.brand.turbolauncher.R$string: int App_effect_list
+com.cooeeui.brand.turbolauncher.R$string: int Flushfailed_foreign
+com.cooeeui.brand.turbolauncher.R$string: int Initial_fail
+com.cooeeui.brand.turbolauncher.R$string: int Initialing
+com.cooeeui.brand.turbolauncher.R$string: int Launcher
+com.cooeeui.brand.turbolauncher.R$string: int UMAppUpdate
+com.cooeeui.brand.turbolauncher.R$string: int UMBreak_Network
+com.cooeeui.brand.turbolauncher.R$string: int UMDialog_InstallAPK
+com.cooeeui.brand.turbolauncher.R$string: int UMGprsCondition
+com.cooeeui.brand.turbolauncher.R$string: int UMIgnore
+com.cooeeui.brand.turbolauncher.R$string: int UMNewVersion
+com.cooeeui.brand.turbolauncher.R$string: int UMNotNow
+com.cooeeui.brand.turbolauncher.R$string: int UMTargetSize
+com.cooeeui.brand.turbolauncher.R$string: int UMToast_IsUpdating
+com.cooeeui.brand.turbolauncher.R$string: int UMUpdateCheck
+com.cooeeui.brand.turbolauncher.R$string: int UMUpdateContent
+com.cooeeui.brand.turbolauncher.R$string: int UMUpdateNow
+com.cooeeui.brand.turbolauncher.R$string: int UMUpdateSize
+com.cooeeui.brand.turbolauncher.R$string: int UMUpdateTitle
+com.cooeeui.brand.turbolauncher.R$string: int Workspace_effect_list
+com.cooeeui.brand.turbolauncher.R$string: int accessibility_all_apps_button
+com.cooeeui.brand.turbolauncher.R$string: int accessibility_delete_button
+com.cooeeui.brand.turbolauncher.R$string: int accessibility_search_button
+com.cooeeui.brand.turbolauncher.R$string: int accessibility_voice_search_button
+com.cooeeui.brand.turbolauncher.R$string: int activity_not_found
+com.cooeeui.brand.turbolauncher.R$string: int all_apps_button_label
+com.cooeeui.brand.turbolauncher.R$string: int all_apps_cling_add_item
+com.cooeeui.brand.turbolauncher.R$string: int all_apps_cling_title
+com.cooeeui.brand.turbolauncher.R$string: int all_apps_home_button_label
+com.cooeeui.brand.turbolauncher.R$string: int app_list_slide
+com.cooeeui.brand.turbolauncher.R$string: int application_name
+com.cooeeui.brand.turbolauncher.R$string: int applyfont
+com.cooeeui.brand.turbolauncher.R$string: int applytheme
+com.cooeeui.brand.turbolauncher.R$string: int apps_customize_apps_scroll_format
+com.cooeeui.brand.turbolauncher.R$string: int apps_customize_widgets_scroll_format
+com.cooeeui.brand.turbolauncher.R$string: int autoUpdate
+com.cooeeui.brand.turbolauncher.R$string: int backup_and_restore
+com.cooeeui.brand.turbolauncher.R$string: int backup_desktop
+com.cooeeui.brand.turbolauncher.R$string: int backup_restore_setting
+com.cooeeui.brand.turbolauncher.R$string: int basic_setting
+com.cooeeui.brand.turbolauncher.R$string: int bgSpace
+com.cooeeui.brand.turbolauncher.R$string: int bgTheme
+com.cooeeui.brand.turbolauncher.R$string: int btnApply
+com.cooeeui.brand.turbolauncher.R$string: int btnBuy
+com.cooeeui.brand.turbolauncher.R$string: int btnDelete
+com.cooeeui.brand.turbolauncher.R$string: int btnDownload
+com.cooeeui.brand.turbolauncher.R$string: int btnHotLock
+com.cooeeui.brand.turbolauncher.R$string: int btnInstall
+com.cooeeui.brand.turbolauncher.R$string: int btnLocalLock
+com.cooeeui.brand.turbolauncher.R$string: int btnLocalScene
+com.cooeeui.brand.turbolauncher.R$string: int btnLocalTheme
+com.cooeeui.brand.turbolauncher.R$string: int btnLocalWidget
+com.cooeeui.brand.turbolauncher.R$string: int btnReturn
+com.cooeeui.brand.turbolauncher.R$string: int btnSetting
+com.cooeeui.brand.turbolauncher.R$string: int btnShare
+com.cooeeui.brand.turbolauncher.R$string: int btnUninstall
+com.cooeeui.brand.turbolauncher.R$string: int cab_app_selection_text
+com.cooeeui.brand.turbolauncher.R$string: int cab_folder_selection_text
+com.cooeeui.brand.turbolauncher.R$string: int cab_menu_app_info
+com.cooeeui.brand.turbolauncher.R$string: int cab_menu_delete_app
+com.cooeeui.brand.turbolauncher.R$string: int cab_shortcut_selection_text
+com.cooeeui.brand.turbolauncher.R$string: int cab_widget_selection_text
+com.cooeeui.brand.turbolauncher.R$string: int cancel_action
+com.cooeeui.brand.turbolauncher.R$string: int changeLockWallpaper
+com.cooeeui.brand.turbolauncher.R$string: int changingTheme
+com.cooeeui.brand.turbolauncher.R$string: int changingWallpaper
+com.cooeeui.brand.turbolauncher.R$string: int chooseLauncher
+com.cooeeui.brand.turbolauncher.R$string: int chooser_wallpaper
+com.cooeeui.brand.turbolauncher.R$string: int circle_select
+com.cooeeui.brand.turbolauncher.R$string: int circle_select_switch
+com.cooeeui.brand.turbolauncher.R$string: int citynotfound
+com.cooeeui.brand.turbolauncher.R$string: int citynotfound_foreign
+com.cooeeui.brand.turbolauncher.R$string: int clearLauncher
+com.cooeeui.brand.turbolauncher.R$string: int clickLock
+com.cooeeui.brand.turbolauncher.R$string: int cling_dismiss
+com.cooeeui.brand.turbolauncher.R$string: int completely_out_of_space
+com.cooeeui.brand.turbolauncher.R$string: int custom_workspace_cling_description_1
+com.cooeeui.brand.turbolauncher.R$string: int custom_workspace_cling_description_2
+com.cooeeui.brand.turbolauncher.R$string: int custom_workspace_cling_title_1
+com.cooeeui.brand.turbolauncher.R$string: int custom_workspace_cling_title_2
+com.cooeeui.brand.turbolauncher.R$string: int de_option_app_text
+com.cooeeui.brand.turbolauncher.R$string: int de_option_folder_text
+com.cooeeui.brand.turbolauncher.R$string: int de_option_shortcut_text
+com.cooeeui.brand.turbolauncher.R$string: int de_option_widget_text
+com.cooeeui.brand.turbolauncher.R$string: int de_tab_title_add
+com.cooeeui.brand.turbolauncher.R$string: int de_tab_title_effect
+com.cooeeui.brand.turbolauncher.R$string: int de_tab_title_theme
+com.cooeeui.brand.turbolauncher.R$string: int de_tab_title_wallpaper
+com.cooeeui.brand.turbolauncher.R$string: int defaultFont
+com.cooeeui.brand.turbolauncher.R$string: int defaultWeatherconditionName
+com.cooeeui.brand.turbolauncher.R$string: int defaultWeatherconditionName_foreign
+com.cooeeui.brand.turbolauncher.R$string: int default_cityname
+com.cooeeui.brand.turbolauncher.R$string: int default_foreigncity
+com.cooeeui.brand.turbolauncher.R$string: int default_foreigncorf
+com.cooeeui.brand.turbolauncher.R$string: int default_prompt
+com.cooeeui.brand.turbolauncher.R$string: int default_scroll_format
+com.cooeeui.brand.turbolauncher.R$string: int default_theme
+com.cooeeui.brand.turbolauncher.R$string: int defaulttheme
+com.cooeeui.brand.turbolauncher.R$string: int delete_cancel
+com.cooeeui.brand.turbolauncher.R$string: int delete_ok
+com.cooeeui.brand.turbolauncher.R$string: int delete_target_label
+com.cooeeui.brand.turbolauncher.R$string: int delete_target_uninstall_label
+com.cooeeui.brand.turbolauncher.R$string: int delete_zone_label_all_apps
+com.cooeeui.brand.turbolauncher.R$string: int delete_zone_label_all_apps_system_app
+com.cooeeui.brand.turbolauncher.R$string: int delete_zone_label_workspace
+com.cooeeui.brand.turbolauncher.R$string: int desktop_setting
+com.cooeeui.brand.turbolauncher.R$string: int desktop_slide
+com.cooeeui.brand.turbolauncher.R$string: int download_enginer
+com.cooeeui.brand.turbolauncher.R$string: int dream_name
+com.cooeeui.brand.turbolauncher.R$string: int ds_about
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_about
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_check_updates
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_email
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_email_address
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_facebook
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_facebook_site
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_feedback
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_privacy_notice
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_qq_installation_alert
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_qqgroup
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_qqgroup_address
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_system
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_title
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_update
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_version
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_weibo
+com.cooeeui.brand.turbolauncher.R$string: int ds_about_weibo_site
+com.cooeeui.brand.turbolauncher.R$string: int ds_appdrawer_effect
+com.cooeeui.brand.turbolauncher.R$string: int ds_appdrawer_gridsize
+com.cooeeui.brand.turbolauncher.R$string: int ds_appdrawer_infinite
+com.cooeeui.brand.turbolauncher.R$string: int ds_basicsettings
+com.cooeeui.brand.turbolauncher.R$string: int ds_basicsettings_appdrawer
+com.cooeeui.brand.turbolauncher.R$string: int ds_basicsettings_icons
+com.cooeeui.brand.turbolauncher.R$string: int ds_basicsettings_screen
+com.cooeeui.brand.turbolauncher.R$string: int ds_doubleclick
+com.cooeeui.brand.turbolauncher.R$string: int ds_doubleclick_defult
+com.cooeeui.brand.turbolauncher.R$string: int ds_expandfunction
+com.cooeeui.brand.turbolauncher.R$string: int ds_expandfunction_appbar
+com.cooeeui.brand.turbolauncher.R$string: int ds_expandfunction_gesture
+com.cooeeui.brand.turbolauncher.R$string: int ds_icon_big
+com.cooeeui.brand.turbolauncher.R$string: int ds_icon_middle
+com.cooeeui.brand.turbolauncher.R$string: int ds_icon_small
+com.cooeeui.brand.turbolauncher.R$string: int ds_logoname
+com.cooeeui.brand.turbolauncher.R$string: int ds_palm
+com.cooeeui.brand.turbolauncher.R$string: int ds_palm_defult
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_1
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_1_detail
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_2
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_2_detail
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_3
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_3_detail
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_4
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_4_detail
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_5
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_5_detail
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_6
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_6_detail
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_7
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_7_detail
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_8
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_8_detail
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_1
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_10
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_11
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_12
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_13
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_14
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_15
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_16
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_17
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_18
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_2
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_3
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_4
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_5
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_6
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_7
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_8
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_9_9
+com.cooeeui.brand.turbolauncher.R$string: int ds_pn_end
+com.cooeeui.brand.turbolauncher.R$string: int ds_privacy_notice_text
+com.cooeeui.brand.turbolauncher.R$string: int ds_privacy_notice_title
+com.cooeeui.brand.turbolauncher.R$string: int ds_screen_wallpaper
+com.cooeeui.brand.turbolauncher.R$string: int ds_screen_wallpapereffect
+com.cooeeui.brand.turbolauncher.R$string: int ds_screen_wallpapereinfinite
+com.cooeeui.brand.turbolauncher.R$string: int ds_screen_wallpaperscroll
+com.cooeeui.brand.turbolauncher.R$string: int ds_setdefaultlaucher
+com.cooeeui.brand.turbolauncher.R$string: int ds_singlefingerdown
+com.cooeeui.brand.turbolauncher.R$string: int ds_singlefingerdown_default
+com.cooeeui.brand.turbolauncher.R$string: int ds_singlefingerup
+com.cooeeui.brand.turbolauncher.R$string: int ds_singlefingerup_default
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_backup
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_backup_back_to_SD
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_backup_default
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_backup_fail
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_backup_latest
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_backup_pls_insert_SD
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_backup_restore
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_backup_success
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_backup_title_back
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_backup_title_restore
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_reset
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_reset_msg
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_restore
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_restore_default
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_restore_desktoptxt
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_restore_fail
+com.cooeeui.brand.turbolauncher.R$string: int ds_system_vibrator
+com.cooeeui.brand.turbolauncher.R$string: int ds_twofingerPinchtogether
+com.cooeeui.brand.turbolauncher.R$string: int ds_twofingerPinchtogether_defult
+com.cooeeui.brand.turbolauncher.R$string: int ds_twofingerdown
+com.cooeeui.brand.turbolauncher.R$string: int ds_twofingerdown_defult
+com.cooeeui.brand.turbolauncher.R$string: int ds_twofingerexpand
+com.cooeeui.brand.turbolauncher.R$string: int ds_twofingerexpand_defult
+com.cooeeui.brand.turbolauncher.R$string: int ds_twofingerleft
+com.cooeeui.brand.turbolauncher.R$string: int ds_twofingerleft_defult
+com.cooeeui.brand.turbolauncher.R$string: int ds_twofingerright
+com.cooeeui.brand.turbolauncher.R$string: int ds_twofingerright_defult
+com.cooeeui.brand.turbolauncher.R$string: int ds_twofingerup
+com.cooeeui.brand.turbolauncher.R$string: int ds_twofingerup_defult
+com.cooeeui.brand.turbolauncher.R$string: int ds_umeng_dstoastmsg
+com.cooeeui.brand.turbolauncher.R$string: int ds_umeng_update_dialogmsg
+com.cooeeui.brand.turbolauncher.R$string: int ds_umeng_update_timeout
+com.cooeeui.brand.turbolauncher.R$string: int ds_umeng_update_wifi
+com.cooeeui.brand.turbolauncher.R$string: int dummy_custom_cling_error_message
+com.cooeeui.brand.turbolauncher.R$string: int effect_setting
+com.cooeeui.brand.turbolauncher.R$string: int exit_launcher
+com.cooeeui.brand.turbolauncher.R$string: int external_drop_widget_error
+com.cooeeui.brand.turbolauncher.R$string: int external_drop_widget_pick_format
+com.cooeeui.brand.turbolauncher.R$string: int external_drop_widget_pick_title
+com.cooeeui.brand.turbolauncher.R$string: int feedback
+com.cooeeui.brand.turbolauncher.R$string: int firstweek
+com.cooeeui.brand.turbolauncher.R$string: int firstweek_foreign
+com.cooeeui.brand.turbolauncher.R$string: int fiveweek
+com.cooeeui.brand.turbolauncher.R$string: int fiveweek_foreign
+com.cooeeui.brand.turbolauncher.R$string: int flush_Prompt
+com.cooeeui.brand.turbolauncher.R$string: int flush_Prompt_foreign
+com.cooeeui.brand.turbolauncher.R$string: int flushfailed
+com.cooeeui.brand.turbolauncher.R$string: int folder_cling_create_folder
+com.cooeeui.brand.turbolauncher.R$string: int folder_cling_move_item
+com.cooeeui.brand.turbolauncher.R$string: int folder_cling_title
+com.cooeeui.brand.turbolauncher.R$string: int folder_closed
+com.cooeeui.brand.turbolauncher.R$string: int folder_hint_text
+com.cooeeui.brand.turbolauncher.R$string: int folder_name
+com.cooeeui.brand.turbolauncher.R$string: int folder_name_format
+com.cooeeui.brand.turbolauncher.R$string: int folder_opened
+com.cooeeui.brand.turbolauncher.R$string: int folder_renamed
+com.cooeeui.brand.turbolauncher.R$string: int folder_tap_to_close
+com.cooeeui.brand.turbolauncher.R$string: int folder_tap_to_rename
+com.cooeeui.brand.turbolauncher.R$string: int forthweek
+com.cooeeui.brand.turbolauncher.R$string: int forthweek_foreign
+com.cooeeui.brand.turbolauncher.R$string: int gadget_error_text
+com.cooeeui.brand.turbolauncher.R$string: int getMoreLock
+com.cooeeui.brand.turbolauncher.R$string: int getMoreTheme
+com.cooeeui.brand.turbolauncher.R$string: int group_applications
+com.cooeeui.brand.turbolauncher.R$string: int group_shortcuts
+com.cooeeui.brand.turbolauncher.R$string: int group_wallpapers
+com.cooeeui.brand.turbolauncher.R$string: int group_widgets
+com.cooeeui.brand.turbolauncher.R$string: int guide_help
+com.cooeeui.brand.turbolauncher.R$string: int guide_install
+com.cooeeui.brand.turbolauncher.R$string: int has_bought
+com.cooeeui.brand.turbolauncher.R$string: int help_url
+com.cooeeui.brand.turbolauncher.R$string: int home
+com.cooeeui.brand.turbolauncher.R$string: int hotseat_out_of_space
+com.cooeeui.brand.turbolauncher.R$string: int hotseat_title_0
+com.cooeeui.brand.turbolauncher.R$string: int hotseat_title_1
+com.cooeeui.brand.turbolauncher.R$string: int hotseat_title_2
+com.cooeeui.brand.turbolauncher.R$string: int hotseat_title_3
+com.cooeeui.brand.turbolauncher.R$string: int info_target_label
+com.cooeeui.brand.turbolauncher.R$string: int init_waitting
+com.cooeeui.brand.turbolauncher.R$string: int internet_err
+com.cooeeui.brand.turbolauncher.R$string: int internet_unusual
+com.cooeeui.brand.turbolauncher.R$string: int invalid_hotseat_item
+com.cooeeui.brand.turbolauncher.R$string: int is_downloading
+com.cooeeui.brand.turbolauncher.R$string: int localtheme
+com.cooeeui.brand.turbolauncher.R$string: int lockHome
+com.cooeeui.brand.turbolauncher.R$string: int lock_apply_toast
+com.cooeeui.brand.turbolauncher.R$string: int lock_wallpaper
+com.cooeeui.brand.turbolauncher.R$string: int locker_setting
+com.cooeeui.brand.turbolauncher.R$string: int long_press_widget_to_add
+com.cooeeui.brand.turbolauncher.R$string: int makesure_to_delete
+com.cooeeui.brand.turbolauncher.R$string: int market
+com.cooeeui.brand.turbolauncher.R$string: int memory_prompt
+com.cooeeui.brand.turbolauncher.R$string: int menu_add
+com.cooeeui.brand.turbolauncher.R$string: int menu_desktopsetting
+com.cooeeui.brand.turbolauncher.R$string: int menu_editor
+com.cooeeui.brand.turbolauncher.R$string: int menu_help
+com.cooeeui.brand.turbolauncher.R$string: int menu_item_add_item
+com.cooeeui.brand.turbolauncher.R$string: int menu_landcenter
+com.cooeeui.brand.turbolauncher.R$string: int menu_manage_apps
+com.cooeeui.brand.turbolauncher.R$string: int menu_notifications
+com.cooeeui.brand.turbolauncher.R$string: int menu_search
+com.cooeeui.brand.turbolauncher.R$string: int menu_settings
+com.cooeeui.brand.turbolauncher.R$string: int menu_wallpaper
+com.cooeeui.brand.turbolauncher.R$string: int more
+com.cooeeui.brand.turbolauncher.R$string: int mostly_used
+com.cooeeui.brand.turbolauncher.R$string: int networkerror
+com.cooeeui.brand.turbolauncher.R$string: int networkerror_foreign
+com.cooeeui.brand.turbolauncher.R$string: int no_theme_to_be_replaced
+com.cooeeui.brand.turbolauncher.R$string: int noneed_update
+com.cooeeui.brand.turbolauncher.R$string: int notify_add_download
+com.cooeeui.brand.turbolauncher.R$string: int notify_download_fail
+com.cooeeui.brand.turbolauncher.R$string: int notify_download_finish
+com.cooeeui.brand.turbolauncher.R$string: int notify_downloading
+com.cooeeui.brand.turbolauncher.R$string: int notify_pause_download
+com.cooeeui.brand.turbolauncher.R$string: int notsetcity
+com.cooeeui.brand.turbolauncher.R$string: int notsetcity_foreign
+com.cooeeui.brand.turbolauncher.R$string: int numberclockapp_name
+com.cooeeui.brand.turbolauncher.R$string: int onlinetheme
+com.cooeeui.brand.turbolauncher.R$string: int out_of_space
+com.cooeeui.brand.turbolauncher.R$string: int permdesc_install_shortcut
+com.cooeeui.brand.turbolauncher.R$string: int permdesc_read_settings
+com.cooeeui.brand.turbolauncher.R$string: int permdesc_uninstall_shortcut
+com.cooeeui.brand.turbolauncher.R$string: int permdesc_write_settings
+com.cooeeui.brand.turbolauncher.R$string: int permlab_install_shortcut
+com.cooeeui.brand.turbolauncher.R$string: int permlab_read_settings
+com.cooeeui.brand.turbolauncher.R$string: int permlab_uninstall_shortcut
+com.cooeeui.brand.turbolauncher.R$string: int permlab_write_settings
+com.cooeeui.brand.turbolauncher.R$string: int pick_wallpaper
+com.cooeeui.brand.turbolauncher.R$string: int preferClickLock
+com.cooeeui.brand.turbolauncher.R$string: int preferCreateShortcut
+com.cooeeui.brand.turbolauncher.R$string: int preferLock
+com.cooeeui.brand.turbolauncher.R$string: int preferOff
+com.cooeeui.brand.turbolauncher.R$string: int preferOn
+com.cooeeui.brand.turbolauncher.R$string: int preferSendDesktop
+com.cooeeui.brand.turbolauncher.R$string: int preferSound
+com.cooeeui.brand.turbolauncher.R$string: int preferTitle1
+com.cooeeui.brand.turbolauncher.R$string: int preferTitle2
+com.cooeeui.brand.turbolauncher.R$string: int preferVibrate
+com.cooeeui.brand.turbolauncher.R$string: int preferlockHomeTitle
+com.cooeeui.brand.turbolauncher.R$string: int previewIntroduction
+com.cooeeui.brand.turbolauncher.R$string: int previewLockSize
+com.cooeeui.brand.turbolauncher.R$string: int previewSize
+com.cooeeui.brand.turbolauncher.R$string: int previewThemeSize
+com.cooeeui.brand.turbolauncher.R$string: int price_free
+com.cooeeui.brand.turbolauncher.R$string: int pull_to_refresh_footer_pull_label
+com.cooeeui.brand.turbolauncher.R$string: int pull_to_refresh_footer_refreshing_label
+com.cooeeui.brand.turbolauncher.R$string: int pull_to_refresh_footer_release_label
+com.cooeeui.brand.turbolauncher.R$string: int pull_to_refresh_pull_label
+com.cooeeui.brand.turbolauncher.R$string: int pull_to_refresh_refreshing_label
+com.cooeeui.brand.turbolauncher.R$string: int pull_to_refresh_release_label
+com.cooeeui.brand.turbolauncher.R$string: int reLoadApk
+com.cooeeui.brand.turbolauncher.R$string: int recommend
+com.cooeeui.brand.turbolauncher.R$string: int removetheme
+com.cooeeui.brand.turbolauncher.R$string: int rename_action
+com.cooeeui.brand.turbolauncher.R$string: int rename_folder_label
+com.cooeeui.brand.turbolauncher.R$string: int rename_folder_title
+com.cooeeui.brand.turbolauncher.R$string: int reset_guide
+com.cooeeui.brand.turbolauncher.R$string: int restart_launcher
+com.cooeeui.brand.turbolauncher.R$string: int restore_desktop
+com.cooeeui.brand.turbolauncher.R$string: int screen_editor
+com.cooeeui.brand.turbolauncher.R$string: int sdcard_not_available
+com.cooeeui.brand.turbolauncher.R$string: int searchbarapp_name
+com.cooeeui.brand.turbolauncher.R$string: int searchfailed_foreign
+com.cooeeui.brand.turbolauncher.R$string: int secondweek
+com.cooeeui.brand.turbolauncher.R$string: int secondweek_foreign
+com.cooeeui.brand.turbolauncher.R$string: int select_gallery
+com.cooeeui.brand.turbolauncher.R$string: int select_live_wallpaper
+com.cooeeui.brand.turbolauncher.R$string: int server_begin_download
+com.cooeeui.brand.turbolauncher.R$string: int server_downloadRecommend_file_name
+com.cooeeui.brand.turbolauncher.R$string: int server_download_fail
+com.cooeeui.brand.turbolauncher.R$string: int server_download_file_name
+com.cooeeui.brand.turbolauncher.R$string: int server_download_finish
+com.cooeeui.brand.turbolauncher.R$string: int server_downloading
+com.cooeeui.brand.turbolauncher.R$string: int set_lock_wallpaper
+com.cooeeui.brand.turbolauncher.R$string: int setwallpaper
+com.cooeeui.brand.turbolauncher.R$string: int sevenweek
+com.cooeeui.brand.turbolauncher.R$string: int sevenweek_foreign
+com.cooeeui.brand.turbolauncher.R$string: int shake_wallpaper
+com.cooeeui.brand.turbolauncher.R$string: int shake_wallpaper_description
+com.cooeeui.brand.turbolauncher.R$string: int shake_wallpaper_not_supported
+com.cooeeui.brand.turbolauncher.R$string: int shareSubject
+com.cooeeui.brand.turbolauncher.R$string: int shareText
+com.cooeeui.brand.turbolauncher.R$string: int share_friends
+com.cooeeui.brand.turbolauncher.R$string: int shortcut_duplicate
+com.cooeeui.brand.turbolauncher.R$string: int shortcut_installed
+com.cooeeui.brand.turbolauncher.R$string: int shortcut_uninstalled
+com.cooeeui.brand.turbolauncher.R$string: int sixweek
+com.cooeeui.brand.turbolauncher.R$string: int sixweek_foreign
+com.cooeeui.brand.turbolauncher.R$string: int soft_update_cancel
+com.cooeeui.brand.turbolauncher.R$string: int soft_update_checking
+com.cooeeui.brand.turbolauncher.R$string: int soft_update_info
+com.cooeeui.brand.turbolauncher.R$string: int soft_update_later
+com.cooeeui.brand.turbolauncher.R$string: int soft_update_no
+com.cooeeui.brand.turbolauncher.R$string: int soft_update_title
+com.cooeeui.brand.turbolauncher.R$string: int soft_update_updatebtn
+com.cooeeui.brand.turbolauncher.R$string: int soft_updating
+com.cooeeui.brand.turbolauncher.R$string: int software_manager
+com.cooeeui.brand.turbolauncher.R$string: int system_setting
+com.cooeeui.brand.turbolauncher.R$string: int system_theme
+com.cooeeui.brand.turbolauncher.R$string: int system_widget
+com.cooeeui.brand.turbolauncher.R$string: int textDownloading
+com.cooeeui.brand.turbolauncher.R$string: int textEffect
+com.cooeeui.brand.turbolauncher.R$string: int textFont
+com.cooeeui.brand.turbolauncher.R$string: int textIntroduction
+com.cooeeui.brand.turbolauncher.R$string: int textLock
+com.cooeeui.brand.turbolauncher.R$string: int textLockSize
+com.cooeeui.brand.turbolauncher.R$string: int textPause
+com.cooeeui.brand.turbolauncher.R$string: int textPreview
+com.cooeeui.brand.turbolauncher.R$string: int textScene
+com.cooeeui.brand.turbolauncher.R$string: int textSdCardNotPrepare
+com.cooeeui.brand.turbolauncher.R$string: int textTheme
+com.cooeeui.brand.turbolauncher.R$string: int textWallpaper
+com.cooeeui.brand.turbolauncher.R$string: int textWidget
+com.cooeeui.brand.turbolauncher.R$string: int text_lcoal_Fonts
+com.cooeeui.brand.turbolauncher.R$string: int text_lcoal_Wallpapers
+com.cooeeui.brand.turbolauncher.R$string: int theme
+com.cooeeui.brand.turbolauncher.R$string: int theme_box_name
+com.cooeeui.brand.turbolauncher.R$string: int theme_change
+com.cooeeui.brand.turbolauncher.R$string: int theme_price
+com.cooeeui.brand.turbolauncher.R$string: int theme_select
+com.cooeeui.brand.turbolauncher.R$string: int themeauthor
+com.cooeeui.brand.turbolauncher.R$string: int themedata
+com.cooeeui.brand.turbolauncher.R$string: int themefeedback
+com.cooeeui.brand.turbolauncher.R$string: int themetype
+com.cooeeui.brand.turbolauncher.R$string: int themeversion
+com.cooeeui.brand.turbolauncher.R$string: int thirdweek
+com.cooeeui.brand.turbolauncher.R$string: int thirdweek_foreign
+com.cooeeui.brand.turbolauncher.R$string: int thumbImage
+com.cooeeui.brand.turbolauncher.R$string: int timeStyle
+com.cooeeui.brand.turbolauncher.R$string: int title_activity_main
+com.cooeeui.brand.turbolauncher.R$string: int title_activity_setting
+com.cooeeui.brand.turbolauncher.R$string: int title_select_application
+com.cooeeui.brand.turbolauncher.R$string: int title_select_shortcut
+com.cooeeui.brand.turbolauncher.R$string: int toastPreviewApply
+com.cooeeui.brand.turbolauncher.R$string: int toast_setwallpaper_success
+com.cooeeui.brand.turbolauncher.R$string: int uid_name
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_action_cancel
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_action_continue
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_action_info_exist
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_action_pause
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_download_failed
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_download_finish
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_download_notification_prefix
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_icon
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_info_interrupt
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_network_break_alert
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_patch_finish
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_pause_notification_prefix
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_silent_download_finish
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_start_download_notification
+com.cooeeui.brand.turbolauncher.R$string: int umeng_common_start_patch_notification
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_back
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_contact_info
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_contact_info_hint
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_contact_title
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_contact_update_at
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_notification_content_formatter_multiple_msg
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_notification_content_formatter_single_msg
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_notification_ticker_text
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_powered_by
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_reply_content_default
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_reply_content_hint
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_reply_date_default
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_send
+com.cooeeui.brand.turbolauncher.R$string: int umeng_fb_title
+com.cooeeui.brand.turbolauncher.R$string: int uninstall_system_app_text
+com.cooeeui.brand.turbolauncher.R$string: int unknown
+com.cooeeui.brand.turbolauncher.R$string: int unkonwweek
+com.cooeeui.brand.turbolauncher.R$string: int update_err
+com.cooeeui.brand.turbolauncher.R$string: int update_feedback
+com.cooeeui.brand.turbolauncher.R$string: int version_update
+com.cooeeui.brand.turbolauncher.R$string: int vibrate_on_long_click
+com.cooeeui.brand.turbolauncher.R$string: int vibrator
+com.cooeeui.brand.turbolauncher.R$string: int virtual_icon_themebox
+com.cooeeui.brand.turbolauncher.R$string: int virtual_icon_wallpaper
+com.cooeeui.brand.turbolauncher.R$string: int wallpaper
+com.cooeeui.brand.turbolauncher.R$string: int wallpaper_instructions
+com.cooeeui.brand.turbolauncher.R$string: int wallpaper_live
+com.cooeeui.brand.turbolauncher.R$string: int wallpaper_static
+com.cooeeui.brand.turbolauncher.R$string: int weathercurve_title
+com.cooeeui.brand.turbolauncher.R$string: int widget_dims_format
+com.cooeeui.brand.turbolauncher.R$string: int widget_local_click_toast
+com.cooeeui.brand.turbolauncher.R$string: int widgets_tab_label
+com.cooeeui.brand.turbolauncher.R$string: int workspace_cling_move_item
+com.cooeeui.brand.turbolauncher.R$string: int workspace_cling_open_all_apps
+com.cooeeui.brand.turbolauncher.R$string: int workspace_cling_title
+com.cooeeui.brand.turbolauncher.R$string: int workspace_description_format
+com.cooeeui.brand.turbolauncher.R$string: int workspace_scroll_format
+com.cooeeui.brand.turbolauncher.R$string: int zheshanlock
+com.cooeeui.brand.turbolauncher.R$string: int zorespace
+com.cooeeui.brand.turbolauncher.R$style
+com.cooeeui.brand.turbolauncher.R$style: int AppBaseTheme
+com.cooeeui.brand.turbolauncher.R$style: int AppTheme
+com.cooeeui.brand.turbolauncher.R$style: int ClingButton
+com.cooeeui.brand.turbolauncher.R$style: int ClingText
+com.cooeeui.brand.turbolauncher.R$style: int ClingTitleText
+com.cooeeui.brand.turbolauncher.R$style: int CustomClingText
+com.cooeeui.brand.turbolauncher.R$style: int CustomClingTitleText
+com.cooeeui.brand.turbolauncher.R$style: int CustomDialog
+com.cooeeui.brand.turbolauncher.R$style: int CustomProgressDialog
+com.cooeeui.brand.turbolauncher.R$style: int Dialog_FullScreen
+com.cooeeui.brand.turbolauncher.R$style: int DropTargetButton
+com.cooeeui.brand.turbolauncher.R$style: int MainTheme
+com.cooeeui.brand.turbolauncher.R$style: int MarketButton
+com.cooeeui.brand.turbolauncher.R$style: int NumberClock_ContentTheme
+com.cooeeui.brand.turbolauncher.R$style: int TabIndicator
+com.cooeeui.brand.turbolauncher.R$style: int TabIndicator_AppsCustomize
+com.cooeeui.brand.turbolauncher.R$style: int Theme
+com.cooeeui.brand.turbolauncher.R$style: int Theme_WallpaperPicker
+com.cooeeui.brand.turbolauncher.R$style: int Trashcan
+com.cooeeui.brand.turbolauncher.R$style: int WorkspaceIcon
+com.cooeeui.brand.turbolauncher.R$style: int WorkspaceIcon_Landscape
+com.cooeeui.brand.turbolauncher.R$style: int WorkspaceIcon_Landscape_AppsCustomize
+com.cooeeui.brand.turbolauncher.R$style: int WorkspaceIcon_Landscape_Folder
+com.cooeeui.brand.turbolauncher.R$style: int WorkspaceIcon_Portrait
+com.cooeeui.brand.turbolauncher.R$style: int WorkspaceIcon_Portrait_AppsCustomize
+com.cooeeui.brand.turbolauncher.R$style: int WorkspaceIcon_Portrait_Folder
+com.cooeeui.brand.turbolauncher.R$style: int activityTheme
+com.cooeeui.brand.turbolauncher.R$styleable
+com.cooeeui.brand.turbolauncher.R$styleable: int[] AppsCustomizePagedView
+com.cooeeui.brand.turbolauncher.R$styleable: int AppsCustomizePagedView_clingFocusedX
+com.cooeeui.brand.turbolauncher.R$styleable: int AppsCustomizePagedView_clingFocusedY
+com.cooeeui.brand.turbolauncher.R$styleable: int AppsCustomizePagedView_maxAppCellCountX
+com.cooeeui.brand.turbolauncher.R$styleable: int AppsCustomizePagedView_maxAppCellCountY
+com.cooeeui.brand.turbolauncher.R$styleable: int AppsCustomizePagedView_widgetCellHeightGap
+com.cooeeui.brand.turbolauncher.R$styleable: int AppsCustomizePagedView_widgetCellWidthGap
+com.cooeeui.brand.turbolauncher.R$styleable: int AppsCustomizePagedView_widgetCountX
+com.cooeeui.brand.turbolauncher.R$styleable: int AppsCustomizePagedView_widgetCountY
+com.cooeeui.brand.turbolauncher.R$styleable: int[] CellLayout
+com.cooeeui.brand.turbolauncher.R$styleable: int CellLayout_cellHeight
+com.cooeeui.brand.turbolauncher.R$styleable: int CellLayout_cellWidth
+com.cooeeui.brand.turbolauncher.R$styleable: int CellLayout_heightGap
+com.cooeeui.brand.turbolauncher.R$styleable: int CellLayout_maxGap
+com.cooeeui.brand.turbolauncher.R$styleable: int CellLayout_widthGap
+com.cooeeui.brand.turbolauncher.R$styleable: int[] Cling
+com.cooeeui.brand.turbolauncher.R$styleable: int Cling_drawIdentifier
+com.cooeeui.brand.turbolauncher.R$styleable: int[] CustomClingText
+com.cooeeui.brand.turbolauncher.R$styleable: int[] CustomClingTitleText
+com.cooeeui.brand.turbolauncher.R$styleable: int[] Extra
+com.cooeeui.brand.turbolauncher.R$styleable: int Extra_key
+com.cooeeui.brand.turbolauncher.R$styleable: int Extra_value
+com.cooeeui.brand.turbolauncher.R$styleable: int[] Favorite
+com.cooeeui.brand.turbolauncher.R$styleable: int Favorite_className
+com.cooeeui.brand.turbolauncher.R$styleable: int Favorite_container
+com.cooeeui.brand.turbolauncher.R$styleable: int Favorite_icon
+com.cooeeui.brand.turbolauncher.R$styleable: int Favorite_itemType
+com.cooeeui.brand.turbolauncher.R$styleable: int Favorite_packageName
+com.cooeeui.brand.turbolauncher.R$styleable: int Favorite_screen
+com.cooeeui.brand.turbolauncher.R$styleable: int Favorite_spanX
+com.cooeeui.brand.turbolauncher.R$styleable: int Favorite_spanY
+com.cooeeui.brand.turbolauncher.R$styleable: int Favorite_title
+com.cooeeui.brand.turbolauncher.R$styleable: int Favorite_uri
+com.cooeeui.brand.turbolauncher.R$styleable: int Favorite_x
+com.cooeeui.brand.turbolauncher.R$styleable: int Favorite_y
+com.cooeeui.brand.turbolauncher.R$styleable: int[] HandleView
+com.cooeeui.brand.turbolauncher.R$styleable: int HandleView_direction
+com.cooeeui.brand.turbolauncher.R$styleable: int[] HolographicLinearLayout
+com.cooeeui.brand.turbolauncher.R$styleable: int HolographicLinearLayout_sourceImageViewId
+com.cooeeui.brand.turbolauncher.R$styleable: int[] Hotseat
+com.cooeeui.brand.turbolauncher.R$styleable: int Hotseat_cellCountX
+com.cooeeui.brand.turbolauncher.R$styleable: int Hotseat_cellCountY
+com.cooeeui.brand.turbolauncher.R$styleable: int[] PageIndicator
+com.cooeeui.brand.turbolauncher.R$styleable: int PageIndicator_windowSize
+com.cooeeui.brand.turbolauncher.R$styleable: int[] PagedView
+com.cooeeui.brand.turbolauncher.R$styleable: int PagedView_pageIndicator
+com.cooeeui.brand.turbolauncher.R$styleable: int PagedView_pageLayoutHeightGap
+com.cooeeui.brand.turbolauncher.R$styleable: int PagedView_pageLayoutPaddingBottom
+com.cooeeui.brand.turbolauncher.R$styleable: int PagedView_pageLayoutPaddingLeft
+com.cooeeui.brand.turbolauncher.R$styleable: int PagedView_pageLayoutPaddingRight
+com.cooeeui.brand.turbolauncher.R$styleable: int PagedView_pageLayoutPaddingTop
+com.cooeeui.brand.turbolauncher.R$styleable: int PagedView_pageLayoutWidthGap
+com.cooeeui.brand.turbolauncher.R$styleable: int PagedView_pageSpacing
+com.cooeeui.brand.turbolauncher.R$styleable: int PagedView_scrollIndicatorPaddingLeft
+com.cooeeui.brand.turbolauncher.R$styleable: int PagedView_scrollIndicatorPaddingRight
+com.cooeeui.brand.turbolauncher.R$styleable: int[] StrokedTextView
+com.cooeeui.brand.turbolauncher.R$styleable: int StrokedTextView_strokeColor
+com.cooeeui.brand.turbolauncher.R$styleable: int StrokedTextView_strokeTextColor
+com.cooeeui.brand.turbolauncher.R$styleable: int StrokedTextView_strokeWidth
+com.cooeeui.brand.turbolauncher.R$styleable: int[] Workspace
+com.cooeeui.brand.turbolauncher.R$styleable: int Workspace_cellCountX
+com.cooeeui.brand.turbolauncher.R$styleable: int Workspace_cellCountY
+com.cooeeui.brand.turbolauncher.R$styleable: int Workspace_defaultScreen
+com.cooeeui.brand.turbolauncher.R$styleable: int[] icons
+com.cooeeui.brand.turbolauncher.R$styleable: int icons_clsName
+com.cooeeui.brand.turbolauncher.R$styleable: int icons_dup
+com.cooeeui.brand.turbolauncher.R$styleable: int icons_image
+com.cooeeui.brand.turbolauncher.R$styleable: int icons_name
+com.cooeeui.brand.turbolauncher.R$styleable: int icons_pkgname
+com.cooeeui.brand.turbolauncher.R$xml
+com.cooeeui.brand.turbolauncher.R$xml: int default_workspace
+com.cooeeui.brand.turbolauncher.R$xml: int icons
+com.cooeeui.brand.turbolauncher.R$xml: int lock_home
+com.cooeeui.brand.turbolauncher.R$xml: int lock_setting
+com.cooeeui.brand.turbolauncher.R$xml: int numberclock_appwidget_info
+com.cooeeui.brand.turbolauncher.R$xml: int searchbar_appwidget_info
+com.cooeeui.brand.turbolauncher.R$xml: int smart_layout_config
+com.cooeeui.brand.turbolauncher.R$xml: int update_workspace
+com.cooeeui.brand.turbolauncher.R$xml: int wallpaper_picker_preview
+com.iLoong.NumberClock.CityFinderView
+com.iLoong.NumberClock.CityFinderView: CityFinderView(android.content.Context)
+com.iLoong.NumberClock.ContentActivity
+com.iLoong.NumberClock.ContentActivity: ContentActivity()
+com.iLoong.NumberClock.NumberClockProvider
+com.iLoong.NumberClock.NumberClockProvider: NumberClockProvider()
+com.iLoong.NumberClock.NumberWeatherDataService
+com.iLoong.NumberClock.NumberWeatherDataService: NumberWeatherDataService(java.lang.String)
+com.iLoong.NumberClock.NumberWeatherDataService: NumberWeatherDataService()
+com.iLoong.NumberClock.NumberWeatherwebservice$FLAG_UPDATE: com.iLoong.NumberClock.NumberWeatherwebservice$FLAG_UPDATE[] values()
+com.iLoong.NumberClock.NumberWeatherwebservice$FLAG_UPDATE: com.iLoong.NumberClock.NumberWeatherwebservice$FLAG_UPDATE valueOf(java.lang.String)
+com.iLoong.NumberClock.Timer.TimeService
+com.iLoong.NumberClock.Timer.TimeService: TimeService()
+com.iLoong.NumberClock.Timer.TimerReceiver
+com.iLoong.NumberClock.WeatherCurveView
+com.iLoong.NumberClock.WeatherCurveView: WeatherCurveView(android.content.Context)
+com.iLoong.NumberClockEx.R$anim: int fade
+com.iLoong.NumberClockEx.R$anim: int hold
+com.iLoong.NumberClockEx.R$anim: int wc_progress_round
+com.iLoong.NumberClockEx.R$color: int fontcolor
+com.iLoong.NumberClockEx.R$dimen: int activity_horizontal_margin
+com.iLoong.NumberClockEx.R$dimen: int ampm_left
+com.iLoong.NumberClockEx.R$dimen: int ampm_top
+com.iLoong.NumberClockEx.R$dimen: int halving_left
+com.iLoong.NumberClockEx.R$dimen: int halving_top
+com.iLoong.NumberClockEx.R$dimen: int time_top
+com.iLoong.NumberClockEx.R$dimen: int weathercode_top
+com.iLoong.NumberClockEx.R$drawable: int background
+com.iLoong.NumberClockEx.R$drawable: int bigweather_baosnow
+com.iLoong.NumberClockEx.R$drawable: int bigweather_bigrain
+com.iLoong.NumberClockEx.R$drawable: int bigweather_bigsnow
+com.iLoong.NumberClockEx.R$drawable: int bigweather_bingbao
+com.iLoong.NumberClockEx.R$drawable: int bigweather_cloudy
+com.iLoong.NumberClockEx.R$drawable: int bigweather_cloudyday
+com.iLoong.NumberClockEx.R$drawable: int bigweather_fog
+com.iLoong.NumberClockEx.R$drawable: int bigweather_jufeng
+com.iLoong.NumberClockEx.R$drawable: int bigweather_latecloudy
+com.iLoong.NumberClockEx.R$drawable: int bigweather_middlerain
+com.iLoong.NumberClockEx.R$drawable: int bigweather_middlesnow
+com.iLoong.NumberClockEx.R$drawable: int bigweather_rainshowerslate
+com.iLoong.NumberClockEx.R$drawable: int bigweather_reaching
+com.iLoong.NumberClockEx.R$drawable: int bigweather_sand
+com.iLoong.NumberClockEx.R$drawable: int bigweather_sleet
+com.iLoong.NumberClockEx.R$drawable: int bigweather_smallrain
+com.iLoong.NumberClockEx.R$drawable: int bigweather_smallsnow
+com.iLoong.NumberClockEx.R$drawable: int bigweather_snowshowerslate
+com.iLoong.NumberClockEx.R$drawable: int bigweather_sunny
+com.iLoong.NumberClockEx.R$drawable: int bigweather_thunderstorms
+com.iLoong.NumberClockEx.R$drawable: int bigweather_unknow
+com.iLoong.NumberClockEx.R$drawable: int bigweather_zhenrain
+com.iLoong.NumberClockEx.R$drawable: int bigweather_zhensnow
+com.iLoong.NumberClockEx.R$drawable: int buttonflush
+com.iLoong.NumberClockEx.R$drawable: int buttonsearch
+com.iLoong.NumberClockEx.R$drawable: int city
+com.iLoong.NumberClockEx.R$drawable: int content_citywithtv
+com.iLoong.NumberClockEx.R$drawable: int content_halving
+com.iLoong.NumberClockEx.R$drawable: int current_c
+com.iLoong.NumberClockEx.R$drawable: int current_f
+com.iLoong.NumberClockEx.R$drawable: int dot
+com.iLoong.NumberClockEx.R$drawable: int dotoday
+com.iLoong.NumberClockEx.R$drawable: int flush
+com.iLoong.NumberClockEx.R$drawable: int flushclick
+com.iLoong.NumberClockEx.R$drawable: int guangbiao
+com.iLoong.NumberClockEx.R$drawable: int halving_line
+com.iLoong.NumberClockEx.R$drawable: int imageviewflush
+com.iLoong.NumberClockEx.R$drawable: int indicator_city
+com.iLoong.NumberClockEx.R$drawable: int indicator_cityclick
+com.iLoong.NumberClockEx.R$drawable: int indicator_date
+com.iLoong.NumberClockEx.R$drawable: int indicator_dateclick
+com.iLoong.NumberClockEx.R$drawable: int load_1
+com.iLoong.NumberClockEx.R$drawable: int load_10
+com.iLoong.NumberClockEx.R$drawable: int load_11
+com.iLoong.NumberClockEx.R$drawable: int load_12
+com.iLoong.NumberClockEx.R$drawable: int load_2
+com.iLoong.NumberClockEx.R$drawable: int load_3
+com.iLoong.NumberClockEx.R$drawable: int load_4
+com.iLoong.NumberClockEx.R$drawable: int load_5
+com.iLoong.NumberClockEx.R$drawable: int load_6
+com.iLoong.NumberClockEx.R$drawable: int load_7
+com.iLoong.NumberClockEx.R$drawable: int load_8
+com.iLoong.NumberClockEx.R$drawable: int load_9
+com.iLoong.NumberClockEx.R$drawable: int maohao
+com.iLoong.NumberClockEx.R$drawable: int nc_shuaxin
+com.iLoong.NumberClockEx.R$drawable: int nc_shuaxinclick
+com.iLoong.NumberClockEx.R$drawable: int num_0
+com.iLoong.NumberClockEx.R$drawable: int num_1
+com.iLoong.NumberClockEx.R$drawable: int num_2
+com.iLoong.NumberClockEx.R$drawable: int num_3
+com.iLoong.NumberClockEx.R$drawable: int num_4
+com.iLoong.NumberClockEx.R$drawable: int num_5
+com.iLoong.NumberClockEx.R$drawable: int num_6
+com.iLoong.NumberClockEx.R$drawable: int num_7
+com.iLoong.NumberClockEx.R$drawable: int num_8
+com.iLoong.NumberClockEx.R$drawable: int num_9
+com.iLoong.NumberClockEx.R$drawable: int numberclock_icon
+com.iLoong.NumberClockEx.R$drawable: int progressbar
+com.iLoong.NumberClockEx.R$drawable: int search
+com.iLoong.NumberClockEx.R$drawable: int searchclick
+com.iLoong.NumberClockEx.R$drawable: int smallweather_baosnow
+com.iLoong.NumberClockEx.R$drawable: int smallweather_bigrain
+com.iLoong.NumberClockEx.R$drawable: int smallweather_bigsnow
+com.iLoong.NumberClockEx.R$drawable: int smallweather_bingbao
+com.iLoong.NumberClockEx.R$drawable: int smallweather_cloudy
+com.iLoong.NumberClockEx.R$drawable: int smallweather_cloudyday
+com.iLoong.NumberClockEx.R$drawable: int smallweather_fog
+com.iLoong.NumberClockEx.R$drawable: int smallweather_jufeng
+com.iLoong.NumberClockEx.R$drawable: int smallweather_latecloudy
+com.iLoong.NumberClockEx.R$drawable: int smallweather_middlerain
+com.iLoong.NumberClockEx.R$drawable: int smallweather_middlesnow
+com.iLoong.NumberClockEx.R$drawable: int smallweather_rainshowerslate
+com.iLoong.NumberClockEx.R$drawable: int smallweather_reaching
+com.iLoong.NumberClockEx.R$drawable: int smallweather_sand
+com.iLoong.NumberClockEx.R$drawable: int smallweather_sleet
+com.iLoong.NumberClockEx.R$drawable: int smallweather_smallrain
+com.iLoong.NumberClockEx.R$drawable: int smallweather_smallsnow
+com.iLoong.NumberClockEx.R$drawable: int smallweather_snowshowerslate
+com.iLoong.NumberClockEx.R$drawable: int smallweather_sunny
+com.iLoong.NumberClockEx.R$drawable: int smallweather_thunderstorms
+com.iLoong.NumberClockEx.R$drawable: int smallweather_unknow
+com.iLoong.NumberClockEx.R$drawable: int smallweather_zhenrain
+com.iLoong.NumberClockEx.R$drawable: int smallweather_zhensnow
+com.iLoong.NumberClockEx.R$id: int content_cityicon
+com.iLoong.NumberClockEx.R$id: int et_searchcity
+com.iLoong.NumberClockEx.R$id: int id_tv_loadingmsg
+com.iLoong.NumberClockEx.R$id: int img_halvingline
+com.iLoong.NumberClockEx.R$id: int img_weathercode
+com.iLoong.NumberClockEx.R$id: int iv_citycontenthalving
+com.iLoong.NumberClockEx.R$id: int iv_corf
+com.iLoong.NumberClockEx.R$id: int iv_curve
+com.iLoong.NumberClockEx.R$id: int iv_fengexian
+com.iLoong.NumberClockEx.R$id: int iv_fenxianxia
+com.iLoong.NumberClockEx.R$id: int iv_firsticon
+com.iLoong.NumberClockEx.R$id: int iv_fiveicon
+com.iLoong.NumberClockEx.R$id: int iv_flush
+com.iLoong.NumberClockEx.R$id: int iv_forthicon
+com.iLoong.NumberClockEx.R$id: int iv_indicatorcity
+com.iLoong.NumberClockEx.R$id: int iv_indicatorcurve
+com.iLoong.NumberClockEx.R$id: int iv_maohao
+com.iLoong.NumberClockEx.R$id: int iv_ncfluash
+com.iLoong.NumberClockEx.R$id: int iv_num1
+com.iLoong.NumberClockEx.R$id: int iv_num2
+com.iLoong.NumberClockEx.R$id: int iv_num3
+com.iLoong.NumberClockEx.R$id: int iv_num4
+com.iLoong.NumberClockEx.R$id: int iv_search
+com.iLoong.NumberClockEx.R$id: int iv_secondicon
+com.iLoong.NumberClockEx.R$id: int iv_thirdicon
+com.iLoong.NumberClockEx.R$id: int iv_vityicon
+com.iLoong.NumberClockEx.R$id: int iv_weatherconditionname
+com.iLoong.NumberClockEx.R$id: int iv_weekname
+com.iLoong.NumberClockEx.R$id: int ll_city
+com.iLoong.NumberClockEx.R$id: int ll_currentcity
+com.iLoong.NumberClockEx.R$id: int ll_time
+com.iLoong.NumberClockEx.R$id: int ll_weatherconditionname
+com.iLoong.NumberClockEx.R$id: int ll_weathersmallicon
+com.iLoong.NumberClockEx.R$id: int ll_weekname
+com.iLoong.NumberClockEx.R$id: int loadingImageView
+com.iLoong.NumberClockEx.R$id: int lv_cityshow
+com.iLoong.NumberClockEx.R$id: int rl_curveshow
+com.iLoong.NumberClockEx.R$id: int rl_flush
+com.iLoong.NumberClockEx.R$id: int rl_searchcity
+com.iLoong.NumberClockEx.R$id: int rl_tempertureunit
+com.iLoong.NumberClockEx.R$id: int tv_ampm
+com.iLoong.NumberClockEx.R$id: int tv_cityname
+com.iLoong.NumberClockEx.R$id: int tv_cuttentcity
+com.iLoong.NumberClockEx.R$id: int tv_date
+com.iLoong.NumberClockEx.R$id: int tv_tempture
+com.iLoong.NumberClockEx.R$id: int txtCityName
+com.iLoong.NumberClockEx.R$id: int viewpager
+com.iLoong.NumberClockEx.R$layout: int appwidget_numberclock
+com.iLoong.NumberClockEx.R$layout: int cityfinderlayout
+com.iLoong.NumberClockEx.R$layout: int cityresult_layout
+com.iLoong.NumberClockEx.R$layout: int contentlayout
+com.iLoong.NumberClockEx.R$layout: int customprocessdialog
+com.iLoong.NumberClockEx.R$layout: int weathercurvelayout
+com.iLoong.NumberClockEx.R$string: int Flushfailed_foreign
+com.iLoong.NumberClockEx.R$string: int citynotfound
+com.iLoong.NumberClockEx.R$string: int citynotfound_foreign
+com.iLoong.NumberClockEx.R$string: int defaultWeatherconditionName
+com.iLoong.NumberClockEx.R$string: int defaultWeatherconditionName_foreign
+com.iLoong.NumberClockEx.R$string: int default_cityname
+com.iLoong.NumberClockEx.R$string: int default_foreigncity
+com.iLoong.NumberClockEx.R$string: int default_foreigncorf
+com.iLoong.NumberClockEx.R$string: int default_prompt
+com.iLoong.NumberClockEx.R$string: int firstweek
+com.iLoong.NumberClockEx.R$string: int firstweek_foreign
+com.iLoong.NumberClockEx.R$string: int fiveweek
+com.iLoong.NumberClockEx.R$string: int fiveweek_foreign
+com.iLoong.NumberClockEx.R$string: int flush_Prompt
+com.iLoong.NumberClockEx.R$string: int flush_Prompt_foreign
+com.iLoong.NumberClockEx.R$string: int flushfailed
+com.iLoong.NumberClockEx.R$string: int forthweek
+com.iLoong.NumberClockEx.R$string: int forthweek_foreign
+com.iLoong.NumberClockEx.R$string: int networkerror
+com.iLoong.NumberClockEx.R$string: int networkerror_foreign
+com.iLoong.NumberClockEx.R$string: int notsetcity
+com.iLoong.NumberClockEx.R$string: int notsetcity_foreign
+com.iLoong.NumberClockEx.R$string: int numberclockapp_name
+com.iLoong.NumberClockEx.R$string: int searchfailed_foreign
+com.iLoong.NumberClockEx.R$string: int secondweek
+com.iLoong.NumberClockEx.R$string: int secondweek_foreign
+com.iLoong.NumberClockEx.R$string: int sevenweek
+com.iLoong.NumberClockEx.R$string: int sevenweek_foreign
+com.iLoong.NumberClockEx.R$string: int sixweek
+com.iLoong.NumberClockEx.R$string: int sixweek_foreign
+com.iLoong.NumberClockEx.R$string: int thirdweek
+com.iLoong.NumberClockEx.R$string: int thirdweek_foreign
+com.iLoong.NumberClockEx.R$string: int unkonwweek
+com.iLoong.NumberClockEx.R$string: int weathercurve_title
+com.iLoong.NumberClockEx.R$style: int AppBaseTheme
+com.iLoong.NumberClockEx.R$style: int AppTheme
+com.iLoong.NumberClockEx.R$style: int CustomDialog
+com.iLoong.NumberClockEx.R$style: int CustomProgressDialog
+com.iLoong.NumberClockEx.R$style: int Dialog_FullScreen
+com.iLoong.NumberClockEx.R$style: int NumberClock_ContentTheme
+com.iLoong.NumberClockEx.R$xml: int numberclock_appwidget_info
+com.iLoong.SearchBar.SearchBarProvider
+com.iLoong.SearchBar.SearchBarProvider: SearchBarProvider()
+com.iLoong.SearchBarEx.R$dimen: int activity_horizontal_margin
+com.iLoong.SearchBarEx.R$dimen: int activity_vertical_margin
+com.iLoong.SearchBarEx.R$drawable: int bg
+com.iLoong.SearchBarEx.R$drawable: int google
+com.iLoong.SearchBarEx.R$drawable: int searchbar_icon
+com.iLoong.SearchBarEx.R$id: int bg_imageview
+com.iLoong.SearchBarEx.R$layout: int appwidget_searchbar
+com.iLoong.SearchBarEx.R$string: int searchbarapp_name
+com.iLoong.SearchBarEx.R$style: int AppBaseTheme
+com.iLoong.SearchBarEx.R$style: int AppTheme
+com.iLoong.SearchBarEx.R$xml: int searchbar_appwidget_info
+com.iLoong.base.themebox.R$anim: int star_scale_anim
+com.iLoong.base.themebox.R$color: int appwidget_error_color
+com.iLoong.base.themebox.R$dimen: int gridItemHeight
+com.iLoong.base.themebox.R$dimen: int gridItemWidth
+com.iLoong.base.themebox.R$dimen: int gridProgressWidth
+com.iLoong.base.themebox.R$dimen: int scrollGridPaddingBottom
+com.iLoong.base.themebox.R$dimen: int widgetItemWidth
+com.iLoong.base.themebox.R$dimen: int workspace_cell_height
+com.iLoong.base.themebox.R$dimen: int workspace_cell_width
+com.iLoong.base.themebox.R$drawable: int bar_big_downloading
+com.iLoong.base.themebox.R$drawable: int bar_big_downloading_bg
+com.iLoong.base.themebox.R$drawable: int bar_big_pause
+com.iLoong.base.themebox.R$drawable: int bar_big_pause_bg
+com.iLoong.base.themebox.R$drawable: int bar_downloading
+com.iLoong.base.themebox.R$drawable: int bar_downloading_bg
+com.iLoong.base.themebox.R$drawable: int bar_pause
+com.iLoong.base.themebox.R$drawable: int bar_pause_bg
+com.iLoong.base.themebox.R$drawable: int bg_appwidget_error
+com.iLoong.base.themebox.R$drawable: int blue_blue_downloadtheme_focus
+com.iLoong.base.themebox.R$drawable: int blue_button
+com.iLoong.base.themebox.R$drawable: int blue_button_focus
+com.iLoong.base.themebox.R$drawable: int blue_downloadtheme
+com.iLoong.base.themebox.R$drawable: int button_back
+com.iLoong.base.themebox.R$drawable: int button_blue
+com.iLoong.base.themebox.R$drawable: int button_del
+com.iLoong.base.themebox.R$drawable: int button_delete
+com.iLoong.base.themebox.R$drawable: int button_downlock
+com.iLoong.base.themebox.R$drawable: int button_font_style
+com.iLoong.base.themebox.R$drawable: int button_manager_effect
+com.iLoong.base.themebox.R$drawable: int button_manager_font
+com.iLoong.base.themebox.R$drawable: int button_manager_lock
+com.iLoong.base.themebox.R$drawable: int button_manager_scene
+com.iLoong.base.themebox.R$drawable: int button_manager_theme
+com.iLoong.base.themebox.R$drawable: int button_manager_wallpaper
+com.iLoong.base.themebox.R$drawable: int button_manager_widget
+com.iLoong.base.themebox.R$drawable: int button_more
+com.iLoong.base.themebox.R$drawable: int button_radiobutton
+com.iLoong.base.themebox.R$drawable: int button_red
+com.iLoong.base.themebox.R$drawable: int button_setting
+com.iLoong.base.themebox.R$drawable: int button_share
+com.iLoong.base.themebox.R$drawable: int button_underline
+com.iLoong.base.themebox.R$drawable: int buyed_bg
+com.iLoong.base.themebox.R$drawable: int clearlauncher
+com.iLoong.base.themebox.R$drawable: int clearlauncher_en
+com.iLoong.base.themebox.R$drawable: int close
+com.iLoong.base.themebox.R$drawable: int coco_launcher
+com.iLoong.base.themebox.R$drawable: int cocologo
+com.iLoong.base.themebox.R$drawable: int default_img
+com.iLoong.base.themebox.R$drawable: int default_img_large
+com.iLoong.base.themebox.R$drawable: int delete_focus
+com.iLoong.base.themebox.R$drawable: int delete_normal
+com.iLoong.base.themebox.R$drawable: int download
+com.iLoong.base.themebox.R$drawable: int download_cancel
+com.iLoong.base.themebox.R$drawable: int fanhui
+com.iLoong.base.themebox.R$drawable: int fanhui_focus
+com.iLoong.base.themebox.R$drawable: int font_bg_select
+com.iLoong.base.themebox.R$drawable: int font_bg_unselect
+com.iLoong.base.themebox.R$drawable: int gallery_normal
+com.iLoong.base.themebox.R$drawable: int gallery_scene
+com.iLoong.base.themebox.R$drawable: int grid_bg
+com.iLoong.base.themebox.R$drawable: int grid_item_cover
+com.iLoong.base.themebox.R$drawable: int grid_selector
+com.iLoong.base.themebox.R$drawable: int griditem_selector
+com.iLoong.base.themebox.R$drawable: int ic_launcher
+com.iLoong.base.themebox.R$drawable: int ic_pulltorefresh_arrow
+com.iLoong.base.themebox.R$drawable: int ic_pulltorefresh_arrow_up
+com.iLoong.base.themebox.R$drawable: int imgview_selector
+com.iLoong.base.themebox.R$drawable: int label
+com.iLoong.base.themebox.R$drawable: int livepicker_en
+com.iLoong.base.themebox.R$drawable: int livewallpaper_normal
+com.iLoong.base.themebox.R$drawable: int livewallpaper_scene
+com.iLoong.base.themebox.R$drawable: int livewallpaper_sign
+com.iLoong.base.themebox.R$drawable: int load
+com.iLoong.base.themebox.R$drawable: int loades
+com.iLoong.base.themebox.R$drawable: int lockhome
+com.iLoong.base.themebox.R$drawable: int lockhome_en
+com.iLoong.base.themebox.R$drawable: int lockwallpaper_scene
+com.iLoong.base.themebox.R$drawable: int logo
+com.iLoong.base.themebox.R$drawable: int manager_bar
+com.iLoong.base.themebox.R$drawable: int manager_bar_1
+com.iLoong.base.themebox.R$drawable: int manager_effect_select
+com.iLoong.base.themebox.R$drawable: int manager_effect_unselect
+com.iLoong.base.themebox.R$drawable: int manager_font_select
+com.iLoong.base.themebox.R$drawable: int manager_font_unselect
+com.iLoong.base.themebox.R$drawable: int manager_lock_select
+com.iLoong.base.themebox.R$drawable: int manager_lock_unselect
+com.iLoong.base.themebox.R$drawable: int manager_scene_select
+com.iLoong.base.themebox.R$drawable: int manager_scene_unselect
+com.iLoong.base.themebox.R$drawable: int manager_separateline_png
+com.iLoong.base.themebox.R$drawable: int manager_theme_select
+com.iLoong.base.themebox.R$drawable: int manager_theme_unselect
+com.iLoong.base.themebox.R$drawable: int manager_wallpaper_select
+com.iLoong.base.themebox.R$drawable: int manager_wallpaper_unselect
+com.iLoong.base.themebox.R$drawable: int manager_widget_select
+com.iLoong.base.themebox.R$drawable: int manager_widget_unselect
+com.iLoong.base.themebox.R$drawable: int more
+com.iLoong.base.themebox.R$drawable: int more_focus
+com.iLoong.base.themebox.R$drawable: int notify_launcher
+com.iLoong.base.themebox.R$drawable: int notify_lock
+com.iLoong.base.themebox.R$drawable: int notify_other
+com.iLoong.base.themebox.R$drawable: int price_bg
+com.iLoong.base.themebox.R$drawable: int progressbar_big_downloading
+com.iLoong.base.themebox.R$drawable: int progressbar_big_pause
+com.iLoong.base.themebox.R$drawable: int progressbar_downloading
+com.iLoong.base.themebox.R$drawable: int progressbar_pause
+com.iLoong.base.themebox.R$drawable: int recommemd_bg
+com.iLoong.base.themebox.R$drawable: int recommend_title
+com.iLoong.base.themebox.R$drawable: int red_button
+com.iLoong.base.themebox.R$drawable: int red_button_focus
+com.iLoong.base.themebox.R$drawable: int scroll_down
+com.iLoong.base.themebox.R$drawable: int scroll_left
+com.iLoong.base.themebox.R$drawable: int scrollbar_bg
+com.iLoong.base.themebox.R$drawable: int scrollbar_control
+com.iLoong.base.themebox.R$drawable: int set_imageview_bg
+com.iLoong.base.themebox.R$drawable: int set_list_select
+com.iLoong.base.themebox.R$drawable: int setting
+com.iLoong.base.themebox.R$drawable: int setting_focus
+com.iLoong.base.themebox.R$drawable: int share
+com.iLoong.base.themebox.R$drawable: int share_focus
+com.iLoong.base.themebox.R$drawable: int star
+com.iLoong.base.themebox.R$drawable: int staticwallpaper_scene
+com.iLoong.base.themebox.R$drawable: int strips
+com.iLoong.base.themebox.R$drawable: int tab_font_style
+com.iLoong.base.themebox.R$drawable: int theme
+com.iLoong.base.themebox.R$drawable: int theme_change
+com.iLoong.base.themebox.R$drawable: int theme_leaflets
+com.iLoong.base.themebox.R$drawable: int theme_leaflets11
+com.iLoong.base.themebox.R$drawable: int theme_radio_off
+com.iLoong.base.themebox.R$drawable: int theme_radio_on
+com.iLoong.base.themebox.R$drawable: int themeselect
+com.iLoong.base.themebox.R$drawable: int underline
+com.iLoong.base.themebox.R$drawable: int underline_nopress
+com.iLoong.base.themebox.R$drawable: int underline_press
+com.iLoong.base.themebox.R$drawable: int underline_unpress
+com.iLoong.base.themebox.R$drawable: int uninstall
+com.iLoong.base.themebox.R$drawable: int uninstall_focus
+com.iLoong.base.themebox.R$drawable: int used
+com.iLoong.base.themebox.R$drawable: int wallpaper_cover
+com.iLoong.base.themebox.R$drawable: int wallpaper_more
+com.iLoong.base.themebox.R$drawable: int wallpaper_radiobutton_normal_bg
+com.iLoong.base.themebox.R$drawable: int wallpaper_radiobutton_selected_bg
+com.iLoong.base.themebox.R$id: int ScrollView
+com.iLoong.base.themebox.R$id: int app_icon
+com.iLoong.base.themebox.R$id: int app_icon1
+com.iLoong.base.themebox.R$id: int app_name
+com.iLoong.base.themebox.R$id: int author
+com.iLoong.base.themebox.R$id: int barDownloading
+com.iLoong.base.themebox.R$id: int barPause
+com.iLoong.base.themebox.R$id: int bottom
+com.iLoong.base.themebox.R$id: int btnApplistEffect
+com.iLoong.base.themebox.R$id: int btnApply
+com.iLoong.base.themebox.R$id: int btnBuy
+com.iLoong.base.themebox.R$id: int btnDel
+com.iLoong.base.themebox.R$id: int btnDelete
+com.iLoong.base.themebox.R$id: int btnDownload
+com.iLoong.base.themebox.R$id: int btnGetTheme
+com.iLoong.base.themebox.R$id: int btnHotLock
+com.iLoong.base.themebox.R$id: int btnHotTheme
+com.iLoong.base.themebox.R$id: int btnInstall
+com.iLoong.base.themebox.R$id: int btnLocalLock
+com.iLoong.base.themebox.R$id: int btnLocalTheme
+com.iLoong.base.themebox.R$id: int btnMore
+com.iLoong.base.themebox.R$id: int btnReturn
+com.iLoong.base.themebox.R$id: int btnSetting
+com.iLoong.base.themebox.R$id: int btnShare
+com.iLoong.base.themebox.R$id: int btnUninstall
+com.iLoong.base.themebox.R$id: int btnWorkspaceEffect
+com.iLoong.base.themebox.R$id: int cancel
+com.iLoong.base.themebox.R$id: int circleProgressBar
+com.iLoong.base.themebox.R$id: int clearlauncherview
+com.iLoong.base.themebox.R$id: int containHot
+com.iLoong.base.themebox.R$id: int defaultbmp
+com.iLoong.base.themebox.R$id: int dialog_brief
+com.iLoong.base.themebox.R$id: int dialog_iv
+com.iLoong.base.themebox.R$id: int dialog_name
+com.iLoong.base.themebox.R$id: int dialog_size
+com.iLoong.base.themebox.R$id: int download
+com.iLoong.base.themebox.R$id: int effectGridPager
+com.iLoong.base.themebox.R$id: int font_items
+com.iLoong.base.themebox.R$id: int galleryPreview
+com.iLoong.base.themebox.R$id: int grid
+com.iLoong.base.themebox.R$id: int gridLive
+com.iLoong.base.themebox.R$id: int gridPager
+com.iLoong.base.themebox.R$id: int gridStatic
+com.iLoong.base.themebox.R$id: int gridViewLock
+com.iLoong.base.themebox.R$id: int hometabs
+com.iLoong.base.themebox.R$id: int imageCover
+com.iLoong.base.themebox.R$id: int imageIcon
+com.iLoong.base.themebox.R$id: int imageThumb
+com.iLoong.base.themebox.R$id: int imageUsed
+com.iLoong.base.themebox.R$id: int imageView01
+com.iLoong.base.themebox.R$id: int imageViewRecom
+com.iLoong.base.themebox.R$id: int imageselect
+com.iLoong.base.themebox.R$id: int img
+com.iLoong.base.themebox.R$id: int indication
+com.iLoong.base.themebox.R$id: int info
+com.iLoong.base.themebox.R$id: int info_view
+com.iLoong.base.themebox.R$id: int internetPrompt
+com.iLoong.base.themebox.R$id: int labelImageView
+com.iLoong.base.themebox.R$id: int layoutDownload
+com.iLoong.base.themebox.R$id: int layoutNormal
+com.iLoong.base.themebox.R$id: int layout_title
+com.iLoong.base.themebox.R$id: int linLayout
+com.iLoong.base.themebox.R$id: int linLayout1
+com.iLoong.base.themebox.R$id: int linearDownload
+com.iLoong.base.themebox.R$id: int linearPause
+com.iLoong.base.themebox.R$id: int live_sign
+com.iLoong.base.themebox.R$id: int load
+com.iLoong.base.themebox.R$id: int loadbg
+com.iLoong.base.themebox.R$id: int loadtext
+com.iLoong.base.themebox.R$id: int lockhomeview
+com.iLoong.base.themebox.R$id: int mainRelLayout
+com.iLoong.base.themebox.R$id: int main_pull_refresh_view
+com.iLoong.base.themebox.R$id: int menu_settings
+com.iLoong.base.themebox.R$id: int notice_content
+com.iLoong.base.themebox.R$id: int notice_iv
+com.iLoong.base.themebox.R$id: int notice_pb
+com.iLoong.base.themebox.R$id: int notice_title
+com.iLoong.base.themebox.R$id: int notice_title1_tv
+com.iLoong.base.themebox.R$id: int notice_title2_tv
+com.iLoong.base.themebox.R$id: int notificationImage
+com.iLoong.base.themebox.R$id: int notificationPercent
+com.iLoong.base.themebox.R$id: int notificationProgress
+com.iLoong.base.themebox.R$id: int notificationTitle
+com.iLoong.base.themebox.R$id: int percent
+com.iLoong.base.themebox.R$id: int preview
+com.iLoong.base.themebox.R$id: int previewScroll
+com.iLoong.base.themebox.R$id: int preview_picture
+com.iLoong.base.themebox.R$id: int price
+com.iLoong.base.themebox.R$id: int progress
+com.iLoong.base.themebox.R$id: int progressBar
+com.iLoong.base.themebox.R$id: int progressBarDown
+com.iLoong.base.themebox.R$id: int progressBarPause
+com.iLoong.base.themebox.R$id: int pull_to_load_image
+com.iLoong.base.themebox.R$id: int pull_to_load_progress
+com.iLoong.base.themebox.R$id: int pull_to_load_text
+com.iLoong.base.themebox.R$id: int pull_to_refresh_header
+com.iLoong.base.themebox.R$id: int pull_to_refresh_image
+com.iLoong.base.themebox.R$id: int pull_to_refresh_progress
+com.iLoong.base.themebox.R$id: int pull_to_refresh_text
+com.iLoong.base.themebox.R$id: int pushListView
+com.iLoong.base.themebox.R$id: int radioLive
+com.iLoong.base.themebox.R$id: int radioStatic
+com.iLoong.base.themebox.R$id: int relLayout
+com.iLoong.base.themebox.R$id: int relativeLayout1
+com.iLoong.base.themebox.R$id: int scrollGallery
+com.iLoong.base.themebox.R$id: int selector_item
+com.iLoong.base.themebox.R$id: int selectswitch
+com.iLoong.base.themebox.R$id: int setwallpaper
+com.iLoong.base.themebox.R$id: int show
+com.iLoong.base.themebox.R$id: int starImageView
+com.iLoong.base.themebox.R$id: int tabhost
+com.iLoong.base.themebox.R$id: int text
+com.iLoong.base.themebox.R$id: int textAppName
+com.iLoong.base.themebox.R$id: int textDownPercent
+com.iLoong.base.themebox.R$id: int textPausePercent
+com.iLoong.base.themebox.R$id: int textView1
+com.iLoong.base.themebox.R$id: int textView2
+com.iLoong.base.themebox.R$id: int theme
+com.iLoong.base.themebox.R$id: int themeGridPager
+com.iLoong.base.themebox.R$id: int themename
+com.iLoong.base.themebox.R$id: int thumbnail
+com.iLoong.base.themebox.R$id: int thumbs
+com.iLoong.base.themebox.R$id: int wallpaper
+com.iLoong.base.themebox.R$id: int wallpaper_refresh
+com.iLoong.base.themebox.R$id: int wallpaperradioGroup
+com.iLoong.base.themebox.R$layout: int air_push_dialog
+com.iLoong.base.themebox.R$layout: int air_push_notification
+com.iLoong.base.themebox.R$layout: int appwidget_error
+com.iLoong.base.themebox.R$layout: int clear_launcher
+com.iLoong.base.themebox.R$layout: int clear_launcher_en
+com.iLoong.base.themebox.R$layout: int download_notification
+com.iLoong.base.themebox.R$layout: int effect_main
+com.iLoong.base.themebox.R$layout: int font_main
+com.iLoong.base.themebox.R$layout: int gallery_item_downloading
+com.iLoong.base.themebox.R$layout: int grid_item
+com.iLoong.base.themebox.R$layout: int grid_item_downloading
+com.iLoong.base.themebox.R$layout: int grid_item_large
+com.iLoong.base.themebox.R$layout: int indicator_effect
+com.iLoong.base.themebox.R$layout: int indicator_font
+com.iLoong.base.themebox.R$layout: int indicator_lock
+com.iLoong.base.themebox.R$layout: int indicator_scene
+com.iLoong.base.themebox.R$layout: int indicator_theme
+com.iLoong.base.themebox.R$layout: int indicator_wallpaper
+com.iLoong.base.themebox.R$layout: int indicator_widget
+com.iLoong.base.themebox.R$layout: int lock_grid
+com.iLoong.base.themebox.R$layout: int lock_grid_hot
+com.iLoong.base.themebox.R$layout: int lock_grid_include_empty
+com.iLoong.base.themebox.R$layout: int lock_main
+com.iLoong.base.themebox.R$layout: int lockhome
+com.iLoong.base.themebox.R$layout: int lockhome_en
+com.iLoong.base.themebox.R$layout: int main_effect_item
+com.iLoong.base.themebox.R$layout: int main_font_item
+com.iLoong.base.themebox.R$layout: int main_tab
+com.iLoong.base.themebox.R$layout: int main_tab_lock
+com.iLoong.base.themebox.R$layout: int main_wallpaper_item
+com.iLoong.base.themebox.R$layout: int main_widget_item
+com.iLoong.base.themebox.R$layout: int man_tab_nolock
+com.iLoong.base.themebox.R$layout: int preview_hot
+com.iLoong.base.themebox.R$layout: int preview_hot_infor
+com.iLoong.base.themebox.R$layout: int preview_hot_picture
+com.iLoong.base.themebox.R$layout: int preview_wallpaper
+com.iLoong.base.themebox.R$layout: int push_app_item
+com.iLoong.base.themebox.R$layout: int refresh_footer
+com.iLoong.base.themebox.R$layout: int refresh_header
+com.iLoong.base.themebox.R$layout: int theme_download
+com.iLoong.base.themebox.R$layout: int theme_item
+com.iLoong.base.themebox.R$layout: int theme_main
+com.iLoong.base.themebox.R$layout: int wallpaper_grid_hot
+com.iLoong.base.themebox.R$layout: int wallpaper_preview_item
+com.iLoong.base.themebox.R$menu: int activity_main
+com.iLoong.base.themebox.R$string: int App_effect_list
+com.iLoong.base.themebox.R$string: int Initial_fail
+com.iLoong.base.themebox.R$string: int Initialing
+com.iLoong.base.themebox.R$string: int Launcher
+com.iLoong.base.themebox.R$string: int Workspace_effect_list
+com.iLoong.base.themebox.R$string: int app_list_slide
+com.iLoong.base.themebox.R$string: int applyfont
+com.iLoong.base.themebox.R$string: int applytheme
+com.iLoong.base.themebox.R$string: int autoUpdate
+com.iLoong.base.themebox.R$string: int backup_and_restore
+com.iLoong.base.themebox.R$string: int backup_desktop
+com.iLoong.base.themebox.R$string: int backup_restore_setting
+com.iLoong.base.themebox.R$string: int basic_setting
+com.iLoong.base.themebox.R$string: int bgSpace
+com.iLoong.base.themebox.R$string: int bgTheme
+com.iLoong.base.themebox.R$string: int btnApply
+com.iLoong.base.themebox.R$string: int btnBuy
+com.iLoong.base.themebox.R$string: int btnDelete
+com.iLoong.base.themebox.R$string: int btnDownload
+com.iLoong.base.themebox.R$string: int btnHotLock
+com.iLoong.base.themebox.R$string: int btnInstall
+com.iLoong.base.themebox.R$string: int btnLocalLock
+com.iLoong.base.themebox.R$string: int btnLocalScene
+com.iLoong.base.themebox.R$string: int btnLocalTheme
+com.iLoong.base.themebox.R$string: int btnLocalWidget
+com.iLoong.base.themebox.R$string: int btnReturn
+com.iLoong.base.themebox.R$string: int btnSetting
+com.iLoong.base.themebox.R$string: int btnShare
+com.iLoong.base.themebox.R$string: int btnUninstall
+com.iLoong.base.themebox.R$string: int changeLockWallpaper
+com.iLoong.base.themebox.R$string: int changingTheme
+com.iLoong.base.themebox.R$string: int changingWallpaper
+com.iLoong.base.themebox.R$string: int chooseLauncher
+com.iLoong.base.themebox.R$string: int circle_select
+com.iLoong.base.themebox.R$string: int circle_select_switch
+com.iLoong.base.themebox.R$string: int clearLauncher
+com.iLoong.base.themebox.R$string: int clickLock
+com.iLoong.base.themebox.R$string: int defaultFont
+com.iLoong.base.themebox.R$string: int default_theme
+com.iLoong.base.themebox.R$string: int defaulttheme
+com.iLoong.base.themebox.R$string: int delete_cancel
+com.iLoong.base.themebox.R$string: int delete_ok
+com.iLoong.base.themebox.R$string: int desktop_setting
+com.iLoong.base.themebox.R$string: int desktop_slide
+com.iLoong.base.themebox.R$string: int download_enginer
+com.iLoong.base.themebox.R$string: int effect_setting
+com.iLoong.base.themebox.R$string: int exit_launcher
+com.iLoong.base.themebox.R$string: int feedback
+com.iLoong.base.themebox.R$string: int gadget_error_text
+com.iLoong.base.themebox.R$string: int getMoreLock
+com.iLoong.base.themebox.R$string: int getMoreTheme
+com.iLoong.base.themebox.R$string: int guide_help
+com.iLoong.base.themebox.R$string: int guide_install
+com.iLoong.base.themebox.R$string: int has_bought
+com.iLoong.base.themebox.R$string: int init_waitting
+com.iLoong.base.themebox.R$string: int internet_err
+com.iLoong.base.themebox.R$string: int internet_unusual
+com.iLoong.base.themebox.R$string: int is_downloading
+com.iLoong.base.themebox.R$string: int localtheme
+com.iLoong.base.themebox.R$string: int lockHome
+com.iLoong.base.themebox.R$string: int lock_apply_toast
+com.iLoong.base.themebox.R$string: int lock_wallpaper
+com.iLoong.base.themebox.R$string: int locker_setting
+com.iLoong.base.themebox.R$string: int makesure_to_delete
+com.iLoong.base.themebox.R$string: int memory_prompt
+com.iLoong.base.themebox.R$string: int menu_settings
+com.iLoong.base.themebox.R$string: int more
+com.iLoong.base.themebox.R$string: int mostly_used
+com.iLoong.base.themebox.R$string: int no_theme_to_be_replaced
+com.iLoong.base.themebox.R$string: int noneed_update
+com.iLoong.base.themebox.R$string: int notify_add_download
+com.iLoong.base.themebox.R$string: int notify_download_fail
+com.iLoong.base.themebox.R$string: int notify_download_finish
+com.iLoong.base.themebox.R$string: int notify_downloading
+com.iLoong.base.themebox.R$string: int notify_pause_download
+com.iLoong.base.themebox.R$string: int onlinetheme
+com.iLoong.base.themebox.R$string: int preferClickLock
+com.iLoong.base.themebox.R$string: int preferCreateShortcut
+com.iLoong.base.themebox.R$string: int preferLock
+com.iLoong.base.themebox.R$string: int preferOff
+com.iLoong.base.themebox.R$string: int preferOn
+com.iLoong.base.themebox.R$string: int preferSendDesktop
+com.iLoong.base.themebox.R$string: int preferSound
+com.iLoong.base.themebox.R$string: int preferTitle1
+com.iLoong.base.themebox.R$string: int preferTitle2
+com.iLoong.base.themebox.R$string: int preferVibrate
+com.iLoong.base.themebox.R$string: int preferlockHomeTitle
+com.iLoong.base.themebox.R$string: int previewIntroduction
+com.iLoong.base.themebox.R$string: int previewLockSize
+com.iLoong.base.themebox.R$string: int previewSize
+com.iLoong.base.themebox.R$string: int previewThemeSize
+com.iLoong.base.themebox.R$string: int price_free
+com.iLoong.base.themebox.R$string: int pull_to_refresh_footer_pull_label
+com.iLoong.base.themebox.R$string: int pull_to_refresh_footer_refreshing_label
+com.iLoong.base.themebox.R$string: int pull_to_refresh_footer_release_label
+com.iLoong.base.themebox.R$string: int pull_to_refresh_pull_label
+com.iLoong.base.themebox.R$string: int pull_to_refresh_refreshing_label
+com.iLoong.base.themebox.R$string: int pull_to_refresh_release_label
+com.iLoong.base.themebox.R$string: int reLoadApk
+com.iLoong.base.themebox.R$string: int recommend
+com.iLoong.base.themebox.R$string: int removetheme
+com.iLoong.base.themebox.R$string: int reset_guide
+com.iLoong.base.themebox.R$string: int restart_launcher
+com.iLoong.base.themebox.R$string: int restore_desktop
+com.iLoong.base.themebox.R$string: int screen_editor
+com.iLoong.base.themebox.R$string: int sdcard_not_available
+com.iLoong.base.themebox.R$string: int select_gallery
+com.iLoong.base.themebox.R$string: int select_live_wallpaper
+com.iLoong.base.themebox.R$string: int server_begin_download
+com.iLoong.base.themebox.R$string: int server_downloadRecommend_file_name
+com.iLoong.base.themebox.R$string: int server_download_fail
+com.iLoong.base.themebox.R$string: int server_download_file_name
+com.iLoong.base.themebox.R$string: int server_download_finish
+com.iLoong.base.themebox.R$string: int server_downloading
+com.iLoong.base.themebox.R$string: int set_lock_wallpaper
+com.iLoong.base.themebox.R$string: int setwallpaper
+com.iLoong.base.themebox.R$string: int shake_wallpaper
+com.iLoong.base.themebox.R$string: int shake_wallpaper_description
+com.iLoong.base.themebox.R$string: int shake_wallpaper_not_supported
+com.iLoong.base.themebox.R$string: int shareSubject
+com.iLoong.base.themebox.R$string: int shareText
+com.iLoong.base.themebox.R$string: int share_friends
+com.iLoong.base.themebox.R$string: int soft_update_cancel
+com.iLoong.base.themebox.R$string: int soft_update_checking
+com.iLoong.base.themebox.R$string: int soft_update_info
+com.iLoong.base.themebox.R$string: int soft_update_later
+com.iLoong.base.themebox.R$string: int soft_update_no
+com.iLoong.base.themebox.R$string: int soft_update_title
+com.iLoong.base.themebox.R$string: int soft_update_updatebtn
+com.iLoong.base.themebox.R$string: int soft_updating
+com.iLoong.base.themebox.R$string: int software_manager
+com.iLoong.base.themebox.R$string: int system_setting
+com.iLoong.base.themebox.R$string: int system_theme
+com.iLoong.base.themebox.R$string: int system_widget
+com.iLoong.base.themebox.R$string: int textDownloading
+com.iLoong.base.themebox.R$string: int textEffect
+com.iLoong.base.themebox.R$string: int textFont
+com.iLoong.base.themebox.R$string: int textIntroduction
+com.iLoong.base.themebox.R$string: int textLock
+com.iLoong.base.themebox.R$string: int textLockSize
+com.iLoong.base.themebox.R$string: int textPause
+com.iLoong.base.themebox.R$string: int textPreview
+com.iLoong.base.themebox.R$string: int textScene
+com.iLoong.base.themebox.R$string: int textSdCardNotPrepare
+com.iLoong.base.themebox.R$string: int textTheme
+com.iLoong.base.themebox.R$string: int textWallpaper
+com.iLoong.base.themebox.R$string: int textWidget
+com.iLoong.base.themebox.R$string: int text_lcoal_Fonts
+com.iLoong.base.themebox.R$string: int text_lcoal_Wallpapers
+com.iLoong.base.themebox.R$string: int theme
+com.iLoong.base.themebox.R$string: int theme_box_name
+com.iLoong.base.themebox.R$string: int theme_change
+com.iLoong.base.themebox.R$string: int theme_price
+com.iLoong.base.themebox.R$string: int theme_select
+com.iLoong.base.themebox.R$string: int themeauthor
+com.iLoong.base.themebox.R$string: int themedata
+com.iLoong.base.themebox.R$string: int themefeedback
+com.iLoong.base.themebox.R$string: int themetype
+com.iLoong.base.themebox.R$string: int themeversion
+com.iLoong.base.themebox.R$string: int thumbImage
+com.iLoong.base.themebox.R$string: int timeStyle
+com.iLoong.base.themebox.R$string: int title_activity_main
+com.iLoong.base.themebox.R$string: int title_activity_setting
+com.iLoong.base.themebox.R$string: int toastPreviewApply
+com.iLoong.base.themebox.R$string: int toast_setwallpaper_success
+com.iLoong.base.themebox.R$string: int unknown
+com.iLoong.base.themebox.R$string: int update_err
+com.iLoong.base.themebox.R$string: int update_feedback
+com.iLoong.base.themebox.R$string: int version_update
+com.iLoong.base.themebox.R$string: int vibrate_on_long_click
+com.iLoong.base.themebox.R$string: int vibrator
+com.iLoong.base.themebox.R$string: int wallpaper
+com.iLoong.base.themebox.R$string: int wallpaper_live
+com.iLoong.base.themebox.R$string: int wallpaper_static
+com.iLoong.base.themebox.R$string: int widget_local_click_toast
+com.iLoong.base.themebox.R$string: int zheshanlock
+com.iLoong.base.themebox.R$string: int zorespace
+com.iLoong.base.themebox.R$style: int AppTheme
+com.iLoong.base.themebox.R$style: int MainTheme
+com.iLoong.base.themebox.R$style: int activityTheme
+com.iLoong.base.themebox.R$xml: int lock_home
+com.iLoong.base.themebox.R$xml: int lock_setting
+com.tencent.connect.avatar.ImageActivity
+com.tencent.connect.avatar.ImageActivity: ImageActivity()
+com.tencent.connect.avatar.b
+com.tencent.connect.avatar.b: b(android.content.Context)
+com.tencent.connect.avatar.b: b(android.content.Context,android.util.AttributeSet)
+com.tencent.connect.avatar.b: void setImageBitmap(android.graphics.Bitmap)
+com.tencent.connect.avatar.g
+com.tencent.connect.avatar.g: g(android.content.Context)
+com.tencent.connect.avatar.g: g(android.content.Context,android.util.AttributeSet)
+com.tencent.connect.common.AssistActivity
+com.tencent.connect.common.AssistActivity: AssistActivity()
+com.tencent.connect.dataprovider.DataType$TextAndMediaPath
+com.tencent.connect.dataprovider.DataType$TextAndMediaPath: android.os.Parcelable$Creator CREATOR
+com.tencent.connect.dataprovider.DataType$TextOnly
+com.tencent.connect.dataprovider.DataType$TextOnly: android.os.Parcelable$Creator CREATOR
+com.tencent.map.b.f$c
+com.tencent.open.b.a
+com.tencent.open.b.a: a(android.content.Context)
+com.tencent.open.b.a: a(android.content.Context,android.util.AttributeSet)
+com.tencent.open.weiyun.FileManager$WeiyunFileType: com.tencent.open.weiyun.FileManager$WeiyunFileType[] values()
+com.tencent.open.weiyun.FileManager$WeiyunFileType: com.tencent.open.weiyun.FileManager$WeiyunFileType valueOf(java.lang.String)
+com.tencent.open.yyb.AppbarActivity
+com.tencent.open.yyb.AppbarActivity: AppbarActivity()
+com.tencent.open.yyb.AppbarActivity: void onClick(android.view.View)
+com.tencent.open.yyb.ShareModel
+com.tencent.open.yyb.ShareModel: android.os.Parcelable$Creator CREATOR
+com.tencent.open.yyb.TitleBar
+com.tencent.open.yyb.TitleBar: TitleBar(android.content.Context)
+com.tencent.open.yyb.TitleBar: void setTitle(java.lang.String)
+com.tencent.stat.EasyActivity
+com.tencent.stat.EasyListActivity
+com.tencent.stat.StatNativeCrashReport
+com.tencent.stat.StatNativeCrashReport: java.lang.String stringFromJNI()
+com.tencent.stat.StatNativeCrashReport: boolean initJNICrash(java.lang.String)
+com.tencent.stat.StatNativeCrashReport: void enableNativeCrashDebug(boolean)
+com.tencent.stat.StatNativeCrashReport: void enableNativeCrash(boolean)
+com.tencent.stat.StatNativeCrashReport: java.lang.String makeJniCrash()
+com.tencent.stat.StatReportStrategy: com.tencent.stat.StatReportStrategy[] values()
+com.tencent.stat.StatReportStrategy: com.tencent.stat.StatReportStrategy valueOf(java.lang.String)
+com.tencent.tauth.AuthActivity
+com.tencent.tauth.AuthActivity: AuthActivity()
+com.umeng.analytics.Gender: com.umeng.analytics.Gender[] values()
+com.umeng.analytics.Gender: com.umeng.analytics.Gender valueOf(java.lang.String)
+com.umeng.analytics.onlineconfig.b: b(org.json.JSONObject)
+com.umeng.analytics.social.UMPlatformData$GENDER: com.umeng.analytics.social.UMPlatformData$GENDER[] values()
+com.umeng.analytics.social.UMPlatformData$GENDER: com.umeng.analytics.social.UMPlatformData$GENDER valueOf(java.lang.String)
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia[] values()
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia valueOf(java.lang.String)
+com.umeng.fb.ContactActivity
+com.umeng.fb.ContactActivity: ContactActivity()
+com.umeng.fb.ConversationActivity
+com.umeng.fb.ConversationActivity: ConversationActivity()
+com.umeng.fb.model.DevReply: DevReply(org.json.JSONObject)
+com.umeng.fb.model.Reply$STATUS: com.umeng.fb.model.Reply$STATUS[] values()
+com.umeng.fb.model.Reply$STATUS: com.umeng.fb.model.Reply$STATUS valueOf(java.lang.String)
+com.umeng.fb.model.Reply$TYPE: com.umeng.fb.model.Reply$TYPE[] values()
+com.umeng.fb.model.Reply$TYPE: com.umeng.fb.model.Reply$TYPE valueOf(java.lang.String)
+com.umeng.update.UpdateDialogActivity
+com.umeng.update.UpdateDialogActivity: UpdateDialogActivity()
+com.umeng.update.UpdateResponse: UpdateResponse(org.json.JSONObject)
+com.umeng.update.net.DownloadingService
+com.umeng.update.net.DownloadingService: DownloadingService()
+com.umeng.update.net.i: i(org.json.JSONObject)
+com.umeng.update.net.i$a: com.umeng.update.net.i$a[] values()
+com.umeng.update.net.i$a: com.umeng.update.net.i$a valueOf(java.lang.String)
+com.umeng.update.net.j$b: com.umeng.update.net.j$b[] values()
+com.umeng.update.net.j$b: com.umeng.update.net.j$b valueOf(java.lang.String)
+com.umeng.update.util.DeltaUpdate
+com.umeng.update.util.DeltaUpdate: int bspatch(java.lang.String,java.lang.String,java.lang.String)
+u.aly.ag: u.aly.ag[] values()
+u.aly.ag: u.aly.ag valueOf(java.lang.String)
+u.aly.ah$e: u.aly.ah$e[] values()
+u.aly.ah$e: u.aly.ah$e valueOf(java.lang.String)
+u.aly.ai$e: u.aly.ai$e[] values()
+u.aly.ai$e: u.aly.ai$e valueOf(java.lang.String)
+u.aly.aj$e: u.aly.aj$e[] values()
+u.aly.aj$e: u.aly.aj$e valueOf(java.lang.String)
+u.aly.ak$e: u.aly.ak$e[] values()
+u.aly.ak$e: u.aly.ak$e valueOf(java.lang.String)
+u.aly.al$e: u.aly.al$e[] values()
+u.aly.al$e: u.aly.al$e valueOf(java.lang.String)
+u.aly.am$e: u.aly.am$e[] values()
+u.aly.am$e: u.aly.am$e valueOf(java.lang.String)
+u.aly.an: u.aly.an[] values()
+u.aly.an: u.aly.an valueOf(java.lang.String)
+u.aly.ao$e: u.aly.ao$e[] values()
+u.aly.ao$e: u.aly.ao$e valueOf(java.lang.String)
+u.aly.ap: u.aly.ap[] values()
+u.aly.ap: u.aly.ap valueOf(java.lang.String)
+u.aly.aq$e: u.aly.aq$e[] values()
+u.aly.aq$e: u.aly.aq$e valueOf(java.lang.String)
+u.aly.ar$e: u.aly.ar$e[] values()
+u.aly.ar$e: u.aly.ar$e valueOf(java.lang.String)
+u.aly.as$e: u.aly.as$e[] values()
+u.aly.as$e: u.aly.as$e valueOf(java.lang.String)
+u.aly.at$e: u.aly.at$e[] values()
+u.aly.at$e: u.aly.at$e valueOf(java.lang.String)
+u.aly.au$e: u.aly.au$e[] values()
+u.aly.au$e: u.aly.au$e valueOf(java.lang.String)
+u.aly.av$e: u.aly.av$e[] values()
+u.aly.av$e: u.aly.av$e valueOf(java.lang.String)
+u.aly.aw$e: u.aly.aw$e[] values()
+u.aly.aw$e: u.aly.aw$e valueOf(java.lang.String)
+u.aly.ax$e: u.aly.ax$e[] values()
+u.aly.ax$e: u.aly.ax$e valueOf(java.lang.String)
+u.aly.ay$e: u.aly.ay$e[] values()
+u.aly.ay$e: u.aly.ay$e valueOf(java.lang.String)
+u.aly.az$a: u.aly.az$a[] values()
+u.aly.az$a: u.aly.az$a valueOf(java.lang.String)
+u.aly.ba$e: u.aly.ba$e[] values()
+u.aly.ba$e: u.aly.ba$e valueOf(java.lang.String)
+u.aly.bb$e: u.aly.bb$e[] values()
+u.aly.bb$e: u.aly.bb$e valueOf(java.lang.String)
+u.aly.bc: u.aly.bc[] values()
+u.aly.bc: u.aly.bc valueOf(java.lang.String)
+u.aly.bd$e: u.aly.bd$e[] values()
+u.aly.bd$e: u.aly.bd$e valueOf(java.lang.String)
+u.aly.be$e: u.aly.be$e[] values()
+u.aly.be$e: u.aly.be$e valueOf(java.lang.String)
+u.aly.bf$e: u.aly.bf$e[] values()
+u.aly.bf$e: u.aly.bf$e valueOf(java.lang.String)
+u.aly.bg$e: u.aly.bg$e[] values()
+u.aly.bg$e: u.aly.bg$e valueOf(java.lang.String)
+u.aly.bh$e: u.aly.bh$e[] values()
+u.aly.bh$e: u.aly.bh$e valueOf(java.lang.String)
+u.aly.bn: bn(org.json.JSONObject)
+u.aly.bn$a: u.aly.bn$a[] values()
+u.aly.bn$a: u.aly.bn$a valueOf(java.lang.String)
+u.aly.bq: bq(org.json.JSONObject)
+u.fb.f: f(org.json.JSONObject)
+u.fb.f$a: u.fb.f$a[] values()
+u.fb.f$a: u.fb.f$a valueOf(java.lang.String)
+u.fb.i: i(org.json.JSONObject)
+u.fb.r: r(org.json.JSONObject)
+u.upd.f: f(org.json.JSONObject)
+u.upd.f$a: u.upd.f$a[] values()
+u.upd.f$a: u.upd.f$a valueOf(java.lang.String)
+u.upd.i: i(org.json.JSONObject)
